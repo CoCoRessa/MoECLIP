@@ -1,0 +1,774 @@
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000001_0000000021.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000001_0000000021.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000002_0000000348.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000002_0000000348.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000003_0000000051.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000003_0000000051.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000004_0000000243.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000004_0000000243.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000005_0000000369.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000005_0000000369.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000006_0000000172.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000006_0000000172.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000007_0000000321.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000007_0000000321.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000008_0000000189.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000008_0000000189.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000009_0000000334.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000009_0000000334.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000010_0000000323.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000010_0000000323.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000011_0000000262.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000011_0000000262.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000012_0000000056.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000012_0000000056.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000013_0000000043.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000013_0000000043.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000014_0000000385.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000014_0000000385.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000015_0000000308.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000015_0000000308.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000016_0000000067.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000016_0000000067.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000017_0000000195.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000017_0000000195.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000018_0000000246.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000018_0000000246.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000019_0000000101.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000019_0000000101.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000020_0000000127.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000020_0000000127.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000021_0000000380.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000021_0000000380.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000022_0000000132.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000022_0000000132.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000023_0000000044.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000023_0000000044.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000024_0000000023.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000024_0000000023.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000025_0000000293.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000025_0000000293.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000026_0000000381.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000026_0000000381.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000027_0000000184.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000027_0000000184.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000028_0000000333.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000028_0000000333.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000029_0000000301.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000029_0000000301.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000030_0000000128.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000030_0000000128.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000031_0000000145.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000031_0000000145.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000032_0000000315.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000032_0000000315.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000033_0000000047.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000033_0000000047.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000034_0000000055.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000034_0000000055.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000035_0000000113.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000035_0000000113.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000036_0000000353.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000036_0000000353.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000037_0000000299.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000037_0000000299.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000038_0000000332.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000038_0000000332.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000039_0000000103.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000039_0000000103.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000040_0000000245.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000040_0000000245.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000041_0000000150.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000041_0000000150.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000042_0000000149.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000042_0000000149.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000043_0000000330.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000043_0000000330.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000044_0000000204.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000044_0000000204.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000045_0000000014.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000045_0000000014.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000046_0000000041.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000046_0000000041.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000047_0000000347.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000047_0000000347.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000048_0000000360.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000048_0000000360.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000049_0000000203.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000049_0000000203.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000050_0000000109.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000050_0000000109.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000051_0000000082.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000051_0000000082.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000052_0000000160.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000052_0000000160.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000053_0000000071.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000053_0000000071.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000054_0000000030.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000054_0000000030.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000055_0000000174.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000055_0000000174.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000056_0000000049.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000056_0000000049.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000057_0000000309.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000057_0000000309.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000058_0000000008.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000058_0000000008.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000059_0000000099.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000059_0000000099.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000060_0000000349.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000060_0000000349.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000061_0000000277.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000061_0000000277.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000062_0000000386.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000062_0000000386.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000063_0000000271.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000063_0000000271.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000064_0000000367.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000064_0000000367.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000065_0000000076.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000065_0000000076.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000066_0000000208.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000066_0000000208.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000067_0000000066.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000067_0000000066.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000068_0000000267.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000068_0000000267.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000069_0000000083.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000069_0000000083.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000070_0000000035.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000070_0000000035.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000071_0000000225.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000071_0000000225.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000072_0000000363.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000072_0000000363.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000073_0000000092.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000073_0000000092.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000074_0000000013.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000074_0000000013.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000075_0000000382.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000075_0000000382.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000076_0000000024.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000076_0000000024.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000077_0000000371.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000077_0000000371.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000078_0000000009.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000078_0000000009.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000079_0000000241.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000079_0000000241.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000080_0000000154.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000080_0000000154.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000081_0000000209.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000081_0000000209.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000082_0000000210.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000082_0000000210.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000083_0000000167.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000083_0000000167.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000084_0000000075.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000084_0000000075.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000085_0000000191.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000085_0000000191.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000086_0000000222.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000086_0000000222.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000087_0000000289.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000087_0000000289.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000088_0000000340.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000088_0000000340.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000089_0000000070.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000089_0000000070.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000090_0000000042.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000090_0000000042.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000091_0000000255.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000091_0000000255.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000092_0000000052.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000092_0000000052.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000093_0000000085.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000093_0000000085.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000094_0000000139.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000094_0000000139.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000095_0000000040.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000095_0000000040.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000096_0000000157.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000096_0000000157.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000097_0000000354.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000097_0000000354.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000098_0000000037.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000098_0000000037.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000099_0000000219.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000099_0000000219.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000100_0000000144.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000100_0000000144.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000101_0000000365.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000101_0000000365.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000102_0000000000.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000102_0000000000.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000103_0000000296.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000103_0000000296.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000104_0000000226.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000104_0000000226.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000105_0000000003.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000105_0000000003.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000106_0000000239.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000106_0000000239.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000107_0000000317.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000107_0000000317.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000108_0000000352.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000108_0000000352.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000109_0000000221.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000109_0000000221.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000110_0000000251.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000110_0000000251.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000111_0000000305.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000111_0000000305.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000112_0000000095.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000112_0000000095.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000113_0000000069.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000113_0000000069.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000114_0000000327.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000114_0000000327.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000115_0000000342.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000115_0000000342.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000116_0000000130.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000116_0000000130.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000117_0000000292.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000117_0000000292.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000118_0000000100.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000118_0000000100.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000119_0000000306.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000119_0000000306.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000120_0000000247.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000120_0000000247.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000121_0000000126.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000121_0000000126.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000122_0000000186.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000122_0000000186.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000123_0000000087.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000123_0000000087.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000124_0000000254.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000124_0000000254.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000125_0000000235.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000125_0000000235.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000126_0000000343.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000126_0000000343.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000127_0000000319.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000127_0000000319.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000128_0000000115.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000128_0000000115.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000129_0000000202.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000129_0000000202.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000130_0000000117.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000130_0000000117.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000131_0000000084.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000131_0000000084.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000132_0000000135.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000132_0000000135.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000133_0000000338.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000133_0000000338.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000134_0000000111.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000134_0000000111.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000135_0000000175.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000135_0000000175.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000136_0000000218.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000136_0000000218.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000137_0000000147.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000137_0000000147.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000138_0000000344.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000138_0000000344.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000139_0000000287.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000139_0000000287.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000140_0000000244.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000140_0000000244.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000141_0000000261.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000141_0000000261.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000142_0000000384.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000142_0000000384.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000143_0000000311.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000143_0000000311.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000144_0000000283.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000144_0000000283.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000145_0000000173.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000145_0000000173.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000146_0000000093.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000146_0000000093.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000147_0000000148.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000147_0000000148.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000148_0000000224.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000148_0000000224.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000149_0000000146.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000149_0000000146.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000150_0000000029.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000150_0000000029.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000151_0000000290.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000151_0000000290.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000152_0000000256.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000152_0000000256.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000153_0000000214.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000153_0000000214.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000154_0000000102.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000154_0000000102.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000155_0000000002.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000155_0000000002.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_I-metal-defect-000156_0000000119.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_I-metal-defect-000156_0000000119.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000796_0000000159.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000796_0000000159.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000797_0000000325.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000797_0000000325.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000798_0000000328.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000798_0000000328.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000799_0000000240.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000799_0000000240.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000800_0000000058.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000800_0000000058.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000801_0000000272.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000801_0000000272.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000802_0000000162.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000802_0000000162.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000803_0000000297.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000803_0000000297.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000804_0000000121.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000804_0000000121.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000805_0000000133.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000805_0000000133.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000806_0000000081.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000806_0000000081.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000807_0000000336.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000807_0000000336.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000808_0000000064.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000808_0000000064.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000809_0000000170.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000809_0000000170.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000810_0000000237.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000810_0000000237.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000811_0000000294.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000811_0000000294.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000812_0000000176.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000812_0000000176.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000813_0000000073.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000813_0000000073.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000814_0000000284.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000814_0000000284.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000815_0000000205.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000815_0000000205.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000816_0000000187.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000816_0000000187.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000817_0000000183.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000817_0000000183.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000818_0000000196.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000818_0000000196.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000819_0000000233.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000819_0000000233.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000820_0000000298.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000820_0000000298.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000821_0000000212.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000821_0000000212.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000822_0000000169.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000822_0000000169.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000823_0000000357.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000823_0000000357.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000824_0000000094.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000824_0000000094.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000825_0000000263.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000825_0000000263.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000826_0000000295.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000826_0000000295.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000827_0000000158.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000827_0000000158.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000828_0000000142.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000828_0000000142.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000829_0000000198.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000829_0000000198.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000830_0000000373.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000830_0000000373.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000831_0000000122.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000831_0000000122.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000832_0000000152.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000832_0000000152.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000833_0000000268.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000833_0000000268.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000834_0000000182.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000834_0000000182.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000835_0000000378.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000835_0000000378.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000836_0000000192.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000836_0000000192.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000837_0000000140.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000837_0000000140.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000838_0000000068.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000838_0000000068.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000839_0000000004.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000839_0000000004.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000840_0000000036.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000840_0000000036.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000841_0000000137.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000841_0000000137.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000842_0000000046.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000842_0000000046.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000843_0000000259.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000843_0000000259.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000844_0000000045.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000844_0000000045.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000845_0000000181.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000845_0000000181.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000846_0000000366.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000846_0000000366.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000847_0000000072.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000847_0000000072.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000848_0000000123.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000848_0000000123.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000849_0000000364.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000849_0000000364.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000850_0000000033.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000850_0000000033.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000851_0000000278.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000851_0000000278.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000852_0000000091.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000852_0000000091.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000853_0000000356.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000853_0000000356.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000854_0000000269.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000854_0000000269.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000855_0000000324.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000855_0000000324.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000856_0000000185.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000856_0000000185.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000857_0000000264.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000857_0000000264.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000858_0000000273.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000858_0000000273.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000859_0000000355.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000859_0000000355.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000860_0000000193.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000860_0000000193.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000861_0000000242.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000861_0000000242.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000862_0000000018.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000862_0000000018.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000863_0000000238.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000863_0000000238.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000864_0000000223.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000864_0000000223.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000865_0000000307.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000865_0000000307.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000866_0000000266.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000866_0000000266.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000867_0000000250.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000867_0000000250.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000868_0000000374.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000868_0000000374.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000869_0000000346.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000869_0000000346.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000870_0000000228.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000870_0000000228.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000871_0000000234.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000871_0000000234.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000872_0000000232.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000872_0000000232.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000873_0000000141.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000873_0000000141.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000874_0000000012.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000874_0000000012.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000875_0000000038.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000875_0000000038.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000876_0000000048.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000876_0000000048.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000877_0000000039.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000877_0000000039.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000878_0000000335.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000878_0000000335.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000879_0000000143.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000879_0000000143.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000880_0000000007.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000880_0000000007.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000881_0000000131.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000881_0000000131.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000882_0000000050.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000882_0000000050.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000883_0000000260.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000883_0000000260.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000884_0000000028.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000884_0000000028.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000885_0000000022.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000885_0000000022.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000886_0000000220.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000886_0000000220.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000887_0000000015.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000887_0000000015.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000888_0000000179.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000888_0000000179.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000889_0000000314.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000889_0000000314.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000890_0000000276.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000890_0000000276.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000891_0000000303.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000891_0000000303.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000892_0000000274.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000892_0000000274.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000893_0000000001.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000893_0000000001.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000894_0000000265.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000894_0000000265.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000895_0000000275.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000895_0000000275.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000896_0000000231.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000896_0000000231.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000897_0000000379.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000897_0000000379.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000898_0000000375.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000898_0000000375.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000899_0000000155.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000899_0000000155.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000900_0000000006.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000900_0000000006.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000901_0000000079.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000901_0000000079.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000902_0000000097.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000902_0000000097.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000903_0000000252.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000903_0000000252.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000904_0000000286.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000904_0000000286.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000905_0000000059.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000905_0000000059.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000906_0000000166.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000906_0000000166.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000907_0000000124.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000907_0000000124.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000908_0000000098.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000908_0000000098.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000909_0000000188.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000909_0000000188.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000910_0000000258.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000910_0000000258.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000911_0000000383.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000911_0000000383.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000912_0000000329.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000912_0000000329.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000913_0000000206.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000913_0000000206.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000914_0000000320.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000914_0000000320.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000915_0000000370.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000915_0000000370.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000916_0000000054.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000916_0000000054.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000917_0000000229.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000917_0000000229.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000918_0000000088.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000918_0000000088.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000919_0000000034.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000919_0000000034.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000920_0000000302.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000920_0000000302.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000921_0000000282.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000921_0000000282.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000922_0000000345.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000922_0000000345.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000923_0000000331.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000923_0000000331.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000924_0000000106.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000924_0000000106.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000925_0000000291.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000925_0000000291.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000926_0000000359.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000926_0000000359.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000927_0000000096.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000927_0000000096.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000928_0000000017.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000928_0000000017.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000929_0000000230.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000929_0000000230.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000930_0000000199.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000930_0000000199.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000931_0000000090.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000931_0000000090.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000932_0000000322.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000932_0000000322.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000933_0000000316.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000933_0000000316.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000934_0000000156.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000934_0000000156.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000935_0000000217.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000935_0000000217.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000936_0000000120.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000936_0000000120.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000937_0000000313.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000937_0000000313.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000938_0000000020.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000938_0000000020.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000939_0000000377.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000939_0000000377.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000940_0000000163.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000940_0000000163.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000941_0000000112.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000941_0000000112.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000942_0000000376.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000942_0000000376.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000943_0000000194.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000943_0000000194.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000944_0000000213.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000944_0000000213.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000945_0000000197.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000945_0000000197.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000946_0000000026.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000946_0000000026.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000947_0000000248.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000947_0000000248.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000948_0000000171.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000948_0000000171.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000949_0000000178.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000949_0000000178.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000950_0000000201.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000950_0000000201.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000951_0000000151.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000951_0000000151.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000952_0000000136.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000952_0000000136.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000953_0000000227.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000953_0000000227.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000954_0000000310.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000954_0000000310.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000955_0000000074.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000955_0000000074.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000956_0000000312.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000956_0000000312.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000957_0000000280.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000957_0000000280.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000958_0000000164.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000958_0000000164.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000959_0000000341.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000959_0000000341.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000960_0000000110.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000960_0000000110.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000961_0000000114.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000961_0000000114.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000962_0000000032.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000962_0000000032.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000963_0000000031.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000963_0000000031.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000964_0000000249.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000964_0000000249.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000965_0000000257.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000965_0000000257.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000966_0000000358.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000966_0000000358.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000967_0000000350.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000967_0000000350.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000968_0000000116.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000968_0000000116.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000969_0000000060.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000969_0000000060.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000970_0000000019.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000970_0000000019.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000971_0000000168.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000971_0000000168.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000972_0000000010.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000972_0000000010.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000973_0000000165.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000973_0000000165.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000974_0000000161.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000974_0000000161.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000975_0000000281.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000975_0000000281.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000976_0000000077.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000976_0000000077.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000977_0000000351.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000977_0000000351.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000978_0000000053.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000978_0000000053.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000979_0000000372.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000979_0000000372.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000980_0000000063.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000980_0000000063.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000981_0000000107.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000981_0000000107.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000982_0000000304.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000982_0000000304.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000983_0000000153.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000983_0000000153.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000984_0000000062.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000984_0000000062.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000985_0000000134.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000985_0000000134.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000986_0000000086.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000986_0000000086.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000987_0000000288.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000987_0000000288.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000988_0000000065.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000988_0000000065.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000989_0000000027.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000989_0000000027.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000990_0000000089.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000990_0000000089.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000991_0000000339.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000991_0000000339.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000992_0000000104.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000992_0000000104.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000993_0000000270.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000993_0000000270.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000994_0000000200.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000994_0000000200.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000995_0000000318.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000995_0000000318.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000996_0000000105.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000996_0000000105.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000997_0000000253.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000997_0000000253.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000998_0000000211.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000998_0000000211.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-000999_0000000285.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-000999_0000000285.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-001000_0000000118.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-001000_0000000118.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-001001_0000000337.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-001001_0000000337.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-001002_0000000207.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-001002_0000000207.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-001003_0000000080.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-001003_0000000080.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-001004_0000000279.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-001004_0000000279.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-001005_0000000061.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-001005_0000000061.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-001006_0000000177.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-001006_0000000177.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-001007_0000000236.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-001007_0000000236.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-001008_0000000190.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-001008_0000000190.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-001009_0000000326.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-001009_0000000326.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-001010_0000000361.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-001010_0000000361.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-001011_0000000108.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-001011_0000000108.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-001012_0000000138.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-001012_0000000138.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-001013_0000000016.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-001013_0000000016.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-001014_0000000005.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-001014_0000000005.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-001015_0000000125.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-001015_0000000125.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-001016_0000000129.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-001016_0000000129.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-001017_0000000368.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-001017_0000000368.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-001018_0000000216.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-001018_0000000216.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-001019_0000000078.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-001019_0000000078.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-001020_0000000215.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-001020_0000000215.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-001021_0000000057.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-001021_0000000057.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-001022_0000000362.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-001022_0000000362.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-001023_0000000300.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-001023_0000000300.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-001024_0000000025.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-001024_0000000025.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-001025_0000000011.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-001025_0000000011.png"}
+{"image_path": "Metal15/test/anomaly/RSDD_II-metal-defect-001026_0000000180.bmp", "label": 1, "class_name": "RSDD", "mask_path": "Metal15/ground_truth/anomaly/RSDD_II-metal-defect-001026_0000000180.png"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000159_0000000587.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000162_0000000721.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000165_0000000504.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000166_0000000704.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000167_0000000592.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000170_0000000496.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000173_0000000697.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000174_0000000522.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000175_0000000544.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000176_0000000695.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000177_0000000605.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000178_0000000588.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000185_0000000633.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000188_0000000567.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000195_0000000691.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000196_0000000470.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000200_0000000463.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000204_0000000509.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000208_0000000767.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000209_0000000642.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000211_0000000634.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000214_0000000596.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000217_0000000440.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000221_0000000430.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000223_0000000490.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000224_0000000495.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000228_0000000707.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000230_0000000696.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000232_0000000439.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000233_0000000481.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000239_0000000617.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000242_0000000626.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000243_0000000448.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000244_0000000672.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000249_0000000412.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000252_0000000771.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000257_0000000519.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000258_0000000550.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000261_0000000670.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000263_0000000604.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000264_0000000621.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000265_0000000508.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000266_0000000390.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000268_0000000557.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000269_0000000552.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000273_0000000480.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000276_0000000641.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000278_0000000444.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000280_0000000553.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000281_0000000491.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000282_0000000618.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000286_0000000499.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000287_0000000389.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000288_0000000531.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000289_0000000473.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000292_0000000611.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000295_0000000485.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000297_0000000503.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000299_0000000442.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000300_0000000565.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000302_0000000620.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000307_0000000772.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000309_0000000564.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000310_0000000421.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000311_0000000524.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000313_0000000492.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000315_0000000507.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000317_0000000494.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000323_0000000734.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000328_0000000712.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000330_0000000435.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000331_0000000406.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000333_0000000539.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000336_0000000443.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000337_0000000462.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000338_0000000748.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000341_0000000434.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000342_0000000731.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000343_0000000686.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000346_0000000429.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000347_0000000745.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000349_0000000513.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000350_0000000449.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000351_0000000682.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000354_0000000585.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000355_0000000653.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000356_0000000483.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000357_0000000645.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000362_0000000493.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000365_0000000608.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000368_0000000648.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000370_0000000640.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000375_0000000393.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000376_0000000411.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000377_0000000725.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000378_0000000446.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000379_0000000625.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000380_0000000457.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000381_0000000497.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000386_0000000447.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000387_0000000689.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000391_0000000668.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000397_0000000530.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000400_0000000563.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000402_0000000627.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000403_0000000669.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000404_0000000426.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000405_0000000534.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000407_0000000459.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000409_0000000756.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000411_0000000706.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000412_0000000717.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000413_0000000561.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000416_0000000465.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000420_0000000630.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000426_0000000703.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000427_0000000413.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000430_0000000398.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000432_0000000639.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000436_0000000391.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000438_0000000514.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000439_0000000517.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000440_0000000763.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000441_0000000662.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000444_0000000410.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000445_0000000758.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000447_0000000701.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000449_0000000619.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000450_0000000644.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000453_0000000747.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000457_0000000541.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000460_0000000773.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000461_0000000521.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000464_0000000502.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000465_0000000732.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000466_0000000614.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000468_0000000636.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000470_0000000392.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000471_0000000578.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000474_0000000635.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000475_0000000649.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000476_0000000651.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000477_0000000576.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000480_0000000433.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000488_0000000681.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000491_0000000394.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000493_0000000431.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000494_0000000628.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000498_0000000710.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000499_0000000577.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000500_0000000730.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000501_0000000571.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000502_0000000525.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000507_0000000687.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000511_0000000464.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000513_0000000523.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000514_0000000714.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000519_0000000581.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000527_0000000768.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000528_0000000769.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000531_0000000582.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000532_0000000657.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000534_0000000527.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000536_0000000436.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000537_0000000655.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000538_0000000744.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000541_0000000709.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000542_0000000441.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000545_0000000759.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000546_0000000711.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000547_0000000533.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000548_0000000474.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000550_0000000722.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000551_0000000551.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000553_0000000545.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000554_0000000535.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000561_0000000679.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000562_0000000750.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000564_0000000597.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000565_0000000396.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000572_0000000387.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000574_0000000694.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000576_0000000733.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000583_0000000479.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000585_0000000427.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000588_0000000650.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000592_0000000723.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000593_0000000735.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000594_0000000546.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000595_0000000652.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000596_0000000460.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000597_0000000418.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000598_0000000562.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000599_0000000397.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000601_0000000543.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000603_0000000395.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000604_0000000702.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000606_0000000487.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000607_0000000437.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000608_0000000705.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000610_0000000739.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000614_0000000740.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000617_0000000579.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000618_0000000713.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000621_0000000515.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000622_0000000593.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000623_0000000555.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000624_0000000688.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000629_0000000656.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000631_0000000660.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000632_0000000666.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000635_0000000754.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000638_0000000610.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000640_0000000458.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000641_0000000452.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000642_0000000420.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000644_0000000511.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000645_0000000595.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000646_0000000737.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000647_0000000475.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000652_0000000425.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000653_0000000445.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000654_0000000469.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000657_0000000408.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000659_0000000729.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000660_0000000505.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000668_0000000538.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000669_0000000476.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000672_0000000471.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000673_0000000556.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000676_0000000692.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000679_0000000615.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000682_0000000591.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000683_0000000684.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000685_0000000432.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000687_0000000602.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000689_0000000456.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000690_0000000559.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000691_0000000606.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000696_0000000549.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000699_0000000664.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000702_0000000598.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000705_0000000764.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000712_0000000762.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000713_0000000746.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000715_0000000631.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000716_0000000607.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000717_0000000409.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000719_0000000752.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000722_0000000486.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000724_0000000658.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000725_0000000450.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000730_0000000414.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000731_0000000405.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000734_0000000743.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000736_0000000690.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000740_0000000518.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000742_0000000461.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000743_0000000700.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000744_0000000741.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000752_0000000570.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000756_0000000600.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000758_0000000586.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000760_0000000500.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000762_0000000609.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000763_0000000673.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000764_0000000580.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000772_0000000455.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000774_0000000404.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000776_0000000482.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000778_0000000477.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000779_0000000526.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000780_0000000736.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000787_0000000749.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000788_0000000454.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000789_0000000415.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000790_0000000554.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000791_0000000548.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000792_0000000572.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_I-metal-null-000793_0000000674.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001027_0000000419.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001028_0000000665.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001030_0000000728.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001033_0000000667.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001037_0000000683.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001038_0000000654.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001042_0000000388.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001044_0000000590.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001045_0000000671.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001047_0000000678.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001048_0000000699.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001049_0000000601.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001051_0000000623.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001052_0000000622.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001053_0000000612.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001055_0000000661.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001057_0000000468.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001058_0000000638.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001060_0000000766.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001067_0000000637.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001068_0000000599.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001070_0000000438.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001071_0000000761.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001074_0000000528.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001075_0000000466.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001078_0000000770.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001082_0000000676.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001083_0000000542.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001084_0000000583.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001086_0000000663.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001087_0000000407.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001090_0000000632.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001092_0000000536.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001094_0000000677.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001095_0000000422.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001096_0000000569.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001099_0000000529.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001103_0000000646.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001110_0000000403.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001111_0000000516.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001112_0000000680.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001113_0000000451.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001114_0000000484.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001115_0000000558.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001117_0000000659.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001120_0000000719.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001121_0000000724.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001123_0000000453.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001124_0000000510.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001126_0000000428.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001127_0000000603.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001128_0000000400.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001130_0000000624.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001132_0000000498.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001135_0000000727.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001136_0000000726.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001138_0000000566.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001141_0000000613.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001147_0000000708.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001151_0000000675.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001153_0000000488.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001156_0000000647.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001158_0000000416.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001159_0000000472.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001163_0000000424.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001164_0000000489.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001165_0000000501.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001166_0000000685.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001167_0000000765.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001168_0000000720.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001170_0000000547.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001172_0000000417.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001173_0000000423.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001174_0000000751.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001181_0000000467.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001184_0000000589.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001187_0000000616.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001188_0000000478.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001189_0000000738.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001190_0000000575.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001195_0000000574.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001201_0000000584.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001205_0000000520.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001207_0000000760.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001208_0000000715.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001209_0000000755.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001215_0000000537.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001217_0000000643.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001220_0000000693.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001221_0000000757.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001226_0000000512.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001229_0000000401.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001232_0000000573.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001233_0000000629.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001236_0000000568.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001238_0000000402.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001240_0000000753.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001242_0000000506.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001243_0000000718.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001245_0000000532.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001247_0000000742.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001252_0000000560.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001253_0000000540.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001254_0000000594.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001255_0000000399.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001260_0000000698.bmp", "label": 0, "class_name": "RSDD"}
+{"image_path": "Metal15/test/good/RSDD_II-metal-null-001262_0000000716.bmp", "label": 0, "class_name": "RSDD"}

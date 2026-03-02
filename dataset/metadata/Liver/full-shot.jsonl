@@ -1,0 +1,1493 @@
+{"image_path": "test/Ungood/img/4_387.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_387.png"}
+{"image_path": "test/Ungood/img/10_462.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/10_462.png"}
+{"image_path": "test/Ungood/img/4_379.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_379.png"}
+{"image_path": "test/Ungood/img/8_468.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/8_468.png"}
+{"image_path": "test/Ungood/img/4_543.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_543.png"}
+{"image_path": "test/Ungood/img/8_411.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/8_411.png"}
+{"image_path": "test/Ungood/img/7_359.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/7_359.png"}
+{"image_path": "test/Ungood/img/4_444.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_444.png"}
+{"image_path": "test/Ungood/img/6_366.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/6_366.png"}
+{"image_path": "test/Ungood/img/7_414.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/7_414.png"}
+{"image_path": "test/Ungood/img/10_348.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/10_348.png"}
+{"image_path": "test/Ungood/img/9_398.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/9_398.png"}
+{"image_path": "test/Ungood/img/7_411.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/7_411.png"}
+{"image_path": "test/Ungood/img/4_572.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_572.png"}
+{"image_path": "test/Ungood/img/4_415.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_415.png"}
+{"image_path": "test/Ungood/img/4_466.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_466.png"}
+{"image_path": "test/Ungood/img/4_368.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_368.png"}
+{"image_path": "test/Ungood/img/10_457.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/10_457.png"}
+{"image_path": "test/Ungood/img/7_374.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/7_374.png"}
+{"image_path": "test/Ungood/img/9_507.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/9_507.png"}
+{"image_path": "test/Ungood/img/9_399.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/9_399.png"}
+{"image_path": "test/Ungood/img/6_343.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/6_343.png"}
+{"image_path": "test/Ungood/img/8_475.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/8_475.png"}
+{"image_path": "test/Ungood/img/4_472.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_472.png"}
+{"image_path": "test/Ungood/img/6_451.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/6_451.png"}
+{"image_path": "test/Ungood/img/8_424.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/8_424.png"}
+{"image_path": "test/Ungood/img/10_469.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/10_469.png"}
+{"image_path": "test/Ungood/img/9_505.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/9_505.png"}
+{"image_path": "test/Ungood/img/10_337.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/10_337.png"}
+{"image_path": "test/Ungood/img/8_380.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/8_380.png"}
+{"image_path": "test/Ungood/img/5_456.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/5_456.png"}
+{"image_path": "test/Ungood/img/4_454.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_454.png"}
+{"image_path": "test/Ungood/img/2_467.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/2_467.png"}
+{"image_path": "test/Ungood/img/4_409.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_409.png"}
+{"image_path": "test/Ungood/img/10_354.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/10_354.png"}
+{"image_path": "test/Ungood/img/4_588.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_588.png"}
+{"image_path": "test/Ungood/img/9_430.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/9_430.png"}
+{"image_path": "test/Ungood/img/2_457.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/2_457.png"}
+{"image_path": "test/Ungood/img/4_400.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_400.png"}
+{"image_path": "test/Ungood/img/4_546.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_546.png"}
+{"image_path": "test/Ungood/img/10_350.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/10_350.png"}
+{"image_path": "test/Ungood/img/4_443.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_443.png"}
+{"image_path": "test/Ungood/img/4_503.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_503.png"}
+{"image_path": "test/Ungood/img/9_506.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/9_506.png"}
+{"image_path": "test/Ungood/img/4_395.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_395.png"}
+{"image_path": "test/Ungood/img/8_412.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/8_412.png"}
+{"image_path": "test/Ungood/img/3_363.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/3_363.png"}
+{"image_path": "test/Ungood/img/2_461.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/2_461.png"}
+{"image_path": "test/Ungood/img/4_516.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_516.png"}
+{"image_path": "test/Ungood/img/6_479.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/6_479.png"}
+{"image_path": "test/Ungood/img/4_419.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_419.png"}
+{"image_path": "test/Ungood/img/7_409.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/7_409.png"}
+{"image_path": "test/Ungood/img/6_465.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/6_465.png"}
+{"image_path": "test/Ungood/img/7_408.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/7_408.png"}
+{"image_path": "test/Ungood/img/4_363.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_363.png"}
+{"image_path": "test/Ungood/img/10_458.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/10_458.png"}
+{"image_path": "test/Ungood/img/4_370.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_370.png"}
+{"image_path": "test/Ungood/img/8_395.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/8_395.png"}
+{"image_path": "test/Ungood/img/6_400.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/6_400.png"}
+{"image_path": "test/Ungood/img/8_370.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/8_370.png"}
+{"image_path": "test/Ungood/img/8_368.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/8_368.png"}
+{"image_path": "test/Ungood/img/8_420.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/8_420.png"}
+{"image_path": "test/Ungood/img/4_551.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_551.png"}
+{"image_path": "test/Ungood/img/4_459.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_459.png"}
+{"image_path": "test/Ungood/img/4_489.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_489.png"}
+{"image_path": "test/Ungood/img/10_372.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/10_372.png"}
+{"image_path": "test/Ungood/img/9_384.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/9_384.png"}
+{"image_path": "test/Ungood/img/10_343.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/10_343.png"}
+{"image_path": "test/Ungood/img/7_375.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/7_375.png"}
+{"image_path": "test/Ungood/img/4_537.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_537.png"}
+{"image_path": "test/Ungood/img/9_379.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/9_379.png"}
+{"image_path": "test/Ungood/img/8_387.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/8_387.png"}
+{"image_path": "test/Ungood/img/8_401.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/8_401.png"}
+{"image_path": "test/Ungood/img/7_483.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/7_483.png"}
+{"image_path": "test/Ungood/img/2_460.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/2_460.png"}
+{"image_path": "test/Ungood/img/6_376.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/6_376.png"}
+{"image_path": "test/Ungood/img/4_475.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_475.png"}
+{"image_path": "test/Ungood/img/2_463.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/2_463.png"}
+{"image_path": "test/Ungood/img/6_381.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/6_381.png"}
+{"image_path": "test/Ungood/img/7_415.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/7_415.png"}
+{"image_path": "test/Ungood/img/10_388.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/10_388.png"}
+{"image_path": "test/Ungood/img/4_560.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_560.png"}
+{"image_path": "test/Ungood/img/4_525.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_525.png"}
+{"image_path": "test/Ungood/img/4_396.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_396.png"}
+{"image_path": "test/Ungood/img/4_428.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_428.png"}
+{"image_path": "test/Ungood/img/9_418.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/9_418.png"}
+{"image_path": "test/Ungood/img/9_416.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/9_416.png"}
+{"image_path": "test/Ungood/img/6_365.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/6_365.png"}
+{"image_path": "test/Ungood/img/2_462.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/2_462.png"}
+{"image_path": "test/Ungood/img/4_477.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_477.png"}
+{"image_path": "test/Ungood/img/4_410.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_410.png"}
+{"image_path": "test/Ungood/img/4_384.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_384.png"}
+{"image_path": "test/Ungood/img/8_377.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/8_377.png"}
+{"image_path": "test/Ungood/img/4_521.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_521.png"}
+{"image_path": "test/Ungood/img/4_430.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_430.png"}
+{"image_path": "test/Ungood/img/4_479.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_479.png"}
+{"image_path": "test/Ungood/img/4_445.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_445.png"}
+{"image_path": "test/Ungood/img/10_368.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/10_368.png"}
+{"image_path": "test/Ungood/img/1_63.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/1_63.png"}
+{"image_path": "test/Ungood/img/3_364.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/3_364.png"}
+{"image_path": "test/Ungood/img/10_428.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/10_428.png"}
+{"image_path": "test/Ungood/img/2_441.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/2_441.png"}
+{"image_path": "test/Ungood/img/7_389.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/7_389.png"}
+{"image_path": "test/Ungood/img/4_451.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_451.png"}
+{"image_path": "test/Ungood/img/10_377.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/10_377.png"}
+{"image_path": "test/Ungood/img/7_396.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/7_396.png"}
+{"image_path": "test/Ungood/img/4_417.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_417.png"}
+{"image_path": "test/Ungood/img/9_497.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/9_497.png"}
+{"image_path": "test/Ungood/img/5_460.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/5_460.png"}
+{"image_path": "test/Ungood/img/3_357.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/3_357.png"}
+{"image_path": "test/Ungood/img/4_474.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_474.png"}
+{"image_path": "test/Ungood/img/10_329.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/10_329.png"}
+{"image_path": "test/Ungood/img/4_449.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_449.png"}
+{"image_path": "test/Ungood/img/9_375.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/9_375.png"}
+{"image_path": "test/Ungood/img/7_378.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/7_378.png"}
+{"image_path": "test/Ungood/img/7_360.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/7_360.png"}
+{"image_path": "test/Ungood/img/4_575.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_575.png"}
+{"image_path": "test/Ungood/img/4_402.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_402.png"}
+{"image_path": "test/Ungood/img/4_491.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_491.png"}
+{"image_path": "test/Ungood/img/4_358.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_358.png"}
+{"image_path": "test/Ungood/img/4_508.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_508.png"}
+{"image_path": "test/Ungood/img/4_349.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_349.png"}
+{"image_path": "test/Ungood/img/4_453.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_453.png"}
+{"image_path": "test/Ungood/img/8_399.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/8_399.png"}
+{"image_path": "test/Ungood/img/8_390.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/8_390.png"}
+{"image_path": "test/Ungood/img/7_480.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/7_480.png"}
+{"image_path": "test/Ungood/img/4_550.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_550.png"}
+{"image_path": "test/Ungood/img/9_504.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/9_504.png"}
+{"image_path": "test/Ungood/img/4_555.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_555.png"}
+{"image_path": "test/Ungood/img/6_378.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/6_378.png"}
+{"image_path": "test/Ungood/img/4_535.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_535.png"}
+{"image_path": "test/Ungood/img/4_577.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_577.png"}
+{"image_path": "test/Ungood/img/4_518.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_518.png"}
+{"image_path": "test/Ungood/img/7_475.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/7_475.png"}
+{"image_path": "test/Ungood/img/6_369.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/6_369.png"}
+{"image_path": "test/Ungood/img/9_482.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/9_482.png"}
+{"image_path": "test/Ungood/img/4_545.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_545.png"}
+{"image_path": "test/Ungood/img/4_473.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_473.png"}
+{"image_path": "test/Ungood/img/7_403.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/7_403.png"}
+{"image_path": "test/Ungood/img/4_394.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_394.png"}
+{"image_path": "test/Ungood/img/4_392.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_392.png"}
+{"image_path": "test/Ungood/img/9_424.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/9_424.png"}
+{"image_path": "test/Ungood/img/7_385.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/7_385.png"}
+{"image_path": "test/Ungood/img/2_440.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/2_440.png"}
+{"image_path": "test/Ungood/img/7_388.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/7_388.png"}
+{"image_path": "test/Ungood/img/1_56.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/1_56.png"}
+{"image_path": "test/Ungood/img/9_378.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/9_378.png"}
+{"image_path": "test/Ungood/img/2_458.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/2_458.png"}
+{"image_path": "test/Ungood/img/10_426.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/10_426.png"}
+{"image_path": "test/Ungood/img/2_468.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/2_468.png"}
+{"image_path": "test/Ungood/img/1_62.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/1_62.png"}
+{"image_path": "test/Ungood/img/2_447.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/2_447.png"}
+{"image_path": "test/Ungood/img/4_437.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_437.png"}
+{"image_path": "test/Ungood/img/6_448.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/6_448.png"}
+{"image_path": "test/Ungood/img/4_589.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_589.png"}
+{"image_path": "test/Ungood/img/4_538.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_538.png"}
+{"image_path": "test/Ungood/img/8_394.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/8_394.png"}
+{"image_path": "test/Ungood/img/10_471.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/10_471.png"}
+{"image_path": "test/Ungood/img/8_400.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/8_400.png"}
+{"image_path": "test/Ungood/img/10_378.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/10_378.png"}
+{"image_path": "test/Ungood/img/9_396.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/9_396.png"}
+{"image_path": "test/Ungood/img/4_558.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_558.png"}
+{"image_path": "test/Ungood/img/9_502.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/9_502.png"}
+{"image_path": "test/Ungood/img/1_58.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/1_58.png"}
+{"image_path": "test/Ungood/img/8_408.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/8_408.png"}
+{"image_path": "test/Ungood/img/9_477.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/9_477.png"}
+{"image_path": "test/Ungood/img/7_386.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/7_386.png"}
+{"image_path": "test/Ungood/img/4_483.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_483.png"}
+{"image_path": "test/Ungood/img/4_360.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_360.png"}
+{"image_path": "test/Ungood/img/8_471.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/8_471.png"}
+{"image_path": "test/Ungood/img/8_477.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/8_477.png"}
+{"image_path": "test/Ungood/img/4_348.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_348.png"}
+{"image_path": "test/Ungood/img/3_370.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/3_370.png"}
+{"image_path": "test/Ungood/img/8_397.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/8_397.png"}
+{"image_path": "test/Ungood/img/9_476.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/9_476.png"}
+{"image_path": "test/Ungood/img/4_547.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_547.png"}
+{"image_path": "test/Ungood/img/4_584.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_584.png"}
+{"image_path": "test/Ungood/img/4_522.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_522.png"}
+{"image_path": "test/Ungood/img/6_477.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/6_477.png"}
+{"image_path": "test/Ungood/img/8_476.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/8_476.png"}
+{"image_path": "test/Ungood/img/1_65.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/1_65.png"}
+{"image_path": "test/Ungood/img/10_352.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/10_352.png"}
+{"image_path": "test/Ungood/img/4_528.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_528.png"}
+{"image_path": "test/Ungood/img/8_472.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/8_472.png"}
+{"image_path": "test/Ungood/img/2_456.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/2_456.png"}
+{"image_path": "test/Ungood/img/3_368.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/3_368.png"}
+{"image_path": "test/Ungood/img/6_347.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/6_347.png"}
+{"image_path": "test/Ungood/img/4_519.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_519.png"}
+{"image_path": "test/Ungood/img/4_362.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_362.png"}
+{"image_path": "test/Ungood/img/4_490.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_490.png"}
+{"image_path": "test/Ungood/img/4_446.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_446.png"}
+{"image_path": "test/Ungood/img/9_382.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/9_382.png"}
+{"image_path": "test/Ungood/img/10_376.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/10_376.png"}
+{"image_path": "test/Ungood/img/9_386.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/9_386.png"}
+{"image_path": "test/Ungood/img/6_390.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/6_390.png"}
+{"image_path": "test/Ungood/img/10_468.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/10_468.png"}
+{"image_path": "test/Ungood/img/4_470.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_470.png"}
+{"image_path": "test/Ungood/img/7_368.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/7_368.png"}
+{"image_path": "test/Ungood/img/7_400.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/7_400.png"}
+{"image_path": "test/Ungood/img/4_374.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_374.png"}
+{"image_path": "test/Ungood/img/4_457.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_457.png"}
+{"image_path": "test/Ungood/img/4_574.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_574.png"}
+{"image_path": "test/Ungood/img/7_463.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/7_463.png"}
+{"image_path": "test/Ungood/img/9_417.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/9_417.png"}
+{"image_path": "test/Ungood/img/4_421.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_421.png"}
+{"image_path": "test/Ungood/img/7_367.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/7_367.png"}
+{"image_path": "test/Ungood/img/4_355.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_355.png"}
+{"image_path": "test/Ungood/img/4_429.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_429.png"}
+{"image_path": "test/Ungood/img/1_61.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/1_61.png"}
+{"image_path": "test/Ungood/img/7_362.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/7_362.png"}
+{"image_path": "test/Ungood/img/6_345.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/6_345.png"}
+{"image_path": "test/Ungood/img/6_476.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/6_476.png"}
+{"image_path": "test/Ungood/img/7_460.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/7_460.png"}
+{"image_path": "test/Ungood/img/4_361.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_361.png"}
+{"image_path": "test/Ungood/img/3_356.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/3_356.png"}
+{"image_path": "test/Ungood/img/4_576.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_576.png"}
+{"image_path": "test/Ungood/img/5_453.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/5_453.png"}
+{"image_path": "test/Ungood/img/7_390.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/7_390.png"}
+{"image_path": "test/Ungood/img/4_462.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_462.png"}
+{"image_path": "test/Ungood/img/4_539.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_539.png"}
+{"image_path": "test/Ungood/img/10_347.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/10_347.png"}
+{"image_path": "test/Ungood/img/4_373.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_373.png"}
+{"image_path": "test/Ungood/img/4_556.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_556.png"}
+{"image_path": "test/Ungood/img/7_373.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/7_373.png"}
+{"image_path": "test/Ungood/img/10_379.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/10_379.png"}
+{"image_path": "test/Ungood/img/4_364.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_364.png"}
+{"image_path": "test/Ungood/img/3_366.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/3_366.png"}
+{"image_path": "test/Ungood/img/4_499.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_499.png"}
+{"image_path": "test/Ungood/img/3_369.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/3_369.png"}
+{"image_path": "test/Ungood/img/10_341.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/10_341.png"}
+{"image_path": "test/Ungood/img/6_446.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/6_446.png"}
+{"image_path": "test/Ungood/img/8_427.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/8_427.png"}
+{"image_path": "test/Ungood/img/7_491.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/7_491.png"}
+{"image_path": "test/Ungood/img/6_389.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/6_389.png"}
+{"image_path": "test/Ungood/img/7_458.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/7_458.png"}
+{"image_path": "test/Ungood/img/7_371.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/7_371.png"}
+{"image_path": "test/Ungood/img/2_449.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/2_449.png"}
+{"image_path": "test/Ungood/img/4_513.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_513.png"}
+{"image_path": "test/Ungood/img/7_461.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/7_461.png"}
+{"image_path": "test/Ungood/img/3_360.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/3_360.png"}
+{"image_path": "test/Ungood/img/10_459.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/10_459.png"}
+{"image_path": "test/Ungood/img/4_371.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_371.png"}
+{"image_path": "test/Ungood/img/4_381.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_381.png"}
+{"image_path": "test/Ungood/img/9_400.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/9_400.png"}
+{"image_path": "test/Ungood/img/6_375.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/6_375.png"}
+{"image_path": "test/Ungood/img/4_544.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_544.png"}
+{"image_path": "test/Ungood/img/9_474.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/9_474.png"}
+{"image_path": "test/Ungood/img/10_345.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/10_345.png"}
+{"image_path": "test/Ungood/img/7_476.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/7_476.png"}
+{"image_path": "test/Ungood/img/4_418.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_418.png"}
+{"image_path": "test/Ungood/img/4_359.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_359.png"}
+{"image_path": "test/Ungood/img/6_450.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/6_450.png"}
+{"image_path": "test/Ungood/img/10_367.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/10_367.png"}
+{"image_path": "test/Ungood/img/4_439.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_439.png"}
+{"image_path": "test/Ungood/img/6_380.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/6_380.png"}
+{"image_path": "test/Ungood/img/4_485.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_485.png"}
+{"image_path": "test/Ungood/img/6_372.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/6_372.png"}
+{"image_path": "test/Ungood/img/7_383.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/7_383.png"}
+{"image_path": "test/Ungood/img/9_395.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/9_395.png"}
+{"image_path": "test/Ungood/img/4_488.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_488.png"}
+{"image_path": "test/Ungood/img/10_373.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/10_373.png"}
+{"image_path": "test/Ungood/img/4_447.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_447.png"}
+{"image_path": "test/Ungood/img/4_420.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_420.png"}
+{"image_path": "test/Ungood/img/7_416.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/7_416.png"}
+{"image_path": "test/Ungood/img/8_482.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/8_482.png"}
+{"image_path": "test/Ungood/img/9_377.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/9_377.png"}
+{"image_path": "test/Ungood/img/4_375.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_375.png"}
+{"image_path": "test/Ungood/img/6_354.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/6_354.png"}
+{"image_path": "test/Ungood/img/10_369.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/10_369.png"}
+{"image_path": "test/Ungood/img/1_68.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/1_68.png"}
+{"image_path": "test/Ungood/img/4_352.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_352.png"}
+{"image_path": "test/Ungood/img/1_57.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/1_57.png"}
+{"image_path": "test/Ungood/img/8_398.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/8_398.png"}
+{"image_path": "test/Ungood/img/8_483.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/8_483.png"}
+{"image_path": "test/Ungood/img/4_566.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_566.png"}
+{"image_path": "test/Ungood/img/5_458.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/5_458.png"}
+{"image_path": "test/Ungood/img/3_365.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/3_365.png"}
+{"image_path": "test/Ungood/img/10_464.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/10_464.png"}
+{"image_path": "test/Ungood/img/8_413.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/8_413.png"}
+{"image_path": "test/Ungood/img/10_356.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/10_356.png"}
+{"image_path": "test/Ungood/img/10_330.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/10_330.png"}
+{"image_path": "test/Ungood/img/10_336.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/10_336.png"}
+{"image_path": "test/Ungood/img/9_499.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/9_499.png"}
+{"image_path": "test/Ungood/img/4_554.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_554.png"}
+{"image_path": "test/Ungood/img/9_389.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/9_389.png"}
+{"image_path": "test/Ungood/img/9_419.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/9_419.png"}
+{"image_path": "test/Ungood/img/7_486.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/7_486.png"}
+{"image_path": "test/Ungood/img/6_466.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/6_466.png"}
+{"image_path": "test/Ungood/img/10_339.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/10_339.png"}
+{"image_path": "test/Ungood/img/4_378.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_378.png"}
+{"image_path": "test/Ungood/img/2_450.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/2_450.png"}
+{"image_path": "test/Ungood/img/7_365.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/7_365.png"}
+{"image_path": "test/Ungood/img/6_447.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/6_447.png"}
+{"image_path": "test/Ungood/img/9_393.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/9_393.png"}
+{"image_path": "test/Ungood/img/4_434.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_434.png"}
+{"image_path": "test/Ungood/img/8_479.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/8_479.png"}
+{"image_path": "test/Ungood/img/6_348.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/6_348.png"}
+{"image_path": "test/Ungood/img/4_460.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_460.png"}
+{"image_path": "test/Ungood/img/10_384.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/10_384.png"}
+{"image_path": "test/Ungood/img/4_347.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_347.png"}
+{"image_path": "test/Ungood/img/4_431.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_431.png"}
+{"image_path": "test/Ungood/img/7_384.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/7_384.png"}
+{"image_path": "test/Ungood/img/4_502.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_502.png"}
+{"image_path": "test/Ungood/img/4_422.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_422.png"}
+{"image_path": "test/Ungood/img/4_432.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_432.png"}
+{"image_path": "test/Ungood/img/4_500.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_500.png"}
+{"image_path": "test/Ungood/img/4_426.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_426.png"}
+{"image_path": "test/Ungood/img/7_405.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/7_405.png"}
+{"image_path": "test/Ungood/img/4_581.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_581.png"}
+{"image_path": "test/Ungood/img/9_509.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/9_509.png"}
+{"image_path": "test/Ungood/img/6_393.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/6_393.png"}
+{"image_path": "test/Ungood/img/4_563.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_563.png"}
+{"image_path": "test/Ungood/img/4_367.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_367.png"}
+{"image_path": "test/Ungood/img/4_382.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_382.png"}
+{"image_path": "test/Ungood/img/9_422.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/9_422.png"}
+{"image_path": "test/Ungood/img/9_420.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/9_420.png"}
+{"image_path": "test/Ungood/img/4_427.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_427.png"}
+{"image_path": "test/Ungood/img/4_386.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_386.png"}
+{"image_path": "test/Ungood/img/4_529.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_529.png"}
+{"image_path": "test/Ungood/img/6_480.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/6_480.png"}
+{"image_path": "test/Ungood/img/8_383.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/8_383.png"}
+{"image_path": "test/Ungood/img/7_487.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/7_487.png"}
+{"image_path": "test/Ungood/img/4_587.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_587.png"}
+{"image_path": "test/Ungood/img/7_394.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/7_394.png"}
+{"image_path": "test/Ungood/img/4_585.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_585.png"}
+{"image_path": "test/Ungood/img/6_338.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/6_338.png"}
+{"image_path": "test/Ungood/img/10_380.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/10_380.png"}
+{"image_path": "test/Ungood/img/8_386.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/8_386.png"}
+{"image_path": "test/Ungood/img/4_501.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_501.png"}
+{"image_path": "test/Ungood/img/4_495.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_495.png"}
+{"image_path": "test/Ungood/img/9_373.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/9_373.png"}
+{"image_path": "test/Ungood/img/6_351.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/6_351.png"}
+{"image_path": "test/Ungood/img/1_71.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/1_71.png"}
+{"image_path": "test/Ungood/img/4_467.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_467.png"}
+{"image_path": "test/Ungood/img/7_376.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/7_376.png"}
+{"image_path": "test/Ungood/img/7_364.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/7_364.png"}
+{"image_path": "test/Ungood/img/8_391.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/8_391.png"}
+{"image_path": "test/Ungood/img/4_569.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_569.png"}
+{"image_path": "test/Ungood/img/8_393.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/8_393.png"}
+{"image_path": "test/Ungood/img/9_495.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/9_495.png"}
+{"image_path": "test/Ungood/img/4_497.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_497.png"}
+{"image_path": "test/Ungood/img/8_382.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/8_382.png"}
+{"image_path": "test/Ungood/img/4_505.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_505.png"}
+{"image_path": "test/Ungood/img/4_531.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_531.png"}
+{"image_path": "test/Ungood/img/4_408.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_408.png"}
+{"image_path": "test/Ungood/img/4_376.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_376.png"}
+{"image_path": "test/Ungood/img/7_382.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/7_382.png"}
+{"image_path": "test/Ungood/img/9_411.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/9_411.png"}
+{"image_path": "test/Ungood/img/10_381.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/10_381.png"}
+{"image_path": "test/Ungood/img/8_410.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/8_410.png"}
+{"image_path": "test/Ungood/img/2_452.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/2_452.png"}
+{"image_path": "test/Ungood/img/2_443.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/2_443.png"}
+{"image_path": "test/Ungood/img/6_384.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/6_384.png"}
+{"image_path": "test/Ungood/img/6_395.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/6_395.png"}
+{"image_path": "test/Ungood/img/4_542.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_542.png"}
+{"image_path": "test/Ungood/img/6_371.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/6_371.png"}
+{"image_path": "test/Ungood/img/1_66.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/1_66.png"}
+{"image_path": "test/Ungood/img/6_357.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/6_357.png"}
+{"image_path": "test/Ungood/img/3_358.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/3_358.png"}
+{"image_path": "test/Ungood/img/4_413.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_413.png"}
+{"image_path": "test/Ungood/img/10_383.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/10_383.png"}
+{"image_path": "test/Ungood/img/6_475.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/6_475.png"}
+{"image_path": "test/Ungood/img/7_393.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/7_393.png"}
+{"image_path": "test/Ungood/img/8_367.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/8_367.png"}
+{"image_path": "test/Ungood/img/8_381.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/8_381.png"}
+{"image_path": "test/Ungood/img/7_392.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/7_392.png"}
+{"image_path": "test/Ungood/img/6_481.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/6_481.png"}
+{"image_path": "test/Ungood/img/4_412.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_412.png"}
+{"image_path": "test/Ungood/img/4_582.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_582.png"}
+{"image_path": "test/Ungood/img/6_386.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/6_386.png"}
+{"image_path": "test/Ungood/img/4_438.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_438.png"}
+{"image_path": "test/Ungood/img/4_403.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_403.png"}
+{"image_path": "test/Ungood/img/4_492.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_492.png"}
+{"image_path": "test/Ungood/img/4_440.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_440.png"}
+{"image_path": "test/Ungood/img/4_534.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_534.png"}
+{"image_path": "test/Ungood/img/8_425.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/8_425.png"}
+{"image_path": "test/Ungood/img/4_380.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_380.png"}
+{"image_path": "test/Ungood/img/2_465.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/2_465.png"}
+{"image_path": "test/Ungood/img/4_433.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_433.png"}
+{"image_path": "test/Ungood/img/10_470.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/10_470.png"}
+{"image_path": "test/Ungood/img/2_442.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/2_442.png"}
+{"image_path": "test/Ungood/img/9_481.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/9_481.png"}
+{"image_path": "test/Ungood/img/8_485.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/8_485.png"}
+{"image_path": "test/Ungood/img/7_398.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/7_398.png"}
+{"image_path": "test/Ungood/img/1_59.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/1_59.png"}
+{"image_path": "test/Ungood/img/4_425.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_425.png"}
+{"image_path": "test/Ungood/img/3_361.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/3_361.png"}
+{"image_path": "test/Ungood/img/6_373.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/6_373.png"}
+{"image_path": "test/Ungood/img/4_442.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_442.png"}
+{"image_path": "test/Ungood/img/5_452.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/5_452.png"}
+{"image_path": "test/Ungood/img/4_583.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_583.png"}
+{"image_path": "test/Ungood/img/4_541.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_541.png"}
+{"image_path": "test/Ungood/img/7_413.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/7_413.png"}
+{"image_path": "test/Ungood/img/9_414.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/9_414.png"}
+{"image_path": "test/Ungood/img/9_429.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/9_429.png"}
+{"image_path": "test/Ungood/img/6_346.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/6_346.png"}
+{"image_path": "test/Ungood/img/8_375.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/8_375.png"}
+{"image_path": "test/Ungood/img/8_474.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/8_474.png"}
+{"image_path": "test/Ungood/img/8_478.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/8_478.png"}
+{"image_path": "test/Ungood/img/8_423.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/8_423.png"}
+{"image_path": "test/Ungood/img/4_573.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_573.png"}
+{"image_path": "test/Ungood/img/9_391.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/9_391.png"}
+{"image_path": "test/Ungood/img/8_490.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/8_490.png"}
+{"image_path": "test/Ungood/img/6_362.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/6_362.png"}
+{"image_path": "test/Ungood/img/8_389.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/8_389.png"}
+{"image_path": "test/Ungood/img/4_496.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_496.png"}
+{"image_path": "test/Ungood/img/6_383.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/6_383.png"}
+{"image_path": "test/Ungood/img/9_425.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/9_425.png"}
+{"image_path": "test/Ungood/img/7_361.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/7_361.png"}
+{"image_path": "test/Ungood/img/3_359.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/3_359.png"}
+{"image_path": "test/Ungood/img/8_488.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/8_488.png"}
+{"image_path": "test/Ungood/img/1_70.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/1_70.png"}
+{"image_path": "test/Ungood/img/6_356.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/6_356.png"}
+{"image_path": "test/Ungood/img/4_423.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_423.png"}
+{"image_path": "test/Ungood/img/4_406.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_406.png"}
+{"image_path": "test/Ungood/img/6_449.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/6_449.png"}
+{"image_path": "test/Ungood/img/4_507.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_507.png"}
+{"image_path": "test/Ungood/img/10_346.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/10_346.png"}
+{"image_path": "test/Ungood/img/7_406.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/7_406.png"}
+{"image_path": "test/Ungood/img/4_416.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_416.png"}
+{"image_path": "test/Ungood/img/7_407.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/7_407.png"}
+{"image_path": "test/Ungood/img/2_444.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/2_444.png"}
+{"image_path": "test/Ungood/img/2_446.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/2_446.png"}
+{"image_path": "test/Ungood/img/7_488.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/7_488.png"}
+{"image_path": "test/Ungood/img/7_379.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/7_379.png"}
+{"image_path": "test/Ungood/img/10_427.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/10_427.png"}
+{"image_path": "test/Ungood/img/4_353.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_353.png"}
+{"image_path": "test/Ungood/img/7_369.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/7_369.png"}
+{"image_path": "test/Ungood/img/4_465.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_465.png"}
+{"image_path": "test/Ungood/img/10_344.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/10_344.png"}
+{"image_path": "test/Ungood/img/6_471.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/6_471.png"}
+{"image_path": "test/Ungood/img/4_404.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_404.png"}
+{"image_path": "test/Ungood/img/8_418.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/8_418.png"}
+{"image_path": "test/Ungood/img/6_358.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/6_358.png"}
+{"image_path": "test/Ungood/img/8_379.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/8_379.png"}
+{"image_path": "test/Ungood/img/4_468.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_468.png"}
+{"image_path": "test/Ungood/img/7_412.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/7_412.png"}
+{"image_path": "test/Ungood/img/4_436.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_436.png"}
+{"image_path": "test/Ungood/img/8_371.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/8_371.png"}
+{"image_path": "test/Ungood/img/6_464.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/6_464.png"}
+{"image_path": "test/Ungood/img/4_441.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_441.png"}
+{"image_path": "test/Ungood/img/2_448.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/2_448.png"}
+{"image_path": "test/Ungood/img/8_473.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/8_473.png"}
+{"image_path": "test/Ungood/img/10_358.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/10_358.png"}
+{"image_path": "test/Ungood/img/10_334.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/10_334.png"}
+{"image_path": "test/Ungood/img/7_482.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/7_482.png"}
+{"image_path": "test/Ungood/img/6_382.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/6_382.png"}
+{"image_path": "test/Ungood/img/7_484.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/7_484.png"}
+{"image_path": "test/Ungood/img/9_383.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/9_383.png"}
+{"image_path": "test/Ungood/img/8_409.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/8_409.png"}
+{"image_path": "test/Ungood/img/8_416.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/8_416.png"}
+{"image_path": "test/Ungood/img/1_69.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/1_69.png"}
+{"image_path": "test/Ungood/img/8_484.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/8_484.png"}
+{"image_path": "test/Ungood/img/6_473.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/6_473.png"}
+{"image_path": "test/Ungood/img/9_415.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/9_415.png"}
+{"image_path": "test/Ungood/img/6_355.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/6_355.png"}
+{"image_path": "test/Ungood/img/9_374.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/9_374.png"}
+{"image_path": "test/Ungood/img/4_510.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_510.png"}
+{"image_path": "test/Ungood/img/4_509.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_509.png"}
+{"image_path": "test/Ungood/img/4_435.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_435.png"}
+{"image_path": "test/Ungood/img/10_386.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/10_386.png"}
+{"image_path": "test/Ungood/img/10_353.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/10_353.png"}
+{"image_path": "test/Ungood/img/2_466.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/2_466.png"}
+{"image_path": "test/Ungood/img/8_414.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/8_414.png"}
+{"image_path": "test/Ungood/img/2_454.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/2_454.png"}
+{"image_path": "test/Ungood/img/8_415.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/8_415.png"}
+{"image_path": "test/Ungood/img/4_366.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_366.png"}
+{"image_path": "test/Ungood/img/6_392.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/6_392.png"}
+{"image_path": "test/Ungood/img/8_419.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/8_419.png"}
+{"image_path": "test/Ungood/img/7_363.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/7_363.png"}
+{"image_path": "test/Ungood/img/4_561.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_561.png"}
+{"image_path": "test/Ungood/img/3_367.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/3_367.png"}
+{"image_path": "test/Ungood/img/4_553.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_553.png"}
+{"image_path": "test/Ungood/img/10_465.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/10_465.png"}
+{"image_path": "test/Ungood/img/6_336.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/6_336.png"}
+{"image_path": "test/Ungood/img/4_586.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_586.png"}
+{"image_path": "test/Ungood/img/4_498.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_498.png"}
+{"image_path": "test/Ungood/img/4_456.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_456.png"}
+{"image_path": "test/Ungood/img/9_385.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/9_385.png"}
+{"image_path": "test/Ungood/img/6_344.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/6_344.png"}
+{"image_path": "test/Ungood/img/4_523.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_523.png"}
+{"image_path": "test/Ungood/img/7_404.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/7_404.png"}
+{"image_path": "test/Ungood/img/4_398.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_398.png"}
+{"image_path": "test/Ungood/img/9_498.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/9_498.png"}
+{"image_path": "test/Ungood/img/6_374.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/6_374.png"}
+{"image_path": "test/Ungood/img/6_394.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/6_394.png"}
+{"image_path": "test/Ungood/img/4_401.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_401.png"}
+{"image_path": "test/Ungood/img/6_341.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/6_341.png"}
+{"image_path": "test/Ungood/img/4_377.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_377.png"}
+{"image_path": "test/Ungood/img/4_450.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_450.png"}
+{"image_path": "test/Ungood/img/10_370.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/10_370.png"}
+{"image_path": "test/Ungood/img/8_392.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/8_392.png"}
+{"image_path": "test/Ungood/img/10_461.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/10_461.png"}
+{"image_path": "test/Ungood/img/10_357.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/10_357.png"}
+{"image_path": "test/Ungood/img/7_485.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/7_485.png"}
+{"image_path": "test/Ungood/img/10_375.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/10_375.png"}
+{"image_path": "test/Ungood/img/4_383.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_383.png"}
+{"image_path": "test/Ungood/img/5_451.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/5_451.png"}
+{"image_path": "test/Ungood/img/6_368.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/6_368.png"}
+{"image_path": "test/Ungood/img/6_387.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/6_387.png"}
+{"image_path": "test/Ungood/img/8_373.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/8_373.png"}
+{"image_path": "test/Ungood/img/8_470.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/8_470.png"}
+{"image_path": "test/Ungood/img/6_370.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/6_370.png"}
+{"image_path": "test/Ungood/img/8_372.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/8_372.png"}
+{"image_path": "test/Ungood/img/4_351.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_351.png"}
+{"image_path": "test/Ungood/img/7_489.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/7_489.png"}
+{"image_path": "test/Ungood/img/9_503.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/9_503.png"}
+{"image_path": "test/Ungood/img/6_367.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/6_367.png"}
+{"image_path": "test/Ungood/img/4_461.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_461.png"}
+{"image_path": "test/Ungood/img/6_469.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/6_469.png"}
+{"image_path": "test/Ungood/img/10_431.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/10_431.png"}
+{"image_path": "test/Ungood/img/4_385.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_385.png"}
+{"image_path": "test/Ungood/img/9_390.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/9_390.png"}
+{"image_path": "test/Ungood/img/4_480.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_480.png"}
+{"image_path": "test/Ungood/img/5_459.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/5_459.png"}
+{"image_path": "test/Ungood/img/9_426.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/9_426.png"}
+{"image_path": "test/Ungood/img/10_342.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/10_342.png"}
+{"image_path": "test/Ungood/img/10_385.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/10_385.png"}
+{"image_path": "test/Ungood/img/7_366.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/7_366.png"}
+{"image_path": "test/Ungood/img/8_396.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/8_396.png"}
+{"image_path": "test/Ungood/img/1_60.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/1_60.png"}
+{"image_path": "test/Ungood/img/8_385.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/8_385.png"}
+{"image_path": "test/Ungood/img/4_540.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_540.png"}
+{"image_path": "test/Ungood/img/2_464.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/2_464.png"}
+{"image_path": "test/Ungood/img/4_424.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_424.png"}
+{"image_path": "test/Ungood/img/6_472.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/6_472.png"}
+{"image_path": "test/Ungood/img/6_363.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/6_363.png"}
+{"image_path": "test/Ungood/img/9_500.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/9_500.png"}
+{"image_path": "test/Ungood/img/4_564.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_564.png"}
+{"image_path": "test/Ungood/img/4_407.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_407.png"}
+{"image_path": "test/Ungood/img/6_359.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/6_359.png"}
+{"image_path": "test/Ungood/img/7_370.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/7_370.png"}
+{"image_path": "test/Ungood/img/5_454.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/5_454.png"}
+{"image_path": "test/Ungood/img/6_401.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/6_401.png"}
+{"image_path": "test/Ungood/img/4_372.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_372.png"}
+{"image_path": "test/Ungood/img/9_413.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/9_413.png"}
+{"image_path": "test/Ungood/img/4_452.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_452.png"}
+{"image_path": "test/Ungood/img/10_328.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/10_328.png"}
+{"image_path": "test/Ungood/img/10_467.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/10_467.png"}
+{"image_path": "test/Ungood/img/6_360.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/6_360.png"}
+{"image_path": "test/Ungood/img/9_376.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/9_376.png"}
+{"image_path": "test/Ungood/img/4_354.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_354.png"}
+{"image_path": "test/Ungood/img/10_382.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/10_382.png"}
+{"image_path": "test/Ungood/img/4_478.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_478.png"}
+{"image_path": "test/Ungood/img/4_463.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_463.png"}
+{"image_path": "test/Ungood/img/4_533.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_533.png"}
+{"image_path": "test/Ungood/img/9_387.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/9_387.png"}
+{"image_path": "test/Ungood/img/9_431.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/9_431.png"}
+{"image_path": "test/Ungood/img/8_487.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/8_487.png"}
+{"image_path": "test/Ungood/img/7_477.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/7_477.png"}
+{"image_path": "test/Ungood/img/4_356.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_356.png"}
+{"image_path": "test/Ungood/img/9_501.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/9_501.png"}
+{"image_path": "test/Ungood/img/4_458.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_458.png"}
+{"image_path": "test/Ungood/img/9_372.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/9_372.png"}
+{"image_path": "test/Ungood/img/4_520.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_520.png"}
+{"image_path": "test/Ungood/img/4_515.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_515.png"}
+{"image_path": "test/Ungood/img/10_463.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/10_463.png"}
+{"image_path": "test/Ungood/img/9_371.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/9_371.png"}
+{"image_path": "test/Ungood/img/7_459.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/7_459.png"}
+{"image_path": "test/Ungood/img/4_567.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_567.png"}
+{"image_path": "test/Ungood/img/4_455.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_455.png"}
+{"image_path": "test/Ungood/img/7_417.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/7_417.png"}
+{"image_path": "test/Ungood/img/4_580.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_580.png"}
+{"image_path": "test/Ungood/img/4_549.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_549.png"}
+{"image_path": "test/Ungood/img/4_530.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_530.png"}
+{"image_path": "test/Ungood/img/4_552.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_552.png"}
+{"image_path": "test/Ungood/img/9_421.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/9_421.png"}
+{"image_path": "test/Ungood/img/1_67.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/1_67.png"}
+{"image_path": "test/Ungood/img/10_434.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/10_434.png"}
+{"image_path": "test/Ungood/img/9_381.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/9_381.png"}
+{"image_path": "test/Ungood/img/8_421.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/8_421.png"}
+{"image_path": "test/Ungood/img/4_494.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_494.png"}
+{"image_path": "test/Ungood/img/4_524.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_524.png"}
+{"image_path": "test/Ungood/img/7_464.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/7_464.png"}
+{"image_path": "test/Ungood/img/6_377.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/6_377.png"}
+{"image_path": "test/Ungood/img/6_361.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/6_361.png"}
+{"image_path": "test/Ungood/img/7_380.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/7_380.png"}
+{"image_path": "test/Ungood/img/10_333.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/10_333.png"}
+{"image_path": "test/Ungood/img/6_342.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/6_342.png"}
+{"image_path": "test/Ungood/img/10_351.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/10_351.png"}
+{"image_path": "test/Ungood/img/10_335.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/10_335.png"}
+{"image_path": "test/Ungood/img/9_412.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/9_412.png"}
+{"image_path": "test/Ungood/img/10_433.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/10_433.png"}
+{"image_path": "test/Ungood/img/4_391.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_391.png"}
+{"image_path": "test/Ungood/img/10_338.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/10_338.png"}
+{"image_path": "test/Ungood/img/8_481.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/8_481.png"}
+{"image_path": "test/Ungood/img/10_472.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/10_472.png"}
+{"image_path": "test/Ungood/img/4_405.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_405.png"}
+{"image_path": "test/Ungood/img/10_429.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/10_429.png"}
+{"image_path": "test/Ungood/img/9_493.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/9_493.png"}
+{"image_path": "test/Ungood/img/7_478.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/7_478.png"}
+{"image_path": "test/Ungood/img/4_481.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_481.png"}
+{"image_path": "test/Ungood/img/5_457.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/5_457.png"}
+{"image_path": "test/Ungood/img/9_496.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/9_496.png"}
+{"image_path": "test/Ungood/img/9_480.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/9_480.png"}
+{"image_path": "test/Ungood/img/4_350.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_350.png"}
+{"image_path": "test/Ungood/img/6_399.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/6_399.png"}
+{"image_path": "test/Ungood/img/4_414.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_414.png"}
+{"image_path": "test/Ungood/img/4_579.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_579.png"}
+{"image_path": "test/Ungood/img/4_511.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_511.png"}
+{"image_path": "test/Ungood/img/4_527.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_527.png"}
+{"image_path": "test/Ungood/img/4_411.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_411.png"}
+{"image_path": "test/Ungood/img/4_517.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_517.png"}
+{"image_path": "test/Ungood/img/2_451.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/2_451.png"}
+{"image_path": "test/Ungood/img/4_506.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_506.png"}
+{"image_path": "test/Ungood/img/8_469.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/8_469.png"}
+{"image_path": "test/Ungood/img/8_480.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/8_480.png"}
+{"image_path": "test/Ungood/img/4_389.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_389.png"}
+{"image_path": "test/Ungood/img/7_410.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/7_410.png"}
+{"image_path": "test/Ungood/img/7_387.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/7_387.png"}
+{"image_path": "test/Ungood/img/2_445.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/2_445.png"}
+{"image_path": "test/Ungood/img/2_459.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/2_459.png"}
+{"image_path": "test/Ungood/img/10_460.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/10_460.png"}
+{"image_path": "test/Ungood/img/10_349.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/10_349.png"}
+{"image_path": "test/Ungood/img/7_479.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/7_479.png"}
+{"image_path": "test/Ungood/img/9_394.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/9_394.png"}
+{"image_path": "test/Ungood/img/6_463.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/6_463.png"}
+{"image_path": "test/Ungood/img/3_362.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/3_362.png"}
+{"image_path": "test/Ungood/img/4_570.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_570.png"}
+{"image_path": "test/Ungood/img/4_571.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_571.png"}
+{"image_path": "test/Ungood/img/4_484.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_484.png"}
+{"image_path": "test/Ungood/img/4_568.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_568.png"}
+{"image_path": "test/Ungood/img/4_388.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_388.png"}
+{"image_path": "test/Ungood/img/4_476.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_476.png"}
+{"image_path": "test/Ungood/img/7_402.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/7_402.png"}
+{"image_path": "test/Ungood/img/10_371.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/10_371.png"}
+{"image_path": "test/Ungood/img/4_578.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_578.png"}
+{"image_path": "test/Ungood/img/6_379.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/6_379.png"}
+{"image_path": "test/Ungood/img/9_397.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/9_397.png"}
+{"image_path": "test/Ungood/img/2_453.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/2_453.png"}
+{"image_path": "test/Ungood/img/7_481.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/7_481.png"}
+{"image_path": "test/Ungood/img/4_562.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_562.png"}
+{"image_path": "test/Ungood/img/4_559.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_559.png"}
+{"image_path": "test/Ungood/img/6_337.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/6_337.png"}
+{"image_path": "test/Ungood/img/9_473.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/9_473.png"}
+{"image_path": "test/Ungood/img/8_369.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/8_369.png"}
+{"image_path": "test/Ungood/img/7_401.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/7_401.png"}
+{"image_path": "test/Ungood/img/5_461.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/5_461.png"}
+{"image_path": "test/Ungood/img/6_478.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/6_478.png"}
+{"image_path": "test/Ungood/img/10_327.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/10_327.png"}
+{"image_path": "test/Ungood/img/9_380.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/9_380.png"}
+{"image_path": "test/Ungood/img/9_494.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/9_494.png"}
+{"image_path": "test/Ungood/img/6_467.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/6_467.png"}
+{"image_path": "test/Ungood/img/4_397.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_397.png"}
+{"image_path": "test/Ungood/img/4_464.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_464.png"}
+{"image_path": "test/Ungood/img/7_399.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/7_399.png"}
+{"image_path": "test/Ungood/img/6_396.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/6_396.png"}
+{"image_path": "test/Ungood/img/7_462.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/7_462.png"}
+{"image_path": "test/Ungood/img/7_372.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/7_372.png"}
+{"image_path": "test/Ungood/img/10_387.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/10_387.png"}
+{"image_path": "test/Ungood/img/10_430.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/10_430.png"}
+{"image_path": "test/Ungood/img/4_536.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_536.png"}
+{"image_path": "test/Ungood/img/4_390.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_390.png"}
+{"image_path": "test/Ungood/img/4_365.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_365.png"}
+{"image_path": "test/Ungood/img/8_489.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/8_489.png"}
+{"image_path": "test/Ungood/img/4_486.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/4_486.png"}
+{"image_path": "test/Ungood/img/10_332.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/10_332.png"}
+{"image_path": "test/Ungood/img/10_466.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/10_466.png"}
+{"image_path": "test/Ungood/img/7_377.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/7_377.png"}
+{"image_path": "test/Ungood/img/9_475.png", "label": 1.0, "class_name": "Liver", "mask_path": "test/Ungood/label/9_475.png"}
+{"image_path": "test/good/img/9_460.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/8_467.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_420.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_430.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/7_347.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_355.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/8_335.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/10_453.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/10_405.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_413.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_426.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_389.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/7_434.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/10_397.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_452.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/6_306.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_435.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/6_436.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_422.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_465.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_347.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_471.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/9_410.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_442.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/1_55.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/9_489.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_313.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/8_451.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/8_433.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_387.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_370.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/9_405.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_364.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_366.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/7_328.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_396.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/10_325.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_426.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/6_485.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_397.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_387.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/7_331.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/10_361.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_360.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_328.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_311.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/10_364.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_423.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/9_446.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/7_448.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/8_354.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_371.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/10_298.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/9_352.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_398.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_351.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/6_315.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_486.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/8_494.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_393.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/6_334.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/7_428.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_429.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_370.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_484.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_407.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_309.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_389.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_317.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_472.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_398.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/7_455.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_424.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_435.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_469.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/8_449.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/7_442.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_336.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_373.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_355.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_327.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_406.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/8_442.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_453.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/7_418.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/9_457.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/6_331.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/9_456.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/6_484.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/7_472.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/8_336.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_410.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/7_421.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/8_504.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/7_355.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_459.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_402.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_312.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/6_430.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/8_463.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/8_506.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_420.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_432.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/7_443.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/6_421.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/9_442.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_372.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/9_347.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_338.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/6_432.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_401.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/7_493.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_326.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/8_466.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_362.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_479.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/7_324.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/7_454.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/6_458.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/8_355.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/10_437.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/6_410.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_395.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/10_395.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/9_462.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/8_357.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/8_361.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/7_453.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_405.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_315.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/9_345.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/9_437.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/6_325.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/7_494.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/10_297.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_335.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_470.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/7_352.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/9_365.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_352.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/8_348.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/6_437.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_437.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/9_406.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/6_413.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/7_340.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/6_443.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/9_492.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/6_403.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/6_326.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/8_448.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/10_412.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_410.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_349.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/7_429.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/6_323.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/9_354.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/8_510.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_418.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_444.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/10_408.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_466.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_331.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_380.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/9_346.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/8_359.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_435.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_357.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/10_419.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_411.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/9_471.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_310.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/8_406.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/10_447.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/8_443.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/10_417.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/8_356.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/8_347.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_409.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/6_420.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/7_500.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_403.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_443.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_373.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/7_395.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_394.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_417.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/8_464.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/7_431.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/9_366.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/9_511.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_392.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/6_433.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_433.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_324.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_374.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_416.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_375.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_428.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_414.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/9_459.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/10_314.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_339.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/7_468.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/7_420.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_352.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/8_364.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_439.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/6_415.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/6_460.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_408.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_344.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/10_399.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/7_499.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/9_441.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/10_454.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_404.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/6_324.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_460.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/8_501.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/7_332.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/1_45.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/10_303.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/6_431.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_436.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_337.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_340.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_318.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/6_328.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_422.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_391.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_332.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_325.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/7_346.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_477.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/6_417.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/1_50.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/9_458.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/9_435.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/10_323.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_354.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/10_415.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/6_427.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/8_341.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/10_321.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/6_438.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_412.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/6_407.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/6_418.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/9_353.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/7_335.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/10_394.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/7_326.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/8_460.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_359.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/6_444.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/7_496.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/6_487.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/10_425.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/8_458.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/10_296.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_385.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/7_350.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/6_330.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_350.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/9_355.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_364.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/7_497.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/6_483.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/8_363.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_319.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_322.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_438.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_330.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/6_452.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_416.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/9_440.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/7_432.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_425.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/7_438.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_369.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_423.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/7_344.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/7_467.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_372.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/7_498.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/8_441.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/10_402.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_383.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_461.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/10_390.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/7_441.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/4_593.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_375.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_384.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_379.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_347.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/9_452.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_316.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_439.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_447.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_431.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/8_498.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/10_304.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/7_353.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/9_444.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_463.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/9_515.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_388.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/9_370.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/8_453.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_303.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_351.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/8_431.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/10_362.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/6_406.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/8_353.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/8_454.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/6_423.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_346.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/9_343.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/10_409.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_374.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/6_317.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_321.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_342.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/9_443.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_446.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_400.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/6_321.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/6_440.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/7_427.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/7_345.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/7_447.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_304.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_353.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/10_295.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/1_53.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_422.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_320.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_419.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_375.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/7_471.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_348.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_346.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/6_322.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_307.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/8_342.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_407.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_449.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/8_352.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/8_338.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/1_51.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_438.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_345.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_356.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_349.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_414.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_343.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_400.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/7_356.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/6_312.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_400.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_323.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_378.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_348.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/10_404.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/6_311.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/8_446.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/7_349.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/8_503.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_344.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/10_420.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/8_496.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_333.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/6_319.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_390.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/7_473.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/10_365.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_415.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_450.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/6_314.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/9_472.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/9_364.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/9_408.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/10_299.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_481.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_487.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_357.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_468.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/6_442.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/9_438.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_368.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_428.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/7_426.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_308.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/6_457.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_395.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/6_305.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/8_334.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_408.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_443.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/9_350.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/9_402.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_415.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_377.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_335.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_378.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_446.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_351.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/10_319.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_356.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/10_316.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_450.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/9_439.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_329.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/6_309.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/9_486.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_467.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_394.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/10_324.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_427.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_482.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/6_439.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_332.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_335.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/10_306.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_409.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/9_490.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_434.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/8_461.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_342.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/6_408.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_350.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_427.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/10_439.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/10_416.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/10_326.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_466.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_328.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_361.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/7_440.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/10_300.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/7_456.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_381.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/6_419.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/9_464.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_436.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_438.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/9_470.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/8_500.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/10_322.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/8_452.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_401.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/4_592.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_403.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_380.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/7_334.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_384.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/6_425.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_414.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_363.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_362.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_458.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/6_332.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/8_436.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/9_453.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/1_52.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_472.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/7_437.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/10_313.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/8_459.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/10_301.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/6_453.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_421.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/6_486.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/6_455.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/9_436.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/8_365.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_315.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/7_337.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/7_348.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_340.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_433.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_358.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_413.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/7_451.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_337.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/6_456.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/6_462.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/8_350.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/9_487.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/9_488.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_434.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/8_430.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/6_320.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_431.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/9_361.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_352.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/9_369.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/8_462.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/10_450.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/10_410.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_379.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/8_495.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/9_363.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_378.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/6_316.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_365.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_382.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_448.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_386.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_469.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_312.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_483.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_424.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/10_452.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/8_366.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/10_445.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/8_507.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/10_406.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/6_434.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/7_419.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_430.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/8_358.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/10_411.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/10_389.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_430.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_334.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/7_330.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_471.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_437.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_451.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_406.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/8_438.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/1_73.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/8_428.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_390.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/10_421.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/9_467.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/8_345.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_425.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/1_48.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/4_594.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_407.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/10_393.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_354.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/6_335.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_318.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_336.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/7_336.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_353.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_317.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/8_402.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/7_424.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_413.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/10_441.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_389.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_480.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/8_505.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/9_368.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_368.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_454.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_410.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_345.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/10_311.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/10_444.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/10_320.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/10_392.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/10_310.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_358.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/6_426.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/10_359.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_334.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_326.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/8_456.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_337.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_391.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_449.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_467.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/7_423.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_402.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/6_411.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/9_465.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_354.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_367.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_405.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/7_327.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_320.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_475.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_428.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_398.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/7_474.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/6_329.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/10_422.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_359.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_353.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/10_446.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/8_340.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/8_437.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_386.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/6_441.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/7_341.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_424.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_376.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/7_436.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_425.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_396.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/9_434.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/6_327.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/8_333.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_361.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_405.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/9_362.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/10_403.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/8_362.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/8_337.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_440.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_339.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_433.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_343.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/6_488.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_411.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/9_451.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/4_595.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/8_351.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/10_440.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_412.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_399.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_429.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_333.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/10_318.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/9_349.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/9_454.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_394.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_341.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/8_509.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_341.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_404.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/9_512.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_419.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_336.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/6_308.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_457.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/7_343.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/10_309.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/9_514.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_391.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/9_356.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_478.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_399.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_393.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_418.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/7_422.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_388.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/8_343.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/8_493.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_429.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/8_432.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/7_425.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/8_457.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_387.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_445.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/7_457.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/9_468.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/9_359.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_415.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/9_409.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_441.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_474.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/9_358.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_406.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_327.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/9_466.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/9_357.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/1_54.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/10_317.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/8_434.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_348.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_349.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/6_429.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_463.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_381.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_485.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_456.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_427.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/7_450.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/8_344.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/10_442.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/8_440.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/6_489.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_314.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/10_438.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/9_447.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_366.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_385.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_396.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/9_450.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/7_333.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_439.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_344.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_363.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/9_484.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_321.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/7_325.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_384.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_341.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/10_413.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_447.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/7_435.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_411.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_408.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_436.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/7_351.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/6_428.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/10_315.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/10_391.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/7_357.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/10_414.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_313.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_329.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/7_492.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_420.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/6_459.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/7_466.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_418.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/10_407.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_431.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_367.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/8_445.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_338.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_338.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/6_454.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/10_448.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_382.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_465.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_397.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/9_485.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/10_312.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/9_445.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/10_418.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/6_490.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_347.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_322.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_417.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/10_473.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/6_414.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/6_405.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/7_452.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_421.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/6_333.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/9_513.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_385.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/10_449.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_462.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/9_407.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/9_448.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_339.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_432.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/9_403.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/10_423.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/10_436.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_397.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/9_463.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/8_403.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_379.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/7_439.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/6_313.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_412.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/9_469.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_392.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/10_302.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_306.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_421.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/8_455.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/9_491.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/9_433.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_464.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_372.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_340.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_403.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_471.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_324.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_330.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/10_308.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_393.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/10_424.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/6_461.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_470.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/6_416.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_469.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_455.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_417.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_390.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_346.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/6_404.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/8_499.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/6_422.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/8_508.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_388.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/8_497.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_380.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/7_465.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/7_469.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/10_451.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/7_495.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_383.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/4_591.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/7_329.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_325.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/10_396.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/9_351.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_381.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/10_398.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_464.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_371.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/8_405.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_377.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/9_483.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/7_354.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/2_373.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_416.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/6_409.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/8_502.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_355.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_314.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_377.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/10_475.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/8_349.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_343.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/9_360.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/5_476.png", "label": 0.0, "class_name": "Liver"}
+{"image_path": "test/good/img/3_445.png", "label": 0.0, "class_name": "Liver"}

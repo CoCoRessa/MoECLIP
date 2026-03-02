@@ -1,0 +1,1304 @@
+{"image_path": "Blotchy_099/test/bad/000.png", "label": 1, "class_name": "Blotchy", "mask_path": "Blotchy_099/ground_truth/bad/000_mask.png"}
+{"image_path": "Blotchy_099/test/bad/001.png", "label": 1, "class_name": "Blotchy", "mask_path": "Blotchy_099/ground_truth/bad/001_mask.png"}
+{"image_path": "Blotchy_099/test/bad/002.png", "label": 1, "class_name": "Blotchy", "mask_path": "Blotchy_099/ground_truth/bad/002_mask.png"}
+{"image_path": "Blotchy_099/test/bad/003.png", "label": 1, "class_name": "Blotchy", "mask_path": "Blotchy_099/ground_truth/bad/003_mask.png"}
+{"image_path": "Blotchy_099/test/bad/004.png", "label": 1, "class_name": "Blotchy", "mask_path": "Blotchy_099/ground_truth/bad/004_mask.png"}
+{"image_path": "Blotchy_099/test/bad/005.png", "label": 1, "class_name": "Blotchy", "mask_path": "Blotchy_099/ground_truth/bad/005_mask.png"}
+{"image_path": "Blotchy_099/test/bad/006.png", "label": 1, "class_name": "Blotchy", "mask_path": "Blotchy_099/ground_truth/bad/006_mask.png"}
+{"image_path": "Blotchy_099/test/bad/007.png", "label": 1, "class_name": "Blotchy", "mask_path": "Blotchy_099/ground_truth/bad/007_mask.png"}
+{"image_path": "Blotchy_099/test/bad/008.png", "label": 1, "class_name": "Blotchy", "mask_path": "Blotchy_099/ground_truth/bad/008_mask.png"}
+{"image_path": "Blotchy_099/test/bad/009.png", "label": 1, "class_name": "Blotchy", "mask_path": "Blotchy_099/ground_truth/bad/009_mask.png"}
+{"image_path": "Blotchy_099/test/bad/010.png", "label": 1, "class_name": "Blotchy", "mask_path": "Blotchy_099/ground_truth/bad/010_mask.png"}
+{"image_path": "Blotchy_099/test/bad/011.png", "label": 1, "class_name": "Blotchy", "mask_path": "Blotchy_099/ground_truth/bad/011_mask.png"}
+{"image_path": "Blotchy_099/test/bad/012.png", "label": 1, "class_name": "Blotchy", "mask_path": "Blotchy_099/ground_truth/bad/012_mask.png"}
+{"image_path": "Blotchy_099/test/bad/013.png", "label": 1, "class_name": "Blotchy", "mask_path": "Blotchy_099/ground_truth/bad/013_mask.png"}
+{"image_path": "Blotchy_099/test/bad/014.png", "label": 1, "class_name": "Blotchy", "mask_path": "Blotchy_099/ground_truth/bad/014_mask.png"}
+{"image_path": "Blotchy_099/test/bad/015.png", "label": 1, "class_name": "Blotchy", "mask_path": "Blotchy_099/ground_truth/bad/015_mask.png"}
+{"image_path": "Blotchy_099/test/bad/016.png", "label": 1, "class_name": "Blotchy", "mask_path": "Blotchy_099/ground_truth/bad/016_mask.png"}
+{"image_path": "Blotchy_099/test/bad/017.png", "label": 1, "class_name": "Blotchy", "mask_path": "Blotchy_099/ground_truth/bad/017_mask.png"}
+{"image_path": "Blotchy_099/test/bad/018.png", "label": 1, "class_name": "Blotchy", "mask_path": "Blotchy_099/ground_truth/bad/018_mask.png"}
+{"image_path": "Blotchy_099/test/bad/019.png", "label": 1, "class_name": "Blotchy", "mask_path": "Blotchy_099/ground_truth/bad/019_mask.png"}
+{"image_path": "Blotchy_099/test/bad/020.png", "label": 1, "class_name": "Blotchy", "mask_path": "Blotchy_099/ground_truth/bad/020_mask.png"}
+{"image_path": "Blotchy_099/test/bad/021.png", "label": 1, "class_name": "Blotchy", "mask_path": "Blotchy_099/ground_truth/bad/021_mask.png"}
+{"image_path": "Blotchy_099/test/bad/022.png", "label": 1, "class_name": "Blotchy", "mask_path": "Blotchy_099/ground_truth/bad/022_mask.png"}
+{"image_path": "Blotchy_099/test/bad/023.png", "label": 1, "class_name": "Blotchy", "mask_path": "Blotchy_099/ground_truth/bad/023_mask.png"}
+{"image_path": "Blotchy_099/test/bad/024.png", "label": 1, "class_name": "Blotchy", "mask_path": "Blotchy_099/ground_truth/bad/024_mask.png"}
+{"image_path": "Blotchy_099/test/bad/025.png", "label": 1, "class_name": "Blotchy", "mask_path": "Blotchy_099/ground_truth/bad/025_mask.png"}
+{"image_path": "Blotchy_099/test/bad/026.png", "label": 1, "class_name": "Blotchy", "mask_path": "Blotchy_099/ground_truth/bad/026_mask.png"}
+{"image_path": "Blotchy_099/test/bad/027.png", "label": 1, "class_name": "Blotchy", "mask_path": "Blotchy_099/ground_truth/bad/027_mask.png"}
+{"image_path": "Blotchy_099/test/bad/028.png", "label": 1, "class_name": "Blotchy", "mask_path": "Blotchy_099/ground_truth/bad/028_mask.png"}
+{"image_path": "Blotchy_099/test/bad/029.png", "label": 1, "class_name": "Blotchy", "mask_path": "Blotchy_099/ground_truth/bad/029_mask.png"}
+{"image_path": "Blotchy_099/test/bad/030.png", "label": 1, "class_name": "Blotchy", "mask_path": "Blotchy_099/ground_truth/bad/030_mask.png"}
+{"image_path": "Blotchy_099/test/bad/031.png", "label": 1, "class_name": "Blotchy", "mask_path": "Blotchy_099/ground_truth/bad/031_mask.png"}
+{"image_path": "Blotchy_099/test/bad/032.png", "label": 1, "class_name": "Blotchy", "mask_path": "Blotchy_099/ground_truth/bad/032_mask.png"}
+{"image_path": "Blotchy_099/test/bad/033.png", "label": 1, "class_name": "Blotchy", "mask_path": "Blotchy_099/ground_truth/bad/033_mask.png"}
+{"image_path": "Blotchy_099/test/bad/034.png", "label": 1, "class_name": "Blotchy", "mask_path": "Blotchy_099/ground_truth/bad/034_mask.png"}
+{"image_path": "Blotchy_099/test/bad/035.png", "label": 1, "class_name": "Blotchy", "mask_path": "Blotchy_099/ground_truth/bad/035_mask.png"}
+{"image_path": "Blotchy_099/test/bad/036.png", "label": 1, "class_name": "Blotchy", "mask_path": "Blotchy_099/ground_truth/bad/036_mask.png"}
+{"image_path": "Blotchy_099/test/bad/037.png", "label": 1, "class_name": "Blotchy", "mask_path": "Blotchy_099/ground_truth/bad/037_mask.png"}
+{"image_path": "Blotchy_099/test/bad/038.png", "label": 1, "class_name": "Blotchy", "mask_path": "Blotchy_099/ground_truth/bad/038_mask.png"}
+{"image_path": "Blotchy_099/test/bad/039.png", "label": 1, "class_name": "Blotchy", "mask_path": "Blotchy_099/ground_truth/bad/039_mask.png"}
+{"image_path": "Blotchy_099/test/bad/040.png", "label": 1, "class_name": "Blotchy", "mask_path": "Blotchy_099/ground_truth/bad/040_mask.png"}
+{"image_path": "Blotchy_099/test/bad/041.png", "label": 1, "class_name": "Blotchy", "mask_path": "Blotchy_099/ground_truth/bad/041_mask.png"}
+{"image_path": "Blotchy_099/test/bad/042.png", "label": 1, "class_name": "Blotchy", "mask_path": "Blotchy_099/ground_truth/bad/042_mask.png"}
+{"image_path": "Blotchy_099/test/bad/043.png", "label": 1, "class_name": "Blotchy", "mask_path": "Blotchy_099/ground_truth/bad/043_mask.png"}
+{"image_path": "Blotchy_099/test/bad/044.png", "label": 1, "class_name": "Blotchy", "mask_path": "Blotchy_099/ground_truth/bad/044_mask.png"}
+{"image_path": "Blotchy_099/test/bad/045.png", "label": 1, "class_name": "Blotchy", "mask_path": "Blotchy_099/ground_truth/bad/045_mask.png"}
+{"image_path": "Blotchy_099/test/bad/046.png", "label": 1, "class_name": "Blotchy", "mask_path": "Blotchy_099/ground_truth/bad/046_mask.png"}
+{"image_path": "Blotchy_099/test/bad/047.png", "label": 1, "class_name": "Blotchy", "mask_path": "Blotchy_099/ground_truth/bad/047_mask.png"}
+{"image_path": "Blotchy_099/test/bad/048.png", "label": 1, "class_name": "Blotchy", "mask_path": "Blotchy_099/ground_truth/bad/048_mask.png"}
+{"image_path": "Blotchy_099/test/bad/049.png", "label": 1, "class_name": "Blotchy", "mask_path": "Blotchy_099/ground_truth/bad/049_mask.png"}
+{"image_path": "Blotchy_099/test/bad/050.png", "label": 1, "class_name": "Blotchy", "mask_path": "Blotchy_099/ground_truth/bad/050_mask.png"}
+{"image_path": "Blotchy_099/test/bad/051.png", "label": 1, "class_name": "Blotchy", "mask_path": "Blotchy_099/ground_truth/bad/051_mask.png"}
+{"image_path": "Blotchy_099/test/bad/052.png", "label": 1, "class_name": "Blotchy", "mask_path": "Blotchy_099/ground_truth/bad/052_mask.png"}
+{"image_path": "Blotchy_099/test/bad/053.png", "label": 1, "class_name": "Blotchy", "mask_path": "Blotchy_099/ground_truth/bad/053_mask.png"}
+{"image_path": "Blotchy_099/test/bad/054.png", "label": 1, "class_name": "Blotchy", "mask_path": "Blotchy_099/ground_truth/bad/054_mask.png"}
+{"image_path": "Blotchy_099/test/bad/055.png", "label": 1, "class_name": "Blotchy", "mask_path": "Blotchy_099/ground_truth/bad/055_mask.png"}
+{"image_path": "Blotchy_099/test/bad/056.png", "label": 1, "class_name": "Blotchy", "mask_path": "Blotchy_099/ground_truth/bad/056_mask.png"}
+{"image_path": "Blotchy_099/test/bad/057.png", "label": 1, "class_name": "Blotchy", "mask_path": "Blotchy_099/ground_truth/bad/057_mask.png"}
+{"image_path": "Blotchy_099/test/bad/058.png", "label": 1, "class_name": "Blotchy", "mask_path": "Blotchy_099/ground_truth/bad/058_mask.png"}
+{"image_path": "Blotchy_099/test/bad/059.png", "label": 1, "class_name": "Blotchy", "mask_path": "Blotchy_099/ground_truth/bad/059_mask.png"}
+{"image_path": "Blotchy_099/test/bad/060.png", "label": 1, "class_name": "Blotchy", "mask_path": "Blotchy_099/ground_truth/bad/060_mask.png"}
+{"image_path": "Blotchy_099/test/bad/061.png", "label": 1, "class_name": "Blotchy", "mask_path": "Blotchy_099/ground_truth/bad/061_mask.png"}
+{"image_path": "Blotchy_099/test/bad/062.png", "label": 1, "class_name": "Blotchy", "mask_path": "Blotchy_099/ground_truth/bad/062_mask.png"}
+{"image_path": "Blotchy_099/test/bad/063.png", "label": 1, "class_name": "Blotchy", "mask_path": "Blotchy_099/ground_truth/bad/063_mask.png"}
+{"image_path": "Blotchy_099/test/bad/064.png", "label": 1, "class_name": "Blotchy", "mask_path": "Blotchy_099/ground_truth/bad/064_mask.png"}
+{"image_path": "Blotchy_099/test/bad/065.png", "label": 1, "class_name": "Blotchy", "mask_path": "Blotchy_099/ground_truth/bad/065_mask.png"}
+{"image_path": "Blotchy_099/test/bad/066.png", "label": 1, "class_name": "Blotchy", "mask_path": "Blotchy_099/ground_truth/bad/066_mask.png"}
+{"image_path": "Blotchy_099/test/bad/067.png", "label": 1, "class_name": "Blotchy", "mask_path": "Blotchy_099/ground_truth/bad/067_mask.png"}
+{"image_path": "Blotchy_099/test/bad/068.png", "label": 1, "class_name": "Blotchy", "mask_path": "Blotchy_099/ground_truth/bad/068_mask.png"}
+{"image_path": "Blotchy_099/test/bad/069.png", "label": 1, "class_name": "Blotchy", "mask_path": "Blotchy_099/ground_truth/bad/069_mask.png"}
+{"image_path": "Blotchy_099/test/bad/070.png", "label": 1, "class_name": "Blotchy", "mask_path": "Blotchy_099/ground_truth/bad/070_mask.png"}
+{"image_path": "Blotchy_099/test/bad/071.png", "label": 1, "class_name": "Blotchy", "mask_path": "Blotchy_099/ground_truth/bad/071_mask.png"}
+{"image_path": "Blotchy_099/test/bad/072.png", "label": 1, "class_name": "Blotchy", "mask_path": "Blotchy_099/ground_truth/bad/072_mask.png"}
+{"image_path": "Blotchy_099/test/bad/073.png", "label": 1, "class_name": "Blotchy", "mask_path": "Blotchy_099/ground_truth/bad/073_mask.png"}
+{"image_path": "Blotchy_099/test/bad/074.png", "label": 1, "class_name": "Blotchy", "mask_path": "Blotchy_099/ground_truth/bad/074_mask.png"}
+{"image_path": "Blotchy_099/test/bad/075.png", "label": 1, "class_name": "Blotchy", "mask_path": "Blotchy_099/ground_truth/bad/075_mask.png"}
+{"image_path": "Blotchy_099/test/bad/076.png", "label": 1, "class_name": "Blotchy", "mask_path": "Blotchy_099/ground_truth/bad/076_mask.png"}
+{"image_path": "Blotchy_099/test/bad/077.png", "label": 1, "class_name": "Blotchy", "mask_path": "Blotchy_099/ground_truth/bad/077_mask.png"}
+{"image_path": "Blotchy_099/test/bad/078.png", "label": 1, "class_name": "Blotchy", "mask_path": "Blotchy_099/ground_truth/bad/078_mask.png"}
+{"image_path": "Blotchy_099/test/bad/079.png", "label": 1, "class_name": "Blotchy", "mask_path": "Blotchy_099/ground_truth/bad/079_mask.png"}
+{"image_path": "Blotchy_099/test/good/000.png", "label": 0, "class_name": "Blotchy"}
+{"image_path": "Blotchy_099/test/good/001.png", "label": 0, "class_name": "Blotchy"}
+{"image_path": "Blotchy_099/test/good/002.png", "label": 0, "class_name": "Blotchy"}
+{"image_path": "Blotchy_099/test/good/003.png", "label": 0, "class_name": "Blotchy"}
+{"image_path": "Blotchy_099/test/good/004.png", "label": 0, "class_name": "Blotchy"}
+{"image_path": "Blotchy_099/test/good/005.png", "label": 0, "class_name": "Blotchy"}
+{"image_path": "Blotchy_099/test/good/006.png", "label": 0, "class_name": "Blotchy"}
+{"image_path": "Blotchy_099/test/good/007.png", "label": 0, "class_name": "Blotchy"}
+{"image_path": "Blotchy_099/test/good/008.png", "label": 0, "class_name": "Blotchy"}
+{"image_path": "Blotchy_099/test/good/009.png", "label": 0, "class_name": "Blotchy"}
+{"image_path": "Blotchy_099/test/good/010.png", "label": 0, "class_name": "Blotchy"}
+{"image_path": "Blotchy_099/test/good/011.png", "label": 0, "class_name": "Blotchy"}
+{"image_path": "Blotchy_099/test/good/012.png", "label": 0, "class_name": "Blotchy"}
+{"image_path": "Blotchy_099/test/good/013.png", "label": 0, "class_name": "Blotchy"}
+{"image_path": "Blotchy_099/test/good/014.png", "label": 0, "class_name": "Blotchy"}
+{"image_path": "Blotchy_099/test/good/015.png", "label": 0, "class_name": "Blotchy"}
+{"image_path": "Blotchy_099/test/good/016.png", "label": 0, "class_name": "Blotchy"}
+{"image_path": "Blotchy_099/test/good/017.png", "label": 0, "class_name": "Blotchy"}
+{"image_path": "Blotchy_099/test/good/018.png", "label": 0, "class_name": "Blotchy"}
+{"image_path": "Blotchy_099/test/good/019.png", "label": 0, "class_name": "Blotchy"}
+{"image_path": "Fibrous_183/test/bad/000.png", "label": 1, "class_name": "Fibrous", "mask_path": "Fibrous_183/ground_truth/bad/000_mask.png"}
+{"image_path": "Fibrous_183/test/bad/001.png", "label": 1, "class_name": "Fibrous", "mask_path": "Fibrous_183/ground_truth/bad/001_mask.png"}
+{"image_path": "Fibrous_183/test/bad/002.png", "label": 1, "class_name": "Fibrous", "mask_path": "Fibrous_183/ground_truth/bad/002_mask.png"}
+{"image_path": "Fibrous_183/test/bad/003.png", "label": 1, "class_name": "Fibrous", "mask_path": "Fibrous_183/ground_truth/bad/003_mask.png"}
+{"image_path": "Fibrous_183/test/bad/004.png", "label": 1, "class_name": "Fibrous", "mask_path": "Fibrous_183/ground_truth/bad/004_mask.png"}
+{"image_path": "Fibrous_183/test/bad/005.png", "label": 1, "class_name": "Fibrous", "mask_path": "Fibrous_183/ground_truth/bad/005_mask.png"}
+{"image_path": "Fibrous_183/test/bad/006.png", "label": 1, "class_name": "Fibrous", "mask_path": "Fibrous_183/ground_truth/bad/006_mask.png"}
+{"image_path": "Fibrous_183/test/bad/007.png", "label": 1, "class_name": "Fibrous", "mask_path": "Fibrous_183/ground_truth/bad/007_mask.png"}
+{"image_path": "Fibrous_183/test/bad/008.png", "label": 1, "class_name": "Fibrous", "mask_path": "Fibrous_183/ground_truth/bad/008_mask.png"}
+{"image_path": "Fibrous_183/test/bad/009.png", "label": 1, "class_name": "Fibrous", "mask_path": "Fibrous_183/ground_truth/bad/009_mask.png"}
+{"image_path": "Fibrous_183/test/bad/010.png", "label": 1, "class_name": "Fibrous", "mask_path": "Fibrous_183/ground_truth/bad/010_mask.png"}
+{"image_path": "Fibrous_183/test/bad/011.png", "label": 1, "class_name": "Fibrous", "mask_path": "Fibrous_183/ground_truth/bad/011_mask.png"}
+{"image_path": "Fibrous_183/test/bad/012.png", "label": 1, "class_name": "Fibrous", "mask_path": "Fibrous_183/ground_truth/bad/012_mask.png"}
+{"image_path": "Fibrous_183/test/bad/013.png", "label": 1, "class_name": "Fibrous", "mask_path": "Fibrous_183/ground_truth/bad/013_mask.png"}
+{"image_path": "Fibrous_183/test/bad/014.png", "label": 1, "class_name": "Fibrous", "mask_path": "Fibrous_183/ground_truth/bad/014_mask.png"}
+{"image_path": "Fibrous_183/test/bad/015.png", "label": 1, "class_name": "Fibrous", "mask_path": "Fibrous_183/ground_truth/bad/015_mask.png"}
+{"image_path": "Fibrous_183/test/bad/016.png", "label": 1, "class_name": "Fibrous", "mask_path": "Fibrous_183/ground_truth/bad/016_mask.png"}
+{"image_path": "Fibrous_183/test/bad/017.png", "label": 1, "class_name": "Fibrous", "mask_path": "Fibrous_183/ground_truth/bad/017_mask.png"}
+{"image_path": "Fibrous_183/test/bad/018.png", "label": 1, "class_name": "Fibrous", "mask_path": "Fibrous_183/ground_truth/bad/018_mask.png"}
+{"image_path": "Fibrous_183/test/bad/019.png", "label": 1, "class_name": "Fibrous", "mask_path": "Fibrous_183/ground_truth/bad/019_mask.png"}
+{"image_path": "Fibrous_183/test/bad/020.png", "label": 1, "class_name": "Fibrous", "mask_path": "Fibrous_183/ground_truth/bad/020_mask.png"}
+{"image_path": "Fibrous_183/test/bad/021.png", "label": 1, "class_name": "Fibrous", "mask_path": "Fibrous_183/ground_truth/bad/021_mask.png"}
+{"image_path": "Fibrous_183/test/bad/022.png", "label": 1, "class_name": "Fibrous", "mask_path": "Fibrous_183/ground_truth/bad/022_mask.png"}
+{"image_path": "Fibrous_183/test/bad/023.png", "label": 1, "class_name": "Fibrous", "mask_path": "Fibrous_183/ground_truth/bad/023_mask.png"}
+{"image_path": "Fibrous_183/test/bad/024.png", "label": 1, "class_name": "Fibrous", "mask_path": "Fibrous_183/ground_truth/bad/024_mask.png"}
+{"image_path": "Fibrous_183/test/bad/025.png", "label": 1, "class_name": "Fibrous", "mask_path": "Fibrous_183/ground_truth/bad/025_mask.png"}
+{"image_path": "Fibrous_183/test/bad/026.png", "label": 1, "class_name": "Fibrous", "mask_path": "Fibrous_183/ground_truth/bad/026_mask.png"}
+{"image_path": "Fibrous_183/test/bad/027.png", "label": 1, "class_name": "Fibrous", "mask_path": "Fibrous_183/ground_truth/bad/027_mask.png"}
+{"image_path": "Fibrous_183/test/bad/028.png", "label": 1, "class_name": "Fibrous", "mask_path": "Fibrous_183/ground_truth/bad/028_mask.png"}
+{"image_path": "Fibrous_183/test/bad/029.png", "label": 1, "class_name": "Fibrous", "mask_path": "Fibrous_183/ground_truth/bad/029_mask.png"}
+{"image_path": "Fibrous_183/test/bad/030.png", "label": 1, "class_name": "Fibrous", "mask_path": "Fibrous_183/ground_truth/bad/030_mask.png"}
+{"image_path": "Fibrous_183/test/bad/031.png", "label": 1, "class_name": "Fibrous", "mask_path": "Fibrous_183/ground_truth/bad/031_mask.png"}
+{"image_path": "Fibrous_183/test/bad/032.png", "label": 1, "class_name": "Fibrous", "mask_path": "Fibrous_183/ground_truth/bad/032_mask.png"}
+{"image_path": "Fibrous_183/test/bad/033.png", "label": 1, "class_name": "Fibrous", "mask_path": "Fibrous_183/ground_truth/bad/033_mask.png"}
+{"image_path": "Fibrous_183/test/bad/034.png", "label": 1, "class_name": "Fibrous", "mask_path": "Fibrous_183/ground_truth/bad/034_mask.png"}
+{"image_path": "Fibrous_183/test/bad/035.png", "label": 1, "class_name": "Fibrous", "mask_path": "Fibrous_183/ground_truth/bad/035_mask.png"}
+{"image_path": "Fibrous_183/test/bad/036.png", "label": 1, "class_name": "Fibrous", "mask_path": "Fibrous_183/ground_truth/bad/036_mask.png"}
+{"image_path": "Fibrous_183/test/bad/037.png", "label": 1, "class_name": "Fibrous", "mask_path": "Fibrous_183/ground_truth/bad/037_mask.png"}
+{"image_path": "Fibrous_183/test/bad/038.png", "label": 1, "class_name": "Fibrous", "mask_path": "Fibrous_183/ground_truth/bad/038_mask.png"}
+{"image_path": "Fibrous_183/test/bad/039.png", "label": 1, "class_name": "Fibrous", "mask_path": "Fibrous_183/ground_truth/bad/039_mask.png"}
+{"image_path": "Fibrous_183/test/bad/040.png", "label": 1, "class_name": "Fibrous", "mask_path": "Fibrous_183/ground_truth/bad/040_mask.png"}
+{"image_path": "Fibrous_183/test/bad/041.png", "label": 1, "class_name": "Fibrous", "mask_path": "Fibrous_183/ground_truth/bad/041_mask.png"}
+{"image_path": "Fibrous_183/test/bad/042.png", "label": 1, "class_name": "Fibrous", "mask_path": "Fibrous_183/ground_truth/bad/042_mask.png"}
+{"image_path": "Fibrous_183/test/bad/043.png", "label": 1, "class_name": "Fibrous", "mask_path": "Fibrous_183/ground_truth/bad/043_mask.png"}
+{"image_path": "Fibrous_183/test/bad/044.png", "label": 1, "class_name": "Fibrous", "mask_path": "Fibrous_183/ground_truth/bad/044_mask.png"}
+{"image_path": "Fibrous_183/test/bad/045.png", "label": 1, "class_name": "Fibrous", "mask_path": "Fibrous_183/ground_truth/bad/045_mask.png"}
+{"image_path": "Fibrous_183/test/bad/046.png", "label": 1, "class_name": "Fibrous", "mask_path": "Fibrous_183/ground_truth/bad/046_mask.png"}
+{"image_path": "Fibrous_183/test/bad/047.png", "label": 1, "class_name": "Fibrous", "mask_path": "Fibrous_183/ground_truth/bad/047_mask.png"}
+{"image_path": "Fibrous_183/test/bad/048.png", "label": 1, "class_name": "Fibrous", "mask_path": "Fibrous_183/ground_truth/bad/048_mask.png"}
+{"image_path": "Fibrous_183/test/bad/049.png", "label": 1, "class_name": "Fibrous", "mask_path": "Fibrous_183/ground_truth/bad/049_mask.png"}
+{"image_path": "Fibrous_183/test/bad/050.png", "label": 1, "class_name": "Fibrous", "mask_path": "Fibrous_183/ground_truth/bad/050_mask.png"}
+{"image_path": "Fibrous_183/test/bad/051.png", "label": 1, "class_name": "Fibrous", "mask_path": "Fibrous_183/ground_truth/bad/051_mask.png"}
+{"image_path": "Fibrous_183/test/bad/052.png", "label": 1, "class_name": "Fibrous", "mask_path": "Fibrous_183/ground_truth/bad/052_mask.png"}
+{"image_path": "Fibrous_183/test/bad/053.png", "label": 1, "class_name": "Fibrous", "mask_path": "Fibrous_183/ground_truth/bad/053_mask.png"}
+{"image_path": "Fibrous_183/test/bad/054.png", "label": 1, "class_name": "Fibrous", "mask_path": "Fibrous_183/ground_truth/bad/054_mask.png"}
+{"image_path": "Fibrous_183/test/bad/055.png", "label": 1, "class_name": "Fibrous", "mask_path": "Fibrous_183/ground_truth/bad/055_mask.png"}
+{"image_path": "Fibrous_183/test/bad/056.png", "label": 1, "class_name": "Fibrous", "mask_path": "Fibrous_183/ground_truth/bad/056_mask.png"}
+{"image_path": "Fibrous_183/test/bad/057.png", "label": 1, "class_name": "Fibrous", "mask_path": "Fibrous_183/ground_truth/bad/057_mask.png"}
+{"image_path": "Fibrous_183/test/bad/058.png", "label": 1, "class_name": "Fibrous", "mask_path": "Fibrous_183/ground_truth/bad/058_mask.png"}
+{"image_path": "Fibrous_183/test/bad/059.png", "label": 1, "class_name": "Fibrous", "mask_path": "Fibrous_183/ground_truth/bad/059_mask.png"}
+{"image_path": "Fibrous_183/test/bad/060.png", "label": 1, "class_name": "Fibrous", "mask_path": "Fibrous_183/ground_truth/bad/060_mask.png"}
+{"image_path": "Fibrous_183/test/bad/061.png", "label": 1, "class_name": "Fibrous", "mask_path": "Fibrous_183/ground_truth/bad/061_mask.png"}
+{"image_path": "Fibrous_183/test/bad/062.png", "label": 1, "class_name": "Fibrous", "mask_path": "Fibrous_183/ground_truth/bad/062_mask.png"}
+{"image_path": "Fibrous_183/test/bad/063.png", "label": 1, "class_name": "Fibrous", "mask_path": "Fibrous_183/ground_truth/bad/063_mask.png"}
+{"image_path": "Fibrous_183/test/bad/064.png", "label": 1, "class_name": "Fibrous", "mask_path": "Fibrous_183/ground_truth/bad/064_mask.png"}
+{"image_path": "Fibrous_183/test/bad/065.png", "label": 1, "class_name": "Fibrous", "mask_path": "Fibrous_183/ground_truth/bad/065_mask.png"}
+{"image_path": "Fibrous_183/test/bad/066.png", "label": 1, "class_name": "Fibrous", "mask_path": "Fibrous_183/ground_truth/bad/066_mask.png"}
+{"image_path": "Fibrous_183/test/bad/067.png", "label": 1, "class_name": "Fibrous", "mask_path": "Fibrous_183/ground_truth/bad/067_mask.png"}
+{"image_path": "Fibrous_183/test/bad/068.png", "label": 1, "class_name": "Fibrous", "mask_path": "Fibrous_183/ground_truth/bad/068_mask.png"}
+{"image_path": "Fibrous_183/test/bad/069.png", "label": 1, "class_name": "Fibrous", "mask_path": "Fibrous_183/ground_truth/bad/069_mask.png"}
+{"image_path": "Fibrous_183/test/bad/070.png", "label": 1, "class_name": "Fibrous", "mask_path": "Fibrous_183/ground_truth/bad/070_mask.png"}
+{"image_path": "Fibrous_183/test/bad/071.png", "label": 1, "class_name": "Fibrous", "mask_path": "Fibrous_183/ground_truth/bad/071_mask.png"}
+{"image_path": "Fibrous_183/test/bad/072.png", "label": 1, "class_name": "Fibrous", "mask_path": "Fibrous_183/ground_truth/bad/072_mask.png"}
+{"image_path": "Fibrous_183/test/bad/073.png", "label": 1, "class_name": "Fibrous", "mask_path": "Fibrous_183/ground_truth/bad/073_mask.png"}
+{"image_path": "Fibrous_183/test/bad/074.png", "label": 1, "class_name": "Fibrous", "mask_path": "Fibrous_183/ground_truth/bad/074_mask.png"}
+{"image_path": "Fibrous_183/test/bad/075.png", "label": 1, "class_name": "Fibrous", "mask_path": "Fibrous_183/ground_truth/bad/075_mask.png"}
+{"image_path": "Fibrous_183/test/bad/076.png", "label": 1, "class_name": "Fibrous", "mask_path": "Fibrous_183/ground_truth/bad/076_mask.png"}
+{"image_path": "Fibrous_183/test/bad/077.png", "label": 1, "class_name": "Fibrous", "mask_path": "Fibrous_183/ground_truth/bad/077_mask.png"}
+{"image_path": "Fibrous_183/test/bad/078.png", "label": 1, "class_name": "Fibrous", "mask_path": "Fibrous_183/ground_truth/bad/078_mask.png"}
+{"image_path": "Fibrous_183/test/bad/079.png", "label": 1, "class_name": "Fibrous", "mask_path": "Fibrous_183/ground_truth/bad/079_mask.png"}
+{"image_path": "Fibrous_183/test/good/000.png", "label": 0, "class_name": "Fibrous"}
+{"image_path": "Fibrous_183/test/good/001.png", "label": 0, "class_name": "Fibrous"}
+{"image_path": "Fibrous_183/test/good/002.png", "label": 0, "class_name": "Fibrous"}
+{"image_path": "Fibrous_183/test/good/003.png", "label": 0, "class_name": "Fibrous"}
+{"image_path": "Fibrous_183/test/good/004.png", "label": 0, "class_name": "Fibrous"}
+{"image_path": "Fibrous_183/test/good/005.png", "label": 0, "class_name": "Fibrous"}
+{"image_path": "Fibrous_183/test/good/006.png", "label": 0, "class_name": "Fibrous"}
+{"image_path": "Fibrous_183/test/good/007.png", "label": 0, "class_name": "Fibrous"}
+{"image_path": "Fibrous_183/test/good/008.png", "label": 0, "class_name": "Fibrous"}
+{"image_path": "Fibrous_183/test/good/009.png", "label": 0, "class_name": "Fibrous"}
+{"image_path": "Fibrous_183/test/good/010.png", "label": 0, "class_name": "Fibrous"}
+{"image_path": "Fibrous_183/test/good/011.png", "label": 0, "class_name": "Fibrous"}
+{"image_path": "Fibrous_183/test/good/012.png", "label": 0, "class_name": "Fibrous"}
+{"image_path": "Fibrous_183/test/good/013.png", "label": 0, "class_name": "Fibrous"}
+{"image_path": "Fibrous_183/test/good/014.png", "label": 0, "class_name": "Fibrous"}
+{"image_path": "Fibrous_183/test/good/015.png", "label": 0, "class_name": "Fibrous"}
+{"image_path": "Fibrous_183/test/good/016.png", "label": 0, "class_name": "Fibrous"}
+{"image_path": "Fibrous_183/test/good/017.png", "label": 0, "class_name": "Fibrous"}
+{"image_path": "Fibrous_183/test/good/018.png", "label": 0, "class_name": "Fibrous"}
+{"image_path": "Fibrous_183/test/good/019.png", "label": 0, "class_name": "Fibrous"}
+{"image_path": "Marbled_078/test/bad/000.png", "label": 1, "class_name": "Marbled", "mask_path": "Marbled_078/ground_truth/bad/000_mask.png"}
+{"image_path": "Marbled_078/test/bad/001.png", "label": 1, "class_name": "Marbled", "mask_path": "Marbled_078/ground_truth/bad/001_mask.png"}
+{"image_path": "Marbled_078/test/bad/002.png", "label": 1, "class_name": "Marbled", "mask_path": "Marbled_078/ground_truth/bad/002_mask.png"}
+{"image_path": "Marbled_078/test/bad/003.png", "label": 1, "class_name": "Marbled", "mask_path": "Marbled_078/ground_truth/bad/003_mask.png"}
+{"image_path": "Marbled_078/test/bad/004.png", "label": 1, "class_name": "Marbled", "mask_path": "Marbled_078/ground_truth/bad/004_mask.png"}
+{"image_path": "Marbled_078/test/bad/005.png", "label": 1, "class_name": "Marbled", "mask_path": "Marbled_078/ground_truth/bad/005_mask.png"}
+{"image_path": "Marbled_078/test/bad/006.png", "label": 1, "class_name": "Marbled", "mask_path": "Marbled_078/ground_truth/bad/006_mask.png"}
+{"image_path": "Marbled_078/test/bad/007.png", "label": 1, "class_name": "Marbled", "mask_path": "Marbled_078/ground_truth/bad/007_mask.png"}
+{"image_path": "Marbled_078/test/bad/008.png", "label": 1, "class_name": "Marbled", "mask_path": "Marbled_078/ground_truth/bad/008_mask.png"}
+{"image_path": "Marbled_078/test/bad/009.png", "label": 1, "class_name": "Marbled", "mask_path": "Marbled_078/ground_truth/bad/009_mask.png"}
+{"image_path": "Marbled_078/test/bad/010.png", "label": 1, "class_name": "Marbled", "mask_path": "Marbled_078/ground_truth/bad/010_mask.png"}
+{"image_path": "Marbled_078/test/bad/011.png", "label": 1, "class_name": "Marbled", "mask_path": "Marbled_078/ground_truth/bad/011_mask.png"}
+{"image_path": "Marbled_078/test/bad/012.png", "label": 1, "class_name": "Marbled", "mask_path": "Marbled_078/ground_truth/bad/012_mask.png"}
+{"image_path": "Marbled_078/test/bad/013.png", "label": 1, "class_name": "Marbled", "mask_path": "Marbled_078/ground_truth/bad/013_mask.png"}
+{"image_path": "Marbled_078/test/bad/014.png", "label": 1, "class_name": "Marbled", "mask_path": "Marbled_078/ground_truth/bad/014_mask.png"}
+{"image_path": "Marbled_078/test/bad/015.png", "label": 1, "class_name": "Marbled", "mask_path": "Marbled_078/ground_truth/bad/015_mask.png"}
+{"image_path": "Marbled_078/test/bad/016.png", "label": 1, "class_name": "Marbled", "mask_path": "Marbled_078/ground_truth/bad/016_mask.png"}
+{"image_path": "Marbled_078/test/bad/017.png", "label": 1, "class_name": "Marbled", "mask_path": "Marbled_078/ground_truth/bad/017_mask.png"}
+{"image_path": "Marbled_078/test/bad/018.png", "label": 1, "class_name": "Marbled", "mask_path": "Marbled_078/ground_truth/bad/018_mask.png"}
+{"image_path": "Marbled_078/test/bad/019.png", "label": 1, "class_name": "Marbled", "mask_path": "Marbled_078/ground_truth/bad/019_mask.png"}
+{"image_path": "Marbled_078/test/bad/020.png", "label": 1, "class_name": "Marbled", "mask_path": "Marbled_078/ground_truth/bad/020_mask.png"}
+{"image_path": "Marbled_078/test/bad/021.png", "label": 1, "class_name": "Marbled", "mask_path": "Marbled_078/ground_truth/bad/021_mask.png"}
+{"image_path": "Marbled_078/test/bad/022.png", "label": 1, "class_name": "Marbled", "mask_path": "Marbled_078/ground_truth/bad/022_mask.png"}
+{"image_path": "Marbled_078/test/bad/023.png", "label": 1, "class_name": "Marbled", "mask_path": "Marbled_078/ground_truth/bad/023_mask.png"}
+{"image_path": "Marbled_078/test/bad/024.png", "label": 1, "class_name": "Marbled", "mask_path": "Marbled_078/ground_truth/bad/024_mask.png"}
+{"image_path": "Marbled_078/test/bad/025.png", "label": 1, "class_name": "Marbled", "mask_path": "Marbled_078/ground_truth/bad/025_mask.png"}
+{"image_path": "Marbled_078/test/bad/026.png", "label": 1, "class_name": "Marbled", "mask_path": "Marbled_078/ground_truth/bad/026_mask.png"}
+{"image_path": "Marbled_078/test/bad/027.png", "label": 1, "class_name": "Marbled", "mask_path": "Marbled_078/ground_truth/bad/027_mask.png"}
+{"image_path": "Marbled_078/test/bad/028.png", "label": 1, "class_name": "Marbled", "mask_path": "Marbled_078/ground_truth/bad/028_mask.png"}
+{"image_path": "Marbled_078/test/bad/029.png", "label": 1, "class_name": "Marbled", "mask_path": "Marbled_078/ground_truth/bad/029_mask.png"}
+{"image_path": "Marbled_078/test/bad/030.png", "label": 1, "class_name": "Marbled", "mask_path": "Marbled_078/ground_truth/bad/030_mask.png"}
+{"image_path": "Marbled_078/test/bad/031.png", "label": 1, "class_name": "Marbled", "mask_path": "Marbled_078/ground_truth/bad/031_mask.png"}
+{"image_path": "Marbled_078/test/bad/032.png", "label": 1, "class_name": "Marbled", "mask_path": "Marbled_078/ground_truth/bad/032_mask.png"}
+{"image_path": "Marbled_078/test/bad/033.png", "label": 1, "class_name": "Marbled", "mask_path": "Marbled_078/ground_truth/bad/033_mask.png"}
+{"image_path": "Marbled_078/test/bad/034.png", "label": 1, "class_name": "Marbled", "mask_path": "Marbled_078/ground_truth/bad/034_mask.png"}
+{"image_path": "Marbled_078/test/bad/035.png", "label": 1, "class_name": "Marbled", "mask_path": "Marbled_078/ground_truth/bad/035_mask.png"}
+{"image_path": "Marbled_078/test/bad/036.png", "label": 1, "class_name": "Marbled", "mask_path": "Marbled_078/ground_truth/bad/036_mask.png"}
+{"image_path": "Marbled_078/test/bad/037.png", "label": 1, "class_name": "Marbled", "mask_path": "Marbled_078/ground_truth/bad/037_mask.png"}
+{"image_path": "Marbled_078/test/bad/038.png", "label": 1, "class_name": "Marbled", "mask_path": "Marbled_078/ground_truth/bad/038_mask.png"}
+{"image_path": "Marbled_078/test/bad/039.png", "label": 1, "class_name": "Marbled", "mask_path": "Marbled_078/ground_truth/bad/039_mask.png"}
+{"image_path": "Marbled_078/test/bad/040.png", "label": 1, "class_name": "Marbled", "mask_path": "Marbled_078/ground_truth/bad/040_mask.png"}
+{"image_path": "Marbled_078/test/bad/041.png", "label": 1, "class_name": "Marbled", "mask_path": "Marbled_078/ground_truth/bad/041_mask.png"}
+{"image_path": "Marbled_078/test/bad/042.png", "label": 1, "class_name": "Marbled", "mask_path": "Marbled_078/ground_truth/bad/042_mask.png"}
+{"image_path": "Marbled_078/test/bad/043.png", "label": 1, "class_name": "Marbled", "mask_path": "Marbled_078/ground_truth/bad/043_mask.png"}
+{"image_path": "Marbled_078/test/bad/044.png", "label": 1, "class_name": "Marbled", "mask_path": "Marbled_078/ground_truth/bad/044_mask.png"}
+{"image_path": "Marbled_078/test/bad/045.png", "label": 1, "class_name": "Marbled", "mask_path": "Marbled_078/ground_truth/bad/045_mask.png"}
+{"image_path": "Marbled_078/test/bad/046.png", "label": 1, "class_name": "Marbled", "mask_path": "Marbled_078/ground_truth/bad/046_mask.png"}
+{"image_path": "Marbled_078/test/bad/047.png", "label": 1, "class_name": "Marbled", "mask_path": "Marbled_078/ground_truth/bad/047_mask.png"}
+{"image_path": "Marbled_078/test/bad/048.png", "label": 1, "class_name": "Marbled", "mask_path": "Marbled_078/ground_truth/bad/048_mask.png"}
+{"image_path": "Marbled_078/test/bad/049.png", "label": 1, "class_name": "Marbled", "mask_path": "Marbled_078/ground_truth/bad/049_mask.png"}
+{"image_path": "Marbled_078/test/bad/050.png", "label": 1, "class_name": "Marbled", "mask_path": "Marbled_078/ground_truth/bad/050_mask.png"}
+{"image_path": "Marbled_078/test/bad/051.png", "label": 1, "class_name": "Marbled", "mask_path": "Marbled_078/ground_truth/bad/051_mask.png"}
+{"image_path": "Marbled_078/test/bad/052.png", "label": 1, "class_name": "Marbled", "mask_path": "Marbled_078/ground_truth/bad/052_mask.png"}
+{"image_path": "Marbled_078/test/bad/053.png", "label": 1, "class_name": "Marbled", "mask_path": "Marbled_078/ground_truth/bad/053_mask.png"}
+{"image_path": "Marbled_078/test/bad/054.png", "label": 1, "class_name": "Marbled", "mask_path": "Marbled_078/ground_truth/bad/054_mask.png"}
+{"image_path": "Marbled_078/test/bad/055.png", "label": 1, "class_name": "Marbled", "mask_path": "Marbled_078/ground_truth/bad/055_mask.png"}
+{"image_path": "Marbled_078/test/bad/056.png", "label": 1, "class_name": "Marbled", "mask_path": "Marbled_078/ground_truth/bad/056_mask.png"}
+{"image_path": "Marbled_078/test/bad/057.png", "label": 1, "class_name": "Marbled", "mask_path": "Marbled_078/ground_truth/bad/057_mask.png"}
+{"image_path": "Marbled_078/test/bad/058.png", "label": 1, "class_name": "Marbled", "mask_path": "Marbled_078/ground_truth/bad/058_mask.png"}
+{"image_path": "Marbled_078/test/bad/059.png", "label": 1, "class_name": "Marbled", "mask_path": "Marbled_078/ground_truth/bad/059_mask.png"}
+{"image_path": "Marbled_078/test/bad/060.png", "label": 1, "class_name": "Marbled", "mask_path": "Marbled_078/ground_truth/bad/060_mask.png"}
+{"image_path": "Marbled_078/test/bad/061.png", "label": 1, "class_name": "Marbled", "mask_path": "Marbled_078/ground_truth/bad/061_mask.png"}
+{"image_path": "Marbled_078/test/bad/062.png", "label": 1, "class_name": "Marbled", "mask_path": "Marbled_078/ground_truth/bad/062_mask.png"}
+{"image_path": "Marbled_078/test/bad/063.png", "label": 1, "class_name": "Marbled", "mask_path": "Marbled_078/ground_truth/bad/063_mask.png"}
+{"image_path": "Marbled_078/test/bad/064.png", "label": 1, "class_name": "Marbled", "mask_path": "Marbled_078/ground_truth/bad/064_mask.png"}
+{"image_path": "Marbled_078/test/bad/065.png", "label": 1, "class_name": "Marbled", "mask_path": "Marbled_078/ground_truth/bad/065_mask.png"}
+{"image_path": "Marbled_078/test/bad/066.png", "label": 1, "class_name": "Marbled", "mask_path": "Marbled_078/ground_truth/bad/066_mask.png"}
+{"image_path": "Marbled_078/test/bad/067.png", "label": 1, "class_name": "Marbled", "mask_path": "Marbled_078/ground_truth/bad/067_mask.png"}
+{"image_path": "Marbled_078/test/bad/068.png", "label": 1, "class_name": "Marbled", "mask_path": "Marbled_078/ground_truth/bad/068_mask.png"}
+{"image_path": "Marbled_078/test/bad/069.png", "label": 1, "class_name": "Marbled", "mask_path": "Marbled_078/ground_truth/bad/069_mask.png"}
+{"image_path": "Marbled_078/test/bad/070.png", "label": 1, "class_name": "Marbled", "mask_path": "Marbled_078/ground_truth/bad/070_mask.png"}
+{"image_path": "Marbled_078/test/bad/071.png", "label": 1, "class_name": "Marbled", "mask_path": "Marbled_078/ground_truth/bad/071_mask.png"}
+{"image_path": "Marbled_078/test/bad/072.png", "label": 1, "class_name": "Marbled", "mask_path": "Marbled_078/ground_truth/bad/072_mask.png"}
+{"image_path": "Marbled_078/test/bad/073.png", "label": 1, "class_name": "Marbled", "mask_path": "Marbled_078/ground_truth/bad/073_mask.png"}
+{"image_path": "Marbled_078/test/bad/074.png", "label": 1, "class_name": "Marbled", "mask_path": "Marbled_078/ground_truth/bad/074_mask.png"}
+{"image_path": "Marbled_078/test/bad/075.png", "label": 1, "class_name": "Marbled", "mask_path": "Marbled_078/ground_truth/bad/075_mask.png"}
+{"image_path": "Marbled_078/test/bad/076.png", "label": 1, "class_name": "Marbled", "mask_path": "Marbled_078/ground_truth/bad/076_mask.png"}
+{"image_path": "Marbled_078/test/bad/077.png", "label": 1, "class_name": "Marbled", "mask_path": "Marbled_078/ground_truth/bad/077_mask.png"}
+{"image_path": "Marbled_078/test/bad/078.png", "label": 1, "class_name": "Marbled", "mask_path": "Marbled_078/ground_truth/bad/078_mask.png"}
+{"image_path": "Marbled_078/test/bad/079.png", "label": 1, "class_name": "Marbled", "mask_path": "Marbled_078/ground_truth/bad/079_mask.png"}
+{"image_path": "Marbled_078/test/good/000.png", "label": 0, "class_name": "Marbled"}
+{"image_path": "Marbled_078/test/good/001.png", "label": 0, "class_name": "Marbled"}
+{"image_path": "Marbled_078/test/good/002.png", "label": 0, "class_name": "Marbled"}
+{"image_path": "Marbled_078/test/good/003.png", "label": 0, "class_name": "Marbled"}
+{"image_path": "Marbled_078/test/good/004.png", "label": 0, "class_name": "Marbled"}
+{"image_path": "Marbled_078/test/good/005.png", "label": 0, "class_name": "Marbled"}
+{"image_path": "Marbled_078/test/good/006.png", "label": 0, "class_name": "Marbled"}
+{"image_path": "Marbled_078/test/good/007.png", "label": 0, "class_name": "Marbled"}
+{"image_path": "Marbled_078/test/good/008.png", "label": 0, "class_name": "Marbled"}
+{"image_path": "Marbled_078/test/good/009.png", "label": 0, "class_name": "Marbled"}
+{"image_path": "Marbled_078/test/good/010.png", "label": 0, "class_name": "Marbled"}
+{"image_path": "Marbled_078/test/good/011.png", "label": 0, "class_name": "Marbled"}
+{"image_path": "Marbled_078/test/good/012.png", "label": 0, "class_name": "Marbled"}
+{"image_path": "Marbled_078/test/good/013.png", "label": 0, "class_name": "Marbled"}
+{"image_path": "Marbled_078/test/good/014.png", "label": 0, "class_name": "Marbled"}
+{"image_path": "Marbled_078/test/good/015.png", "label": 0, "class_name": "Marbled"}
+{"image_path": "Marbled_078/test/good/016.png", "label": 0, "class_name": "Marbled"}
+{"image_path": "Marbled_078/test/good/017.png", "label": 0, "class_name": "Marbled"}
+{"image_path": "Marbled_078/test/good/018.png", "label": 0, "class_name": "Marbled"}
+{"image_path": "Marbled_078/test/good/019.png", "label": 0, "class_name": "Marbled"}
+{"image_path": "Matted_069/test/bad/000.png", "label": 1, "class_name": "Matted", "mask_path": "Matted_069/ground_truth/bad/000_mask.png"}
+{"image_path": "Matted_069/test/bad/001.png", "label": 1, "class_name": "Matted", "mask_path": "Matted_069/ground_truth/bad/001_mask.png"}
+{"image_path": "Matted_069/test/bad/002.png", "label": 1, "class_name": "Matted", "mask_path": "Matted_069/ground_truth/bad/002_mask.png"}
+{"image_path": "Matted_069/test/bad/003.png", "label": 1, "class_name": "Matted", "mask_path": "Matted_069/ground_truth/bad/003_mask.png"}
+{"image_path": "Matted_069/test/bad/004.png", "label": 1, "class_name": "Matted", "mask_path": "Matted_069/ground_truth/bad/004_mask.png"}
+{"image_path": "Matted_069/test/bad/005.png", "label": 1, "class_name": "Matted", "mask_path": "Matted_069/ground_truth/bad/005_mask.png"}
+{"image_path": "Matted_069/test/bad/006.png", "label": 1, "class_name": "Matted", "mask_path": "Matted_069/ground_truth/bad/006_mask.png"}
+{"image_path": "Matted_069/test/bad/007.png", "label": 1, "class_name": "Matted", "mask_path": "Matted_069/ground_truth/bad/007_mask.png"}
+{"image_path": "Matted_069/test/bad/008.png", "label": 1, "class_name": "Matted", "mask_path": "Matted_069/ground_truth/bad/008_mask.png"}
+{"image_path": "Matted_069/test/bad/009.png", "label": 1, "class_name": "Matted", "mask_path": "Matted_069/ground_truth/bad/009_mask.png"}
+{"image_path": "Matted_069/test/bad/010.png", "label": 1, "class_name": "Matted", "mask_path": "Matted_069/ground_truth/bad/010_mask.png"}
+{"image_path": "Matted_069/test/bad/011.png", "label": 1, "class_name": "Matted", "mask_path": "Matted_069/ground_truth/bad/011_mask.png"}
+{"image_path": "Matted_069/test/bad/012.png", "label": 1, "class_name": "Matted", "mask_path": "Matted_069/ground_truth/bad/012_mask.png"}
+{"image_path": "Matted_069/test/bad/013.png", "label": 1, "class_name": "Matted", "mask_path": "Matted_069/ground_truth/bad/013_mask.png"}
+{"image_path": "Matted_069/test/bad/014.png", "label": 1, "class_name": "Matted", "mask_path": "Matted_069/ground_truth/bad/014_mask.png"}
+{"image_path": "Matted_069/test/bad/015.png", "label": 1, "class_name": "Matted", "mask_path": "Matted_069/ground_truth/bad/015_mask.png"}
+{"image_path": "Matted_069/test/bad/016.png", "label": 1, "class_name": "Matted", "mask_path": "Matted_069/ground_truth/bad/016_mask.png"}
+{"image_path": "Matted_069/test/bad/017.png", "label": 1, "class_name": "Matted", "mask_path": "Matted_069/ground_truth/bad/017_mask.png"}
+{"image_path": "Matted_069/test/bad/018.png", "label": 1, "class_name": "Matted", "mask_path": "Matted_069/ground_truth/bad/018_mask.png"}
+{"image_path": "Matted_069/test/bad/019.png", "label": 1, "class_name": "Matted", "mask_path": "Matted_069/ground_truth/bad/019_mask.png"}
+{"image_path": "Matted_069/test/bad/020.png", "label": 1, "class_name": "Matted", "mask_path": "Matted_069/ground_truth/bad/020_mask.png"}
+{"image_path": "Matted_069/test/bad/021.png", "label": 1, "class_name": "Matted", "mask_path": "Matted_069/ground_truth/bad/021_mask.png"}
+{"image_path": "Matted_069/test/bad/022.png", "label": 1, "class_name": "Matted", "mask_path": "Matted_069/ground_truth/bad/022_mask.png"}
+{"image_path": "Matted_069/test/bad/023.png", "label": 1, "class_name": "Matted", "mask_path": "Matted_069/ground_truth/bad/023_mask.png"}
+{"image_path": "Matted_069/test/bad/024.png", "label": 1, "class_name": "Matted", "mask_path": "Matted_069/ground_truth/bad/024_mask.png"}
+{"image_path": "Matted_069/test/bad/025.png", "label": 1, "class_name": "Matted", "mask_path": "Matted_069/ground_truth/bad/025_mask.png"}
+{"image_path": "Matted_069/test/bad/026.png", "label": 1, "class_name": "Matted", "mask_path": "Matted_069/ground_truth/bad/026_mask.png"}
+{"image_path": "Matted_069/test/bad/027.png", "label": 1, "class_name": "Matted", "mask_path": "Matted_069/ground_truth/bad/027_mask.png"}
+{"image_path": "Matted_069/test/bad/028.png", "label": 1, "class_name": "Matted", "mask_path": "Matted_069/ground_truth/bad/028_mask.png"}
+{"image_path": "Matted_069/test/bad/029.png", "label": 1, "class_name": "Matted", "mask_path": "Matted_069/ground_truth/bad/029_mask.png"}
+{"image_path": "Matted_069/test/bad/030.png", "label": 1, "class_name": "Matted", "mask_path": "Matted_069/ground_truth/bad/030_mask.png"}
+{"image_path": "Matted_069/test/bad/031.png", "label": 1, "class_name": "Matted", "mask_path": "Matted_069/ground_truth/bad/031_mask.png"}
+{"image_path": "Matted_069/test/bad/032.png", "label": 1, "class_name": "Matted", "mask_path": "Matted_069/ground_truth/bad/032_mask.png"}
+{"image_path": "Matted_069/test/bad/033.png", "label": 1, "class_name": "Matted", "mask_path": "Matted_069/ground_truth/bad/033_mask.png"}
+{"image_path": "Matted_069/test/bad/034.png", "label": 1, "class_name": "Matted", "mask_path": "Matted_069/ground_truth/bad/034_mask.png"}
+{"image_path": "Matted_069/test/bad/035.png", "label": 1, "class_name": "Matted", "mask_path": "Matted_069/ground_truth/bad/035_mask.png"}
+{"image_path": "Matted_069/test/bad/036.png", "label": 1, "class_name": "Matted", "mask_path": "Matted_069/ground_truth/bad/036_mask.png"}
+{"image_path": "Matted_069/test/bad/037.png", "label": 1, "class_name": "Matted", "mask_path": "Matted_069/ground_truth/bad/037_mask.png"}
+{"image_path": "Matted_069/test/bad/038.png", "label": 1, "class_name": "Matted", "mask_path": "Matted_069/ground_truth/bad/038_mask.png"}
+{"image_path": "Matted_069/test/bad/039.png", "label": 1, "class_name": "Matted", "mask_path": "Matted_069/ground_truth/bad/039_mask.png"}
+{"image_path": "Matted_069/test/bad/040.png", "label": 1, "class_name": "Matted", "mask_path": "Matted_069/ground_truth/bad/040_mask.png"}
+{"image_path": "Matted_069/test/bad/041.png", "label": 1, "class_name": "Matted", "mask_path": "Matted_069/ground_truth/bad/041_mask.png"}
+{"image_path": "Matted_069/test/bad/042.png", "label": 1, "class_name": "Matted", "mask_path": "Matted_069/ground_truth/bad/042_mask.png"}
+{"image_path": "Matted_069/test/bad/043.png", "label": 1, "class_name": "Matted", "mask_path": "Matted_069/ground_truth/bad/043_mask.png"}
+{"image_path": "Matted_069/test/bad/044.png", "label": 1, "class_name": "Matted", "mask_path": "Matted_069/ground_truth/bad/044_mask.png"}
+{"image_path": "Matted_069/test/bad/045.png", "label": 1, "class_name": "Matted", "mask_path": "Matted_069/ground_truth/bad/045_mask.png"}
+{"image_path": "Matted_069/test/bad/046.png", "label": 1, "class_name": "Matted", "mask_path": "Matted_069/ground_truth/bad/046_mask.png"}
+{"image_path": "Matted_069/test/bad/047.png", "label": 1, "class_name": "Matted", "mask_path": "Matted_069/ground_truth/bad/047_mask.png"}
+{"image_path": "Matted_069/test/bad/048.png", "label": 1, "class_name": "Matted", "mask_path": "Matted_069/ground_truth/bad/048_mask.png"}
+{"image_path": "Matted_069/test/bad/049.png", "label": 1, "class_name": "Matted", "mask_path": "Matted_069/ground_truth/bad/049_mask.png"}
+{"image_path": "Matted_069/test/bad/050.png", "label": 1, "class_name": "Matted", "mask_path": "Matted_069/ground_truth/bad/050_mask.png"}
+{"image_path": "Matted_069/test/bad/051.png", "label": 1, "class_name": "Matted", "mask_path": "Matted_069/ground_truth/bad/051_mask.png"}
+{"image_path": "Matted_069/test/bad/052.png", "label": 1, "class_name": "Matted", "mask_path": "Matted_069/ground_truth/bad/052_mask.png"}
+{"image_path": "Matted_069/test/bad/053.png", "label": 1, "class_name": "Matted", "mask_path": "Matted_069/ground_truth/bad/053_mask.png"}
+{"image_path": "Matted_069/test/bad/054.png", "label": 1, "class_name": "Matted", "mask_path": "Matted_069/ground_truth/bad/054_mask.png"}
+{"image_path": "Matted_069/test/bad/055.png", "label": 1, "class_name": "Matted", "mask_path": "Matted_069/ground_truth/bad/055_mask.png"}
+{"image_path": "Matted_069/test/bad/056.png", "label": 1, "class_name": "Matted", "mask_path": "Matted_069/ground_truth/bad/056_mask.png"}
+{"image_path": "Matted_069/test/bad/057.png", "label": 1, "class_name": "Matted", "mask_path": "Matted_069/ground_truth/bad/057_mask.png"}
+{"image_path": "Matted_069/test/bad/058.png", "label": 1, "class_name": "Matted", "mask_path": "Matted_069/ground_truth/bad/058_mask.png"}
+{"image_path": "Matted_069/test/bad/059.png", "label": 1, "class_name": "Matted", "mask_path": "Matted_069/ground_truth/bad/059_mask.png"}
+{"image_path": "Matted_069/test/bad/060.png", "label": 1, "class_name": "Matted", "mask_path": "Matted_069/ground_truth/bad/060_mask.png"}
+{"image_path": "Matted_069/test/bad/061.png", "label": 1, "class_name": "Matted", "mask_path": "Matted_069/ground_truth/bad/061_mask.png"}
+{"image_path": "Matted_069/test/bad/062.png", "label": 1, "class_name": "Matted", "mask_path": "Matted_069/ground_truth/bad/062_mask.png"}
+{"image_path": "Matted_069/test/bad/063.png", "label": 1, "class_name": "Matted", "mask_path": "Matted_069/ground_truth/bad/063_mask.png"}
+{"image_path": "Matted_069/test/bad/064.png", "label": 1, "class_name": "Matted", "mask_path": "Matted_069/ground_truth/bad/064_mask.png"}
+{"image_path": "Matted_069/test/bad/065.png", "label": 1, "class_name": "Matted", "mask_path": "Matted_069/ground_truth/bad/065_mask.png"}
+{"image_path": "Matted_069/test/bad/066.png", "label": 1, "class_name": "Matted", "mask_path": "Matted_069/ground_truth/bad/066_mask.png"}
+{"image_path": "Matted_069/test/bad/067.png", "label": 1, "class_name": "Matted", "mask_path": "Matted_069/ground_truth/bad/067_mask.png"}
+{"image_path": "Matted_069/test/bad/068.png", "label": 1, "class_name": "Matted", "mask_path": "Matted_069/ground_truth/bad/068_mask.png"}
+{"image_path": "Matted_069/test/bad/069.png", "label": 1, "class_name": "Matted", "mask_path": "Matted_069/ground_truth/bad/069_mask.png"}
+{"image_path": "Matted_069/test/bad/070.png", "label": 1, "class_name": "Matted", "mask_path": "Matted_069/ground_truth/bad/070_mask.png"}
+{"image_path": "Matted_069/test/bad/071.png", "label": 1, "class_name": "Matted", "mask_path": "Matted_069/ground_truth/bad/071_mask.png"}
+{"image_path": "Matted_069/test/bad/072.png", "label": 1, "class_name": "Matted", "mask_path": "Matted_069/ground_truth/bad/072_mask.png"}
+{"image_path": "Matted_069/test/bad/073.png", "label": 1, "class_name": "Matted", "mask_path": "Matted_069/ground_truth/bad/073_mask.png"}
+{"image_path": "Matted_069/test/bad/074.png", "label": 1, "class_name": "Matted", "mask_path": "Matted_069/ground_truth/bad/074_mask.png"}
+{"image_path": "Matted_069/test/bad/075.png", "label": 1, "class_name": "Matted", "mask_path": "Matted_069/ground_truth/bad/075_mask.png"}
+{"image_path": "Matted_069/test/bad/076.png", "label": 1, "class_name": "Matted", "mask_path": "Matted_069/ground_truth/bad/076_mask.png"}
+{"image_path": "Matted_069/test/bad/077.png", "label": 1, "class_name": "Matted", "mask_path": "Matted_069/ground_truth/bad/077_mask.png"}
+{"image_path": "Matted_069/test/bad/078.png", "label": 1, "class_name": "Matted", "mask_path": "Matted_069/ground_truth/bad/078_mask.png"}
+{"image_path": "Matted_069/test/good/000.png", "label": 0, "class_name": "Matted"}
+{"image_path": "Matted_069/test/good/001.png", "label": 0, "class_name": "Matted"}
+{"image_path": "Matted_069/test/good/002.png", "label": 0, "class_name": "Matted"}
+{"image_path": "Matted_069/test/good/003.png", "label": 0, "class_name": "Matted"}
+{"image_path": "Matted_069/test/good/004.png", "label": 0, "class_name": "Matted"}
+{"image_path": "Matted_069/test/good/005.png", "label": 0, "class_name": "Matted"}
+{"image_path": "Matted_069/test/good/006.png", "label": 0, "class_name": "Matted"}
+{"image_path": "Matted_069/test/good/007.png", "label": 0, "class_name": "Matted"}
+{"image_path": "Matted_069/test/good/008.png", "label": 0, "class_name": "Matted"}
+{"image_path": "Matted_069/test/good/009.png", "label": 0, "class_name": "Matted"}
+{"image_path": "Matted_069/test/good/010.png", "label": 0, "class_name": "Matted"}
+{"image_path": "Matted_069/test/good/011.png", "label": 0, "class_name": "Matted"}
+{"image_path": "Matted_069/test/good/012.png", "label": 0, "class_name": "Matted"}
+{"image_path": "Matted_069/test/good/013.png", "label": 0, "class_name": "Matted"}
+{"image_path": "Matted_069/test/good/014.png", "label": 0, "class_name": "Matted"}
+{"image_path": "Matted_069/test/good/015.png", "label": 0, "class_name": "Matted"}
+{"image_path": "Matted_069/test/good/016.png", "label": 0, "class_name": "Matted"}
+{"image_path": "Matted_069/test/good/017.png", "label": 0, "class_name": "Matted"}
+{"image_path": "Matted_069/test/good/018.png", "label": 0, "class_name": "Matted"}
+{"image_path": "Matted_069/test/good/019.png", "label": 0, "class_name": "Matted"}
+{"image_path": "Mesh_114/test/bad/000.png", "label": 1, "class_name": "Mesh", "mask_path": "Mesh_114/ground_truth/bad/000_mask.png"}
+{"image_path": "Mesh_114/test/bad/001.png", "label": 1, "class_name": "Mesh", "mask_path": "Mesh_114/ground_truth/bad/001_mask.png"}
+{"image_path": "Mesh_114/test/bad/002.png", "label": 1, "class_name": "Mesh", "mask_path": "Mesh_114/ground_truth/bad/002_mask.png"}
+{"image_path": "Mesh_114/test/bad/003.png", "label": 1, "class_name": "Mesh", "mask_path": "Mesh_114/ground_truth/bad/003_mask.png"}
+{"image_path": "Mesh_114/test/bad/004.png", "label": 1, "class_name": "Mesh", "mask_path": "Mesh_114/ground_truth/bad/004_mask.png"}
+{"image_path": "Mesh_114/test/bad/005.png", "label": 1, "class_name": "Mesh", "mask_path": "Mesh_114/ground_truth/bad/005_mask.png"}
+{"image_path": "Mesh_114/test/bad/006.png", "label": 1, "class_name": "Mesh", "mask_path": "Mesh_114/ground_truth/bad/006_mask.png"}
+{"image_path": "Mesh_114/test/bad/007.png", "label": 1, "class_name": "Mesh", "mask_path": "Mesh_114/ground_truth/bad/007_mask.png"}
+{"image_path": "Mesh_114/test/bad/008.png", "label": 1, "class_name": "Mesh", "mask_path": "Mesh_114/ground_truth/bad/008_mask.png"}
+{"image_path": "Mesh_114/test/bad/009.png", "label": 1, "class_name": "Mesh", "mask_path": "Mesh_114/ground_truth/bad/009_mask.png"}
+{"image_path": "Mesh_114/test/bad/010.png", "label": 1, "class_name": "Mesh", "mask_path": "Mesh_114/ground_truth/bad/010_mask.png"}
+{"image_path": "Mesh_114/test/bad/011.png", "label": 1, "class_name": "Mesh", "mask_path": "Mesh_114/ground_truth/bad/011_mask.png"}
+{"image_path": "Mesh_114/test/bad/012.png", "label": 1, "class_name": "Mesh", "mask_path": "Mesh_114/ground_truth/bad/012_mask.png"}
+{"image_path": "Mesh_114/test/bad/013.png", "label": 1, "class_name": "Mesh", "mask_path": "Mesh_114/ground_truth/bad/013_mask.png"}
+{"image_path": "Mesh_114/test/bad/014.png", "label": 1, "class_name": "Mesh", "mask_path": "Mesh_114/ground_truth/bad/014_mask.png"}
+{"image_path": "Mesh_114/test/bad/015.png", "label": 1, "class_name": "Mesh", "mask_path": "Mesh_114/ground_truth/bad/015_mask.png"}
+{"image_path": "Mesh_114/test/bad/016.png", "label": 1, "class_name": "Mesh", "mask_path": "Mesh_114/ground_truth/bad/016_mask.png"}
+{"image_path": "Mesh_114/test/bad/017.png", "label": 1, "class_name": "Mesh", "mask_path": "Mesh_114/ground_truth/bad/017_mask.png"}
+{"image_path": "Mesh_114/test/bad/018.png", "label": 1, "class_name": "Mesh", "mask_path": "Mesh_114/ground_truth/bad/018_mask.png"}
+{"image_path": "Mesh_114/test/bad/019.png", "label": 1, "class_name": "Mesh", "mask_path": "Mesh_114/ground_truth/bad/019_mask.png"}
+{"image_path": "Mesh_114/test/bad/020.png", "label": 1, "class_name": "Mesh", "mask_path": "Mesh_114/ground_truth/bad/020_mask.png"}
+{"image_path": "Mesh_114/test/bad/021.png", "label": 1, "class_name": "Mesh", "mask_path": "Mesh_114/ground_truth/bad/021_mask.png"}
+{"image_path": "Mesh_114/test/bad/022.png", "label": 1, "class_name": "Mesh", "mask_path": "Mesh_114/ground_truth/bad/022_mask.png"}
+{"image_path": "Mesh_114/test/bad/023.png", "label": 1, "class_name": "Mesh", "mask_path": "Mesh_114/ground_truth/bad/023_mask.png"}
+{"image_path": "Mesh_114/test/bad/024.png", "label": 1, "class_name": "Mesh", "mask_path": "Mesh_114/ground_truth/bad/024_mask.png"}
+{"image_path": "Mesh_114/test/bad/025.png", "label": 1, "class_name": "Mesh", "mask_path": "Mesh_114/ground_truth/bad/025_mask.png"}
+{"image_path": "Mesh_114/test/bad/026.png", "label": 1, "class_name": "Mesh", "mask_path": "Mesh_114/ground_truth/bad/026_mask.png"}
+{"image_path": "Mesh_114/test/bad/027.png", "label": 1, "class_name": "Mesh", "mask_path": "Mesh_114/ground_truth/bad/027_mask.png"}
+{"image_path": "Mesh_114/test/bad/028.png", "label": 1, "class_name": "Mesh", "mask_path": "Mesh_114/ground_truth/bad/028_mask.png"}
+{"image_path": "Mesh_114/test/bad/029.png", "label": 1, "class_name": "Mesh", "mask_path": "Mesh_114/ground_truth/bad/029_mask.png"}
+{"image_path": "Mesh_114/test/bad/030.png", "label": 1, "class_name": "Mesh", "mask_path": "Mesh_114/ground_truth/bad/030_mask.png"}
+{"image_path": "Mesh_114/test/bad/031.png", "label": 1, "class_name": "Mesh", "mask_path": "Mesh_114/ground_truth/bad/031_mask.png"}
+{"image_path": "Mesh_114/test/bad/032.png", "label": 1, "class_name": "Mesh", "mask_path": "Mesh_114/ground_truth/bad/032_mask.png"}
+{"image_path": "Mesh_114/test/bad/033.png", "label": 1, "class_name": "Mesh", "mask_path": "Mesh_114/ground_truth/bad/033_mask.png"}
+{"image_path": "Mesh_114/test/bad/034.png", "label": 1, "class_name": "Mesh", "mask_path": "Mesh_114/ground_truth/bad/034_mask.png"}
+{"image_path": "Mesh_114/test/bad/035.png", "label": 1, "class_name": "Mesh", "mask_path": "Mesh_114/ground_truth/bad/035_mask.png"}
+{"image_path": "Mesh_114/test/bad/036.png", "label": 1, "class_name": "Mesh", "mask_path": "Mesh_114/ground_truth/bad/036_mask.png"}
+{"image_path": "Mesh_114/test/bad/037.png", "label": 1, "class_name": "Mesh", "mask_path": "Mesh_114/ground_truth/bad/037_mask.png"}
+{"image_path": "Mesh_114/test/bad/038.png", "label": 1, "class_name": "Mesh", "mask_path": "Mesh_114/ground_truth/bad/038_mask.png"}
+{"image_path": "Mesh_114/test/bad/039.png", "label": 1, "class_name": "Mesh", "mask_path": "Mesh_114/ground_truth/bad/039_mask.png"}
+{"image_path": "Mesh_114/test/bad/040.png", "label": 1, "class_name": "Mesh", "mask_path": "Mesh_114/ground_truth/bad/040_mask.png"}
+{"image_path": "Mesh_114/test/bad/041.png", "label": 1, "class_name": "Mesh", "mask_path": "Mesh_114/ground_truth/bad/041_mask.png"}
+{"image_path": "Mesh_114/test/bad/042.png", "label": 1, "class_name": "Mesh", "mask_path": "Mesh_114/ground_truth/bad/042_mask.png"}
+{"image_path": "Mesh_114/test/bad/043.png", "label": 1, "class_name": "Mesh", "mask_path": "Mesh_114/ground_truth/bad/043_mask.png"}
+{"image_path": "Mesh_114/test/bad/044.png", "label": 1, "class_name": "Mesh", "mask_path": "Mesh_114/ground_truth/bad/044_mask.png"}
+{"image_path": "Mesh_114/test/bad/045.png", "label": 1, "class_name": "Mesh", "mask_path": "Mesh_114/ground_truth/bad/045_mask.png"}
+{"image_path": "Mesh_114/test/bad/046.png", "label": 1, "class_name": "Mesh", "mask_path": "Mesh_114/ground_truth/bad/046_mask.png"}
+{"image_path": "Mesh_114/test/bad/047.png", "label": 1, "class_name": "Mesh", "mask_path": "Mesh_114/ground_truth/bad/047_mask.png"}
+{"image_path": "Mesh_114/test/bad/048.png", "label": 1, "class_name": "Mesh", "mask_path": "Mesh_114/ground_truth/bad/048_mask.png"}
+{"image_path": "Mesh_114/test/bad/049.png", "label": 1, "class_name": "Mesh", "mask_path": "Mesh_114/ground_truth/bad/049_mask.png"}
+{"image_path": "Mesh_114/test/bad/050.png", "label": 1, "class_name": "Mesh", "mask_path": "Mesh_114/ground_truth/bad/050_mask.png"}
+{"image_path": "Mesh_114/test/bad/051.png", "label": 1, "class_name": "Mesh", "mask_path": "Mesh_114/ground_truth/bad/051_mask.png"}
+{"image_path": "Mesh_114/test/bad/052.png", "label": 1, "class_name": "Mesh", "mask_path": "Mesh_114/ground_truth/bad/052_mask.png"}
+{"image_path": "Mesh_114/test/bad/053.png", "label": 1, "class_name": "Mesh", "mask_path": "Mesh_114/ground_truth/bad/053_mask.png"}
+{"image_path": "Mesh_114/test/bad/054.png", "label": 1, "class_name": "Mesh", "mask_path": "Mesh_114/ground_truth/bad/054_mask.png"}
+{"image_path": "Mesh_114/test/bad/055.png", "label": 1, "class_name": "Mesh", "mask_path": "Mesh_114/ground_truth/bad/055_mask.png"}
+{"image_path": "Mesh_114/test/bad/056.png", "label": 1, "class_name": "Mesh", "mask_path": "Mesh_114/ground_truth/bad/056_mask.png"}
+{"image_path": "Mesh_114/test/bad/057.png", "label": 1, "class_name": "Mesh", "mask_path": "Mesh_114/ground_truth/bad/057_mask.png"}
+{"image_path": "Mesh_114/test/bad/058.png", "label": 1, "class_name": "Mesh", "mask_path": "Mesh_114/ground_truth/bad/058_mask.png"}
+{"image_path": "Mesh_114/test/bad/059.png", "label": 1, "class_name": "Mesh", "mask_path": "Mesh_114/ground_truth/bad/059_mask.png"}
+{"image_path": "Mesh_114/test/bad/060.png", "label": 1, "class_name": "Mesh", "mask_path": "Mesh_114/ground_truth/bad/060_mask.png"}
+{"image_path": "Mesh_114/test/bad/061.png", "label": 1, "class_name": "Mesh", "mask_path": "Mesh_114/ground_truth/bad/061_mask.png"}
+{"image_path": "Mesh_114/test/bad/062.png", "label": 1, "class_name": "Mesh", "mask_path": "Mesh_114/ground_truth/bad/062_mask.png"}
+{"image_path": "Mesh_114/test/bad/063.png", "label": 1, "class_name": "Mesh", "mask_path": "Mesh_114/ground_truth/bad/063_mask.png"}
+{"image_path": "Mesh_114/test/bad/064.png", "label": 1, "class_name": "Mesh", "mask_path": "Mesh_114/ground_truth/bad/064_mask.png"}
+{"image_path": "Mesh_114/test/bad/065.png", "label": 1, "class_name": "Mesh", "mask_path": "Mesh_114/ground_truth/bad/065_mask.png"}
+{"image_path": "Mesh_114/test/bad/066.png", "label": 1, "class_name": "Mesh", "mask_path": "Mesh_114/ground_truth/bad/066_mask.png"}
+{"image_path": "Mesh_114/test/bad/067.png", "label": 1, "class_name": "Mesh", "mask_path": "Mesh_114/ground_truth/bad/067_mask.png"}
+{"image_path": "Mesh_114/test/bad/068.png", "label": 1, "class_name": "Mesh", "mask_path": "Mesh_114/ground_truth/bad/068_mask.png"}
+{"image_path": "Mesh_114/test/bad/069.png", "label": 1, "class_name": "Mesh", "mask_path": "Mesh_114/ground_truth/bad/069_mask.png"}
+{"image_path": "Mesh_114/test/bad/070.png", "label": 1, "class_name": "Mesh", "mask_path": "Mesh_114/ground_truth/bad/070_mask.png"}
+{"image_path": "Mesh_114/test/bad/071.png", "label": 1, "class_name": "Mesh", "mask_path": "Mesh_114/ground_truth/bad/071_mask.png"}
+{"image_path": "Mesh_114/test/bad/072.png", "label": 1, "class_name": "Mesh", "mask_path": "Mesh_114/ground_truth/bad/072_mask.png"}
+{"image_path": "Mesh_114/test/bad/073.png", "label": 1, "class_name": "Mesh", "mask_path": "Mesh_114/ground_truth/bad/073_mask.png"}
+{"image_path": "Mesh_114/test/bad/074.png", "label": 1, "class_name": "Mesh", "mask_path": "Mesh_114/ground_truth/bad/074_mask.png"}
+{"image_path": "Mesh_114/test/bad/075.png", "label": 1, "class_name": "Mesh", "mask_path": "Mesh_114/ground_truth/bad/075_mask.png"}
+{"image_path": "Mesh_114/test/bad/076.png", "label": 1, "class_name": "Mesh", "mask_path": "Mesh_114/ground_truth/bad/076_mask.png"}
+{"image_path": "Mesh_114/test/bad/077.png", "label": 1, "class_name": "Mesh", "mask_path": "Mesh_114/ground_truth/bad/077_mask.png"}
+{"image_path": "Mesh_114/test/bad/078.png", "label": 1, "class_name": "Mesh", "mask_path": "Mesh_114/ground_truth/bad/078_mask.png"}
+{"image_path": "Mesh_114/test/bad/079.png", "label": 1, "class_name": "Mesh", "mask_path": "Mesh_114/ground_truth/bad/079_mask.png"}
+{"image_path": "Mesh_114/test/good/000.png", "label": 0, "class_name": "Mesh"}
+{"image_path": "Mesh_114/test/good/001.png", "label": 0, "class_name": "Mesh"}
+{"image_path": "Mesh_114/test/good/002.png", "label": 0, "class_name": "Mesh"}
+{"image_path": "Mesh_114/test/good/003.png", "label": 0, "class_name": "Mesh"}
+{"image_path": "Mesh_114/test/good/004.png", "label": 0, "class_name": "Mesh"}
+{"image_path": "Mesh_114/test/good/005.png", "label": 0, "class_name": "Mesh"}
+{"image_path": "Mesh_114/test/good/006.png", "label": 0, "class_name": "Mesh"}
+{"image_path": "Mesh_114/test/good/007.png", "label": 0, "class_name": "Mesh"}
+{"image_path": "Mesh_114/test/good/008.png", "label": 0, "class_name": "Mesh"}
+{"image_path": "Mesh_114/test/good/009.png", "label": 0, "class_name": "Mesh"}
+{"image_path": "Mesh_114/test/good/010.png", "label": 0, "class_name": "Mesh"}
+{"image_path": "Mesh_114/test/good/011.png", "label": 0, "class_name": "Mesh"}
+{"image_path": "Mesh_114/test/good/012.png", "label": 0, "class_name": "Mesh"}
+{"image_path": "Mesh_114/test/good/013.png", "label": 0, "class_name": "Mesh"}
+{"image_path": "Mesh_114/test/good/014.png", "label": 0, "class_name": "Mesh"}
+{"image_path": "Mesh_114/test/good/015.png", "label": 0, "class_name": "Mesh"}
+{"image_path": "Mesh_114/test/good/016.png", "label": 0, "class_name": "Mesh"}
+{"image_path": "Mesh_114/test/good/017.png", "label": 0, "class_name": "Mesh"}
+{"image_path": "Mesh_114/test/good/018.png", "label": 0, "class_name": "Mesh"}
+{"image_path": "Mesh_114/test/good/019.png", "label": 0, "class_name": "Mesh"}
+{"image_path": "Mesh_114/test/good/020.png", "label": 0, "class_name": "Mesh"}
+{"image_path": "Mesh_114/test/good/021.png", "label": 0, "class_name": "Mesh"}
+{"image_path": "Mesh_114/test/good/022.png", "label": 0, "class_name": "Mesh"}
+{"image_path": "Mesh_114/test/good/023.png", "label": 0, "class_name": "Mesh"}
+{"image_path": "Mesh_114/test/good/024.png", "label": 0, "class_name": "Mesh"}
+{"image_path": "Mesh_114/test/good/025.png", "label": 0, "class_name": "Mesh"}
+{"image_path": "Mesh_114/test/good/026.png", "label": 0, "class_name": "Mesh"}
+{"image_path": "Mesh_114/test/good/027.png", "label": 0, "class_name": "Mesh"}
+{"image_path": "Mesh_114/test/good/028.png", "label": 0, "class_name": "Mesh"}
+{"image_path": "Mesh_114/test/good/029.png", "label": 0, "class_name": "Mesh"}
+{"image_path": "Mesh_114/test/good/030.png", "label": 0, "class_name": "Mesh"}
+{"image_path": "Mesh_114/test/good/031.png", "label": 0, "class_name": "Mesh"}
+{"image_path": "Mesh_114/test/good/032.png", "label": 0, "class_name": "Mesh"}
+{"image_path": "Mesh_114/test/good/033.png", "label": 0, "class_name": "Mesh"}
+{"image_path": "Mesh_114/test/good/034.png", "label": 0, "class_name": "Mesh"}
+{"image_path": "Mesh_114/test/good/035.png", "label": 0, "class_name": "Mesh"}
+{"image_path": "Perforated_037/test/bad/000.png", "label": 1, "class_name": "Perforated", "mask_path": "Perforated_037/ground_truth/bad/000_mask.png"}
+{"image_path": "Perforated_037/test/bad/001.png", "label": 1, "class_name": "Perforated", "mask_path": "Perforated_037/ground_truth/bad/001_mask.png"}
+{"image_path": "Perforated_037/test/bad/002.png", "label": 1, "class_name": "Perforated", "mask_path": "Perforated_037/ground_truth/bad/002_mask.png"}
+{"image_path": "Perforated_037/test/bad/003.png", "label": 1, "class_name": "Perforated", "mask_path": "Perforated_037/ground_truth/bad/003_mask.png"}
+{"image_path": "Perforated_037/test/bad/004.png", "label": 1, "class_name": "Perforated", "mask_path": "Perforated_037/ground_truth/bad/004_mask.png"}
+{"image_path": "Perforated_037/test/bad/005.png", "label": 1, "class_name": "Perforated", "mask_path": "Perforated_037/ground_truth/bad/005_mask.png"}
+{"image_path": "Perforated_037/test/bad/006.png", "label": 1, "class_name": "Perforated", "mask_path": "Perforated_037/ground_truth/bad/006_mask.png"}
+{"image_path": "Perforated_037/test/bad/007.png", "label": 1, "class_name": "Perforated", "mask_path": "Perforated_037/ground_truth/bad/007_mask.png"}
+{"image_path": "Perforated_037/test/bad/008.png", "label": 1, "class_name": "Perforated", "mask_path": "Perforated_037/ground_truth/bad/008_mask.png"}
+{"image_path": "Perforated_037/test/bad/009.png", "label": 1, "class_name": "Perforated", "mask_path": "Perforated_037/ground_truth/bad/009_mask.png"}
+{"image_path": "Perforated_037/test/bad/010.png", "label": 1, "class_name": "Perforated", "mask_path": "Perforated_037/ground_truth/bad/010_mask.png"}
+{"image_path": "Perforated_037/test/bad/011.png", "label": 1, "class_name": "Perforated", "mask_path": "Perforated_037/ground_truth/bad/011_mask.png"}
+{"image_path": "Perforated_037/test/bad/012.png", "label": 1, "class_name": "Perforated", "mask_path": "Perforated_037/ground_truth/bad/012_mask.png"}
+{"image_path": "Perforated_037/test/bad/013.png", "label": 1, "class_name": "Perforated", "mask_path": "Perforated_037/ground_truth/bad/013_mask.png"}
+{"image_path": "Perforated_037/test/bad/014.png", "label": 1, "class_name": "Perforated", "mask_path": "Perforated_037/ground_truth/bad/014_mask.png"}
+{"image_path": "Perforated_037/test/bad/015.png", "label": 1, "class_name": "Perforated", "mask_path": "Perforated_037/ground_truth/bad/015_mask.png"}
+{"image_path": "Perforated_037/test/bad/016.png", "label": 1, "class_name": "Perforated", "mask_path": "Perforated_037/ground_truth/bad/016_mask.png"}
+{"image_path": "Perforated_037/test/bad/017.png", "label": 1, "class_name": "Perforated", "mask_path": "Perforated_037/ground_truth/bad/017_mask.png"}
+{"image_path": "Perforated_037/test/bad/018.png", "label": 1, "class_name": "Perforated", "mask_path": "Perforated_037/ground_truth/bad/018_mask.png"}
+{"image_path": "Perforated_037/test/bad/019.png", "label": 1, "class_name": "Perforated", "mask_path": "Perforated_037/ground_truth/bad/019_mask.png"}
+{"image_path": "Perforated_037/test/bad/020.png", "label": 1, "class_name": "Perforated", "mask_path": "Perforated_037/ground_truth/bad/020_mask.png"}
+{"image_path": "Perforated_037/test/bad/021.png", "label": 1, "class_name": "Perforated", "mask_path": "Perforated_037/ground_truth/bad/021_mask.png"}
+{"image_path": "Perforated_037/test/bad/022.png", "label": 1, "class_name": "Perforated", "mask_path": "Perforated_037/ground_truth/bad/022_mask.png"}
+{"image_path": "Perforated_037/test/bad/023.png", "label": 1, "class_name": "Perforated", "mask_path": "Perforated_037/ground_truth/bad/023_mask.png"}
+{"image_path": "Perforated_037/test/bad/024.png", "label": 1, "class_name": "Perforated", "mask_path": "Perforated_037/ground_truth/bad/024_mask.png"}
+{"image_path": "Perforated_037/test/bad/025.png", "label": 1, "class_name": "Perforated", "mask_path": "Perforated_037/ground_truth/bad/025_mask.png"}
+{"image_path": "Perforated_037/test/bad/026.png", "label": 1, "class_name": "Perforated", "mask_path": "Perforated_037/ground_truth/bad/026_mask.png"}
+{"image_path": "Perforated_037/test/bad/027.png", "label": 1, "class_name": "Perforated", "mask_path": "Perforated_037/ground_truth/bad/027_mask.png"}
+{"image_path": "Perforated_037/test/bad/028.png", "label": 1, "class_name": "Perforated", "mask_path": "Perforated_037/ground_truth/bad/028_mask.png"}
+{"image_path": "Perforated_037/test/bad/029.png", "label": 1, "class_name": "Perforated", "mask_path": "Perforated_037/ground_truth/bad/029_mask.png"}
+{"image_path": "Perforated_037/test/bad/030.png", "label": 1, "class_name": "Perforated", "mask_path": "Perforated_037/ground_truth/bad/030_mask.png"}
+{"image_path": "Perforated_037/test/bad/031.png", "label": 1, "class_name": "Perforated", "mask_path": "Perforated_037/ground_truth/bad/031_mask.png"}
+{"image_path": "Perforated_037/test/bad/032.png", "label": 1, "class_name": "Perforated", "mask_path": "Perforated_037/ground_truth/bad/032_mask.png"}
+{"image_path": "Perforated_037/test/bad/033.png", "label": 1, "class_name": "Perforated", "mask_path": "Perforated_037/ground_truth/bad/033_mask.png"}
+{"image_path": "Perforated_037/test/bad/034.png", "label": 1, "class_name": "Perforated", "mask_path": "Perforated_037/ground_truth/bad/034_mask.png"}
+{"image_path": "Perforated_037/test/bad/035.png", "label": 1, "class_name": "Perforated", "mask_path": "Perforated_037/ground_truth/bad/035_mask.png"}
+{"image_path": "Perforated_037/test/bad/036.png", "label": 1, "class_name": "Perforated", "mask_path": "Perforated_037/ground_truth/bad/036_mask.png"}
+{"image_path": "Perforated_037/test/bad/037.png", "label": 1, "class_name": "Perforated", "mask_path": "Perforated_037/ground_truth/bad/037_mask.png"}
+{"image_path": "Perforated_037/test/bad/038.png", "label": 1, "class_name": "Perforated", "mask_path": "Perforated_037/ground_truth/bad/038_mask.png"}
+{"image_path": "Perforated_037/test/bad/039.png", "label": 1, "class_name": "Perforated", "mask_path": "Perforated_037/ground_truth/bad/039_mask.png"}
+{"image_path": "Perforated_037/test/bad/040.png", "label": 1, "class_name": "Perforated", "mask_path": "Perforated_037/ground_truth/bad/040_mask.png"}
+{"image_path": "Perforated_037/test/bad/041.png", "label": 1, "class_name": "Perforated", "mask_path": "Perforated_037/ground_truth/bad/041_mask.png"}
+{"image_path": "Perforated_037/test/bad/042.png", "label": 1, "class_name": "Perforated", "mask_path": "Perforated_037/ground_truth/bad/042_mask.png"}
+{"image_path": "Perforated_037/test/bad/043.png", "label": 1, "class_name": "Perforated", "mask_path": "Perforated_037/ground_truth/bad/043_mask.png"}
+{"image_path": "Perforated_037/test/bad/044.png", "label": 1, "class_name": "Perforated", "mask_path": "Perforated_037/ground_truth/bad/044_mask.png"}
+{"image_path": "Perforated_037/test/bad/045.png", "label": 1, "class_name": "Perforated", "mask_path": "Perforated_037/ground_truth/bad/045_mask.png"}
+{"image_path": "Perforated_037/test/bad/046.png", "label": 1, "class_name": "Perforated", "mask_path": "Perforated_037/ground_truth/bad/046_mask.png"}
+{"image_path": "Perforated_037/test/bad/047.png", "label": 1, "class_name": "Perforated", "mask_path": "Perforated_037/ground_truth/bad/047_mask.png"}
+{"image_path": "Perforated_037/test/bad/048.png", "label": 1, "class_name": "Perforated", "mask_path": "Perforated_037/ground_truth/bad/048_mask.png"}
+{"image_path": "Perforated_037/test/bad/049.png", "label": 1, "class_name": "Perforated", "mask_path": "Perforated_037/ground_truth/bad/049_mask.png"}
+{"image_path": "Perforated_037/test/bad/050.png", "label": 1, "class_name": "Perforated", "mask_path": "Perforated_037/ground_truth/bad/050_mask.png"}
+{"image_path": "Perforated_037/test/bad/051.png", "label": 1, "class_name": "Perforated", "mask_path": "Perforated_037/ground_truth/bad/051_mask.png"}
+{"image_path": "Perforated_037/test/bad/052.png", "label": 1, "class_name": "Perforated", "mask_path": "Perforated_037/ground_truth/bad/052_mask.png"}
+{"image_path": "Perforated_037/test/bad/053.png", "label": 1, "class_name": "Perforated", "mask_path": "Perforated_037/ground_truth/bad/053_mask.png"}
+{"image_path": "Perforated_037/test/bad/054.png", "label": 1, "class_name": "Perforated", "mask_path": "Perforated_037/ground_truth/bad/054_mask.png"}
+{"image_path": "Perforated_037/test/bad/055.png", "label": 1, "class_name": "Perforated", "mask_path": "Perforated_037/ground_truth/bad/055_mask.png"}
+{"image_path": "Perforated_037/test/bad/056.png", "label": 1, "class_name": "Perforated", "mask_path": "Perforated_037/ground_truth/bad/056_mask.png"}
+{"image_path": "Perforated_037/test/bad/057.png", "label": 1, "class_name": "Perforated", "mask_path": "Perforated_037/ground_truth/bad/057_mask.png"}
+{"image_path": "Perforated_037/test/bad/058.png", "label": 1, "class_name": "Perforated", "mask_path": "Perforated_037/ground_truth/bad/058_mask.png"}
+{"image_path": "Perforated_037/test/bad/059.png", "label": 1, "class_name": "Perforated", "mask_path": "Perforated_037/ground_truth/bad/059_mask.png"}
+{"image_path": "Perforated_037/test/bad/060.png", "label": 1, "class_name": "Perforated", "mask_path": "Perforated_037/ground_truth/bad/060_mask.png"}
+{"image_path": "Perforated_037/test/bad/061.png", "label": 1, "class_name": "Perforated", "mask_path": "Perforated_037/ground_truth/bad/061_mask.png"}
+{"image_path": "Perforated_037/test/bad/062.png", "label": 1, "class_name": "Perforated", "mask_path": "Perforated_037/ground_truth/bad/062_mask.png"}
+{"image_path": "Perforated_037/test/bad/063.png", "label": 1, "class_name": "Perforated", "mask_path": "Perforated_037/ground_truth/bad/063_mask.png"}
+{"image_path": "Perforated_037/test/bad/064.png", "label": 1, "class_name": "Perforated", "mask_path": "Perforated_037/ground_truth/bad/064_mask.png"}
+{"image_path": "Perforated_037/test/bad/065.png", "label": 1, "class_name": "Perforated", "mask_path": "Perforated_037/ground_truth/bad/065_mask.png"}
+{"image_path": "Perforated_037/test/bad/066.png", "label": 1, "class_name": "Perforated", "mask_path": "Perforated_037/ground_truth/bad/066_mask.png"}
+{"image_path": "Perforated_037/test/bad/067.png", "label": 1, "class_name": "Perforated", "mask_path": "Perforated_037/ground_truth/bad/067_mask.png"}
+{"image_path": "Perforated_037/test/bad/068.png", "label": 1, "class_name": "Perforated", "mask_path": "Perforated_037/ground_truth/bad/068_mask.png"}
+{"image_path": "Perforated_037/test/bad/069.png", "label": 1, "class_name": "Perforated", "mask_path": "Perforated_037/ground_truth/bad/069_mask.png"}
+{"image_path": "Perforated_037/test/bad/070.png", "label": 1, "class_name": "Perforated", "mask_path": "Perforated_037/ground_truth/bad/070_mask.png"}
+{"image_path": "Perforated_037/test/bad/071.png", "label": 1, "class_name": "Perforated", "mask_path": "Perforated_037/ground_truth/bad/071_mask.png"}
+{"image_path": "Perforated_037/test/bad/072.png", "label": 1, "class_name": "Perforated", "mask_path": "Perforated_037/ground_truth/bad/072_mask.png"}
+{"image_path": "Perforated_037/test/bad/073.png", "label": 1, "class_name": "Perforated", "mask_path": "Perforated_037/ground_truth/bad/073_mask.png"}
+{"image_path": "Perforated_037/test/bad/074.png", "label": 1, "class_name": "Perforated", "mask_path": "Perforated_037/ground_truth/bad/074_mask.png"}
+{"image_path": "Perforated_037/test/bad/075.png", "label": 1, "class_name": "Perforated", "mask_path": "Perforated_037/ground_truth/bad/075_mask.png"}
+{"image_path": "Perforated_037/test/bad/076.png", "label": 1, "class_name": "Perforated", "mask_path": "Perforated_037/ground_truth/bad/076_mask.png"}
+{"image_path": "Perforated_037/test/bad/077.png", "label": 1, "class_name": "Perforated", "mask_path": "Perforated_037/ground_truth/bad/077_mask.png"}
+{"image_path": "Perforated_037/test/bad/078.png", "label": 1, "class_name": "Perforated", "mask_path": "Perforated_037/ground_truth/bad/078_mask.png"}
+{"image_path": "Perforated_037/test/bad/079.png", "label": 1, "class_name": "Perforated", "mask_path": "Perforated_037/ground_truth/bad/079_mask.png"}
+{"image_path": "Perforated_037/test/good/000.png", "label": 0, "class_name": "Perforated"}
+{"image_path": "Perforated_037/test/good/001.png", "label": 0, "class_name": "Perforated"}
+{"image_path": "Perforated_037/test/good/002.png", "label": 0, "class_name": "Perforated"}
+{"image_path": "Perforated_037/test/good/003.png", "label": 0, "class_name": "Perforated"}
+{"image_path": "Perforated_037/test/good/004.png", "label": 0, "class_name": "Perforated"}
+{"image_path": "Perforated_037/test/good/005.png", "label": 0, "class_name": "Perforated"}
+{"image_path": "Perforated_037/test/good/006.png", "label": 0, "class_name": "Perforated"}
+{"image_path": "Perforated_037/test/good/007.png", "label": 0, "class_name": "Perforated"}
+{"image_path": "Perforated_037/test/good/008.png", "label": 0, "class_name": "Perforated"}
+{"image_path": "Perforated_037/test/good/009.png", "label": 0, "class_name": "Perforated"}
+{"image_path": "Perforated_037/test/good/010.png", "label": 0, "class_name": "Perforated"}
+{"image_path": "Perforated_037/test/good/011.png", "label": 0, "class_name": "Perforated"}
+{"image_path": "Perforated_037/test/good/012.png", "label": 0, "class_name": "Perforated"}
+{"image_path": "Perforated_037/test/good/013.png", "label": 0, "class_name": "Perforated"}
+{"image_path": "Perforated_037/test/good/014.png", "label": 0, "class_name": "Perforated"}
+{"image_path": "Perforated_037/test/good/015.png", "label": 0, "class_name": "Perforated"}
+{"image_path": "Perforated_037/test/good/016.png", "label": 0, "class_name": "Perforated"}
+{"image_path": "Perforated_037/test/good/017.png", "label": 0, "class_name": "Perforated"}
+{"image_path": "Perforated_037/test/good/018.png", "label": 0, "class_name": "Perforated"}
+{"image_path": "Perforated_037/test/good/019.png", "label": 0, "class_name": "Perforated"}
+{"image_path": "Stratified_154/test/bad/000.png", "label": 1, "class_name": "Stratified", "mask_path": "Stratified_154/ground_truth/bad/000_mask.png"}
+{"image_path": "Stratified_154/test/bad/001.png", "label": 1, "class_name": "Stratified", "mask_path": "Stratified_154/ground_truth/bad/001_mask.png"}
+{"image_path": "Stratified_154/test/bad/002.png", "label": 1, "class_name": "Stratified", "mask_path": "Stratified_154/ground_truth/bad/002_mask.png"}
+{"image_path": "Stratified_154/test/bad/003.png", "label": 1, "class_name": "Stratified", "mask_path": "Stratified_154/ground_truth/bad/003_mask.png"}
+{"image_path": "Stratified_154/test/bad/004.png", "label": 1, "class_name": "Stratified", "mask_path": "Stratified_154/ground_truth/bad/004_mask.png"}
+{"image_path": "Stratified_154/test/bad/005.png", "label": 1, "class_name": "Stratified", "mask_path": "Stratified_154/ground_truth/bad/005_mask.png"}
+{"image_path": "Stratified_154/test/bad/006.png", "label": 1, "class_name": "Stratified", "mask_path": "Stratified_154/ground_truth/bad/006_mask.png"}
+{"image_path": "Stratified_154/test/bad/007.png", "label": 1, "class_name": "Stratified", "mask_path": "Stratified_154/ground_truth/bad/007_mask.png"}
+{"image_path": "Stratified_154/test/bad/008.png", "label": 1, "class_name": "Stratified", "mask_path": "Stratified_154/ground_truth/bad/008_mask.png"}
+{"image_path": "Stratified_154/test/bad/009.png", "label": 1, "class_name": "Stratified", "mask_path": "Stratified_154/ground_truth/bad/009_mask.png"}
+{"image_path": "Stratified_154/test/bad/010.png", "label": 1, "class_name": "Stratified", "mask_path": "Stratified_154/ground_truth/bad/010_mask.png"}
+{"image_path": "Stratified_154/test/bad/011.png", "label": 1, "class_name": "Stratified", "mask_path": "Stratified_154/ground_truth/bad/011_mask.png"}
+{"image_path": "Stratified_154/test/bad/012.png", "label": 1, "class_name": "Stratified", "mask_path": "Stratified_154/ground_truth/bad/012_mask.png"}
+{"image_path": "Stratified_154/test/bad/013.png", "label": 1, "class_name": "Stratified", "mask_path": "Stratified_154/ground_truth/bad/013_mask.png"}
+{"image_path": "Stratified_154/test/bad/014.png", "label": 1, "class_name": "Stratified", "mask_path": "Stratified_154/ground_truth/bad/014_mask.png"}
+{"image_path": "Stratified_154/test/bad/015.png", "label": 1, "class_name": "Stratified", "mask_path": "Stratified_154/ground_truth/bad/015_mask.png"}
+{"image_path": "Stratified_154/test/bad/016.png", "label": 1, "class_name": "Stratified", "mask_path": "Stratified_154/ground_truth/bad/016_mask.png"}
+{"image_path": "Stratified_154/test/bad/017.png", "label": 1, "class_name": "Stratified", "mask_path": "Stratified_154/ground_truth/bad/017_mask.png"}
+{"image_path": "Stratified_154/test/bad/018.png", "label": 1, "class_name": "Stratified", "mask_path": "Stratified_154/ground_truth/bad/018_mask.png"}
+{"image_path": "Stratified_154/test/bad/019.png", "label": 1, "class_name": "Stratified", "mask_path": "Stratified_154/ground_truth/bad/019_mask.png"}
+{"image_path": "Stratified_154/test/bad/020.png", "label": 1, "class_name": "Stratified", "mask_path": "Stratified_154/ground_truth/bad/020_mask.png"}
+{"image_path": "Stratified_154/test/bad/021.png", "label": 1, "class_name": "Stratified", "mask_path": "Stratified_154/ground_truth/bad/021_mask.png"}
+{"image_path": "Stratified_154/test/bad/022.png", "label": 1, "class_name": "Stratified", "mask_path": "Stratified_154/ground_truth/bad/022_mask.png"}
+{"image_path": "Stratified_154/test/bad/023.png", "label": 1, "class_name": "Stratified", "mask_path": "Stratified_154/ground_truth/bad/023_mask.png"}
+{"image_path": "Stratified_154/test/bad/024.png", "label": 1, "class_name": "Stratified", "mask_path": "Stratified_154/ground_truth/bad/024_mask.png"}
+{"image_path": "Stratified_154/test/bad/025.png", "label": 1, "class_name": "Stratified", "mask_path": "Stratified_154/ground_truth/bad/025_mask.png"}
+{"image_path": "Stratified_154/test/bad/026.png", "label": 1, "class_name": "Stratified", "mask_path": "Stratified_154/ground_truth/bad/026_mask.png"}
+{"image_path": "Stratified_154/test/bad/027.png", "label": 1, "class_name": "Stratified", "mask_path": "Stratified_154/ground_truth/bad/027_mask.png"}
+{"image_path": "Stratified_154/test/bad/028.png", "label": 1, "class_name": "Stratified", "mask_path": "Stratified_154/ground_truth/bad/028_mask.png"}
+{"image_path": "Stratified_154/test/bad/029.png", "label": 1, "class_name": "Stratified", "mask_path": "Stratified_154/ground_truth/bad/029_mask.png"}
+{"image_path": "Stratified_154/test/bad/030.png", "label": 1, "class_name": "Stratified", "mask_path": "Stratified_154/ground_truth/bad/030_mask.png"}
+{"image_path": "Stratified_154/test/bad/031.png", "label": 1, "class_name": "Stratified", "mask_path": "Stratified_154/ground_truth/bad/031_mask.png"}
+{"image_path": "Stratified_154/test/bad/032.png", "label": 1, "class_name": "Stratified", "mask_path": "Stratified_154/ground_truth/bad/032_mask.png"}
+{"image_path": "Stratified_154/test/bad/033.png", "label": 1, "class_name": "Stratified", "mask_path": "Stratified_154/ground_truth/bad/033_mask.png"}
+{"image_path": "Stratified_154/test/bad/034.png", "label": 1, "class_name": "Stratified", "mask_path": "Stratified_154/ground_truth/bad/034_mask.png"}
+{"image_path": "Stratified_154/test/bad/035.png", "label": 1, "class_name": "Stratified", "mask_path": "Stratified_154/ground_truth/bad/035_mask.png"}
+{"image_path": "Stratified_154/test/bad/036.png", "label": 1, "class_name": "Stratified", "mask_path": "Stratified_154/ground_truth/bad/036_mask.png"}
+{"image_path": "Stratified_154/test/bad/037.png", "label": 1, "class_name": "Stratified", "mask_path": "Stratified_154/ground_truth/bad/037_mask.png"}
+{"image_path": "Stratified_154/test/bad/038.png", "label": 1, "class_name": "Stratified", "mask_path": "Stratified_154/ground_truth/bad/038_mask.png"}
+{"image_path": "Stratified_154/test/bad/039.png", "label": 1, "class_name": "Stratified", "mask_path": "Stratified_154/ground_truth/bad/039_mask.png"}
+{"image_path": "Stratified_154/test/bad/040.png", "label": 1, "class_name": "Stratified", "mask_path": "Stratified_154/ground_truth/bad/040_mask.png"}
+{"image_path": "Stratified_154/test/bad/041.png", "label": 1, "class_name": "Stratified", "mask_path": "Stratified_154/ground_truth/bad/041_mask.png"}
+{"image_path": "Stratified_154/test/bad/042.png", "label": 1, "class_name": "Stratified", "mask_path": "Stratified_154/ground_truth/bad/042_mask.png"}
+{"image_path": "Stratified_154/test/bad/043.png", "label": 1, "class_name": "Stratified", "mask_path": "Stratified_154/ground_truth/bad/043_mask.png"}
+{"image_path": "Stratified_154/test/bad/044.png", "label": 1, "class_name": "Stratified", "mask_path": "Stratified_154/ground_truth/bad/044_mask.png"}
+{"image_path": "Stratified_154/test/bad/045.png", "label": 1, "class_name": "Stratified", "mask_path": "Stratified_154/ground_truth/bad/045_mask.png"}
+{"image_path": "Stratified_154/test/bad/046.png", "label": 1, "class_name": "Stratified", "mask_path": "Stratified_154/ground_truth/bad/046_mask.png"}
+{"image_path": "Stratified_154/test/bad/047.png", "label": 1, "class_name": "Stratified", "mask_path": "Stratified_154/ground_truth/bad/047_mask.png"}
+{"image_path": "Stratified_154/test/bad/048.png", "label": 1, "class_name": "Stratified", "mask_path": "Stratified_154/ground_truth/bad/048_mask.png"}
+{"image_path": "Stratified_154/test/bad/049.png", "label": 1, "class_name": "Stratified", "mask_path": "Stratified_154/ground_truth/bad/049_mask.png"}
+{"image_path": "Stratified_154/test/bad/050.png", "label": 1, "class_name": "Stratified", "mask_path": "Stratified_154/ground_truth/bad/050_mask.png"}
+{"image_path": "Stratified_154/test/bad/051.png", "label": 1, "class_name": "Stratified", "mask_path": "Stratified_154/ground_truth/bad/051_mask.png"}
+{"image_path": "Stratified_154/test/bad/052.png", "label": 1, "class_name": "Stratified", "mask_path": "Stratified_154/ground_truth/bad/052_mask.png"}
+{"image_path": "Stratified_154/test/bad/053.png", "label": 1, "class_name": "Stratified", "mask_path": "Stratified_154/ground_truth/bad/053_mask.png"}
+{"image_path": "Stratified_154/test/bad/054.png", "label": 1, "class_name": "Stratified", "mask_path": "Stratified_154/ground_truth/bad/054_mask.png"}
+{"image_path": "Stratified_154/test/bad/055.png", "label": 1, "class_name": "Stratified", "mask_path": "Stratified_154/ground_truth/bad/055_mask.png"}
+{"image_path": "Stratified_154/test/bad/056.png", "label": 1, "class_name": "Stratified", "mask_path": "Stratified_154/ground_truth/bad/056_mask.png"}
+{"image_path": "Stratified_154/test/bad/057.png", "label": 1, "class_name": "Stratified", "mask_path": "Stratified_154/ground_truth/bad/057_mask.png"}
+{"image_path": "Stratified_154/test/bad/058.png", "label": 1, "class_name": "Stratified", "mask_path": "Stratified_154/ground_truth/bad/058_mask.png"}
+{"image_path": "Stratified_154/test/bad/059.png", "label": 1, "class_name": "Stratified", "mask_path": "Stratified_154/ground_truth/bad/059_mask.png"}
+{"image_path": "Stratified_154/test/bad/060.png", "label": 1, "class_name": "Stratified", "mask_path": "Stratified_154/ground_truth/bad/060_mask.png"}
+{"image_path": "Stratified_154/test/bad/061.png", "label": 1, "class_name": "Stratified", "mask_path": "Stratified_154/ground_truth/bad/061_mask.png"}
+{"image_path": "Stratified_154/test/bad/062.png", "label": 1, "class_name": "Stratified", "mask_path": "Stratified_154/ground_truth/bad/062_mask.png"}
+{"image_path": "Stratified_154/test/bad/063.png", "label": 1, "class_name": "Stratified", "mask_path": "Stratified_154/ground_truth/bad/063_mask.png"}
+{"image_path": "Stratified_154/test/bad/064.png", "label": 1, "class_name": "Stratified", "mask_path": "Stratified_154/ground_truth/bad/064_mask.png"}
+{"image_path": "Stratified_154/test/bad/065.png", "label": 1, "class_name": "Stratified", "mask_path": "Stratified_154/ground_truth/bad/065_mask.png"}
+{"image_path": "Stratified_154/test/bad/066.png", "label": 1, "class_name": "Stratified", "mask_path": "Stratified_154/ground_truth/bad/066_mask.png"}
+{"image_path": "Stratified_154/test/bad/067.png", "label": 1, "class_name": "Stratified", "mask_path": "Stratified_154/ground_truth/bad/067_mask.png"}
+{"image_path": "Stratified_154/test/bad/068.png", "label": 1, "class_name": "Stratified", "mask_path": "Stratified_154/ground_truth/bad/068_mask.png"}
+{"image_path": "Stratified_154/test/bad/069.png", "label": 1, "class_name": "Stratified", "mask_path": "Stratified_154/ground_truth/bad/069_mask.png"}
+{"image_path": "Stratified_154/test/bad/070.png", "label": 1, "class_name": "Stratified", "mask_path": "Stratified_154/ground_truth/bad/070_mask.png"}
+{"image_path": "Stratified_154/test/bad/071.png", "label": 1, "class_name": "Stratified", "mask_path": "Stratified_154/ground_truth/bad/071_mask.png"}
+{"image_path": "Stratified_154/test/bad/072.png", "label": 1, "class_name": "Stratified", "mask_path": "Stratified_154/ground_truth/bad/072_mask.png"}
+{"image_path": "Stratified_154/test/bad/073.png", "label": 1, "class_name": "Stratified", "mask_path": "Stratified_154/ground_truth/bad/073_mask.png"}
+{"image_path": "Stratified_154/test/bad/074.png", "label": 1, "class_name": "Stratified", "mask_path": "Stratified_154/ground_truth/bad/074_mask.png"}
+{"image_path": "Stratified_154/test/bad/075.png", "label": 1, "class_name": "Stratified", "mask_path": "Stratified_154/ground_truth/bad/075_mask.png"}
+{"image_path": "Stratified_154/test/bad/076.png", "label": 1, "class_name": "Stratified", "mask_path": "Stratified_154/ground_truth/bad/076_mask.png"}
+{"image_path": "Stratified_154/test/bad/077.png", "label": 1, "class_name": "Stratified", "mask_path": "Stratified_154/ground_truth/bad/077_mask.png"}
+{"image_path": "Stratified_154/test/bad/078.png", "label": 1, "class_name": "Stratified", "mask_path": "Stratified_154/ground_truth/bad/078_mask.png"}
+{"image_path": "Stratified_154/test/bad/079.png", "label": 1, "class_name": "Stratified", "mask_path": "Stratified_154/ground_truth/bad/079_mask.png"}
+{"image_path": "Stratified_154/test/good/000.png", "label": 0, "class_name": "Stratified"}
+{"image_path": "Stratified_154/test/good/001.png", "label": 0, "class_name": "Stratified"}
+{"image_path": "Stratified_154/test/good/002.png", "label": 0, "class_name": "Stratified"}
+{"image_path": "Stratified_154/test/good/003.png", "label": 0, "class_name": "Stratified"}
+{"image_path": "Stratified_154/test/good/004.png", "label": 0, "class_name": "Stratified"}
+{"image_path": "Stratified_154/test/good/005.png", "label": 0, "class_name": "Stratified"}
+{"image_path": "Stratified_154/test/good/006.png", "label": 0, "class_name": "Stratified"}
+{"image_path": "Stratified_154/test/good/007.png", "label": 0, "class_name": "Stratified"}
+{"image_path": "Stratified_154/test/good/008.png", "label": 0, "class_name": "Stratified"}
+{"image_path": "Stratified_154/test/good/009.png", "label": 0, "class_name": "Stratified"}
+{"image_path": "Stratified_154/test/good/010.png", "label": 0, "class_name": "Stratified"}
+{"image_path": "Stratified_154/test/good/011.png", "label": 0, "class_name": "Stratified"}
+{"image_path": "Stratified_154/test/good/012.png", "label": 0, "class_name": "Stratified"}
+{"image_path": "Stratified_154/test/good/013.png", "label": 0, "class_name": "Stratified"}
+{"image_path": "Stratified_154/test/good/014.png", "label": 0, "class_name": "Stratified"}
+{"image_path": "Stratified_154/test/good/015.png", "label": 0, "class_name": "Stratified"}
+{"image_path": "Stratified_154/test/good/016.png", "label": 0, "class_name": "Stratified"}
+{"image_path": "Stratified_154/test/good/017.png", "label": 0, "class_name": "Stratified"}
+{"image_path": "Stratified_154/test/good/018.png", "label": 0, "class_name": "Stratified"}
+{"image_path": "Stratified_154/test/good/019.png", "label": 0, "class_name": "Stratified"}
+{"image_path": "Woven_001/test/bad/000.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_001/ground_truth/bad/000_mask.png"}
+{"image_path": "Woven_001/test/bad/001.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_001/ground_truth/bad/001_mask.png"}
+{"image_path": "Woven_001/test/bad/002.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_001/ground_truth/bad/002_mask.png"}
+{"image_path": "Woven_001/test/bad/003.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_001/ground_truth/bad/003_mask.png"}
+{"image_path": "Woven_001/test/bad/004.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_001/ground_truth/bad/004_mask.png"}
+{"image_path": "Woven_001/test/bad/005.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_001/ground_truth/bad/005_mask.png"}
+{"image_path": "Woven_001/test/bad/006.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_001/ground_truth/bad/006_mask.png"}
+{"image_path": "Woven_001/test/bad/007.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_001/ground_truth/bad/007_mask.png"}
+{"image_path": "Woven_001/test/bad/008.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_001/ground_truth/bad/008_mask.png"}
+{"image_path": "Woven_001/test/bad/009.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_001/ground_truth/bad/009_mask.png"}
+{"image_path": "Woven_001/test/bad/010.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_001/ground_truth/bad/010_mask.png"}
+{"image_path": "Woven_001/test/bad/011.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_001/ground_truth/bad/011_mask.png"}
+{"image_path": "Woven_001/test/bad/012.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_001/ground_truth/bad/012_mask.png"}
+{"image_path": "Woven_001/test/bad/013.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_001/ground_truth/bad/013_mask.png"}
+{"image_path": "Woven_001/test/bad/014.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_001/ground_truth/bad/014_mask.png"}
+{"image_path": "Woven_001/test/bad/015.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_001/ground_truth/bad/015_mask.png"}
+{"image_path": "Woven_001/test/bad/016.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_001/ground_truth/bad/016_mask.png"}
+{"image_path": "Woven_001/test/bad/017.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_001/ground_truth/bad/017_mask.png"}
+{"image_path": "Woven_001/test/bad/018.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_001/ground_truth/bad/018_mask.png"}
+{"image_path": "Woven_001/test/bad/019.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_001/ground_truth/bad/019_mask.png"}
+{"image_path": "Woven_001/test/bad/020.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_001/ground_truth/bad/020_mask.png"}
+{"image_path": "Woven_001/test/bad/021.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_001/ground_truth/bad/021_mask.png"}
+{"image_path": "Woven_001/test/bad/022.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_001/ground_truth/bad/022_mask.png"}
+{"image_path": "Woven_001/test/bad/023.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_001/ground_truth/bad/023_mask.png"}
+{"image_path": "Woven_001/test/bad/024.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_001/ground_truth/bad/024_mask.png"}
+{"image_path": "Woven_001/test/bad/025.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_001/ground_truth/bad/025_mask.png"}
+{"image_path": "Woven_001/test/bad/026.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_001/ground_truth/bad/026_mask.png"}
+{"image_path": "Woven_001/test/bad/027.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_001/ground_truth/bad/027_mask.png"}
+{"image_path": "Woven_001/test/bad/028.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_001/ground_truth/bad/028_mask.png"}
+{"image_path": "Woven_001/test/bad/029.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_001/ground_truth/bad/029_mask.png"}
+{"image_path": "Woven_001/test/bad/030.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_001/ground_truth/bad/030_mask.png"}
+{"image_path": "Woven_001/test/bad/031.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_001/ground_truth/bad/031_mask.png"}
+{"image_path": "Woven_001/test/bad/032.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_001/ground_truth/bad/032_mask.png"}
+{"image_path": "Woven_001/test/bad/033.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_001/ground_truth/bad/033_mask.png"}
+{"image_path": "Woven_001/test/bad/034.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_001/ground_truth/bad/034_mask.png"}
+{"image_path": "Woven_001/test/bad/035.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_001/ground_truth/bad/035_mask.png"}
+{"image_path": "Woven_001/test/bad/036.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_001/ground_truth/bad/036_mask.png"}
+{"image_path": "Woven_001/test/bad/037.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_001/ground_truth/bad/037_mask.png"}
+{"image_path": "Woven_001/test/bad/038.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_001/ground_truth/bad/038_mask.png"}
+{"image_path": "Woven_001/test/bad/039.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_001/ground_truth/bad/039_mask.png"}
+{"image_path": "Woven_001/test/bad/040.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_001/ground_truth/bad/040_mask.png"}
+{"image_path": "Woven_001/test/bad/041.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_001/ground_truth/bad/041_mask.png"}
+{"image_path": "Woven_001/test/bad/042.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_001/ground_truth/bad/042_mask.png"}
+{"image_path": "Woven_001/test/bad/043.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_001/ground_truth/bad/043_mask.png"}
+{"image_path": "Woven_001/test/bad/044.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_001/ground_truth/bad/044_mask.png"}
+{"image_path": "Woven_001/test/bad/045.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_001/ground_truth/bad/045_mask.png"}
+{"image_path": "Woven_001/test/bad/046.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_001/ground_truth/bad/046_mask.png"}
+{"image_path": "Woven_001/test/bad/047.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_001/ground_truth/bad/047_mask.png"}
+{"image_path": "Woven_001/test/bad/048.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_001/ground_truth/bad/048_mask.png"}
+{"image_path": "Woven_001/test/bad/049.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_001/ground_truth/bad/049_mask.png"}
+{"image_path": "Woven_001/test/bad/050.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_001/ground_truth/bad/050_mask.png"}
+{"image_path": "Woven_001/test/bad/051.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_001/ground_truth/bad/051_mask.png"}
+{"image_path": "Woven_001/test/bad/052.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_001/ground_truth/bad/052_mask.png"}
+{"image_path": "Woven_001/test/bad/053.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_001/ground_truth/bad/053_mask.png"}
+{"image_path": "Woven_001/test/bad/054.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_001/ground_truth/bad/054_mask.png"}
+{"image_path": "Woven_001/test/bad/055.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_001/ground_truth/bad/055_mask.png"}
+{"image_path": "Woven_001/test/bad/056.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_001/ground_truth/bad/056_mask.png"}
+{"image_path": "Woven_001/test/bad/057.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_001/ground_truth/bad/057_mask.png"}
+{"image_path": "Woven_001/test/bad/058.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_001/ground_truth/bad/058_mask.png"}
+{"image_path": "Woven_001/test/bad/059.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_001/ground_truth/bad/059_mask.png"}
+{"image_path": "Woven_001/test/bad/060.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_001/ground_truth/bad/060_mask.png"}
+{"image_path": "Woven_001/test/bad/061.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_001/ground_truth/bad/061_mask.png"}
+{"image_path": "Woven_001/test/bad/062.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_001/ground_truth/bad/062_mask.png"}
+{"image_path": "Woven_001/test/bad/063.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_001/ground_truth/bad/063_mask.png"}
+{"image_path": "Woven_001/test/bad/064.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_001/ground_truth/bad/064_mask.png"}
+{"image_path": "Woven_001/test/bad/065.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_001/ground_truth/bad/065_mask.png"}
+{"image_path": "Woven_001/test/bad/066.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_001/ground_truth/bad/066_mask.png"}
+{"image_path": "Woven_001/test/bad/067.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_001/ground_truth/bad/067_mask.png"}
+{"image_path": "Woven_001/test/bad/068.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_001/ground_truth/bad/068_mask.png"}
+{"image_path": "Woven_001/test/bad/069.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_001/ground_truth/bad/069_mask.png"}
+{"image_path": "Woven_001/test/good/000.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_001/test/good/001.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_001/test/good/002.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_001/test/good/003.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_001/test/good/004.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_001/test/good/005.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_001/test/good/006.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_001/test/good/007.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_001/test/good/008.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_001/test/good/009.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_001/test/good/010.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_001/test/good/011.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_001/test/good/012.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_001/test/good/013.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_001/test/good/014.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_001/test/good/015.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_001/test/good/016.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_001/test/good/017.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_001/test/good/018.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_001/test/good/019.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_001/test/good/020.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_001/test/good/021.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_001/test/good/022.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_001/test/good/023.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_001/test/good/024.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_001/test/good/025.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_001/test/good/026.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_001/test/good/027.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_001/test/good/028.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_001/test/good/029.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_068/test/bad/000.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_068/ground_truth/bad/000_mask.png"}
+{"image_path": "Woven_068/test/bad/001.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_068/ground_truth/bad/001_mask.png"}
+{"image_path": "Woven_068/test/bad/002.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_068/ground_truth/bad/002_mask.png"}
+{"image_path": "Woven_068/test/bad/003.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_068/ground_truth/bad/003_mask.png"}
+{"image_path": "Woven_068/test/bad/004.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_068/ground_truth/bad/004_mask.png"}
+{"image_path": "Woven_068/test/bad/005.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_068/ground_truth/bad/005_mask.png"}
+{"image_path": "Woven_068/test/bad/006.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_068/ground_truth/bad/006_mask.png"}
+{"image_path": "Woven_068/test/bad/007.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_068/ground_truth/bad/007_mask.png"}
+{"image_path": "Woven_068/test/bad/008.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_068/ground_truth/bad/008_mask.png"}
+{"image_path": "Woven_068/test/bad/009.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_068/ground_truth/bad/009_mask.png"}
+{"image_path": "Woven_068/test/bad/010.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_068/ground_truth/bad/010_mask.png"}
+{"image_path": "Woven_068/test/bad/011.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_068/ground_truth/bad/011_mask.png"}
+{"image_path": "Woven_068/test/bad/012.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_068/ground_truth/bad/012_mask.png"}
+{"image_path": "Woven_068/test/bad/013.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_068/ground_truth/bad/013_mask.png"}
+{"image_path": "Woven_068/test/bad/014.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_068/ground_truth/bad/014_mask.png"}
+{"image_path": "Woven_068/test/bad/015.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_068/ground_truth/bad/015_mask.png"}
+{"image_path": "Woven_068/test/bad/016.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_068/ground_truth/bad/016_mask.png"}
+{"image_path": "Woven_068/test/bad/017.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_068/ground_truth/bad/017_mask.png"}
+{"image_path": "Woven_068/test/bad/018.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_068/ground_truth/bad/018_mask.png"}
+{"image_path": "Woven_068/test/bad/019.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_068/ground_truth/bad/019_mask.png"}
+{"image_path": "Woven_068/test/bad/020.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_068/ground_truth/bad/020_mask.png"}
+{"image_path": "Woven_068/test/bad/021.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_068/ground_truth/bad/021_mask.png"}
+{"image_path": "Woven_068/test/bad/022.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_068/ground_truth/bad/022_mask.png"}
+{"image_path": "Woven_068/test/bad/023.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_068/ground_truth/bad/023_mask.png"}
+{"image_path": "Woven_068/test/bad/024.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_068/ground_truth/bad/024_mask.png"}
+{"image_path": "Woven_068/test/bad/025.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_068/ground_truth/bad/025_mask.png"}
+{"image_path": "Woven_068/test/bad/026.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_068/ground_truth/bad/026_mask.png"}
+{"image_path": "Woven_068/test/bad/027.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_068/ground_truth/bad/027_mask.png"}
+{"image_path": "Woven_068/test/bad/028.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_068/ground_truth/bad/028_mask.png"}
+{"image_path": "Woven_068/test/bad/029.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_068/ground_truth/bad/029_mask.png"}
+{"image_path": "Woven_068/test/bad/030.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_068/ground_truth/bad/030_mask.png"}
+{"image_path": "Woven_068/test/bad/031.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_068/ground_truth/bad/031_mask.png"}
+{"image_path": "Woven_068/test/bad/032.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_068/ground_truth/bad/032_mask.png"}
+{"image_path": "Woven_068/test/bad/033.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_068/ground_truth/bad/033_mask.png"}
+{"image_path": "Woven_068/test/bad/034.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_068/ground_truth/bad/034_mask.png"}
+{"image_path": "Woven_068/test/bad/035.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_068/ground_truth/bad/035_mask.png"}
+{"image_path": "Woven_068/test/bad/036.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_068/ground_truth/bad/036_mask.png"}
+{"image_path": "Woven_068/test/bad/037.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_068/ground_truth/bad/037_mask.png"}
+{"image_path": "Woven_068/test/bad/038.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_068/ground_truth/bad/038_mask.png"}
+{"image_path": "Woven_068/test/bad/039.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_068/ground_truth/bad/039_mask.png"}
+{"image_path": "Woven_068/test/bad/040.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_068/ground_truth/bad/040_mask.png"}
+{"image_path": "Woven_068/test/bad/041.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_068/ground_truth/bad/041_mask.png"}
+{"image_path": "Woven_068/test/bad/042.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_068/ground_truth/bad/042_mask.png"}
+{"image_path": "Woven_068/test/bad/043.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_068/ground_truth/bad/043_mask.png"}
+{"image_path": "Woven_068/test/bad/044.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_068/ground_truth/bad/044_mask.png"}
+{"image_path": "Woven_068/test/bad/045.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_068/ground_truth/bad/045_mask.png"}
+{"image_path": "Woven_068/test/bad/046.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_068/ground_truth/bad/046_mask.png"}
+{"image_path": "Woven_068/test/bad/047.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_068/ground_truth/bad/047_mask.png"}
+{"image_path": "Woven_068/test/bad/048.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_068/ground_truth/bad/048_mask.png"}
+{"image_path": "Woven_068/test/bad/049.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_068/ground_truth/bad/049_mask.png"}
+{"image_path": "Woven_068/test/bad/050.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_068/ground_truth/bad/050_mask.png"}
+{"image_path": "Woven_068/test/bad/051.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_068/ground_truth/bad/051_mask.png"}
+{"image_path": "Woven_068/test/bad/052.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_068/ground_truth/bad/052_mask.png"}
+{"image_path": "Woven_068/test/bad/053.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_068/ground_truth/bad/053_mask.png"}
+{"image_path": "Woven_068/test/bad/054.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_068/ground_truth/bad/054_mask.png"}
+{"image_path": "Woven_068/test/bad/055.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_068/ground_truth/bad/055_mask.png"}
+{"image_path": "Woven_068/test/bad/056.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_068/ground_truth/bad/056_mask.png"}
+{"image_path": "Woven_068/test/bad/057.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_068/ground_truth/bad/057_mask.png"}
+{"image_path": "Woven_068/test/bad/058.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_068/ground_truth/bad/058_mask.png"}
+{"image_path": "Woven_068/test/bad/059.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_068/ground_truth/bad/059_mask.png"}
+{"image_path": "Woven_068/test/bad/060.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_068/ground_truth/bad/060_mask.png"}
+{"image_path": "Woven_068/test/bad/061.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_068/ground_truth/bad/061_mask.png"}
+{"image_path": "Woven_068/test/bad/062.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_068/ground_truth/bad/062_mask.png"}
+{"image_path": "Woven_068/test/bad/063.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_068/ground_truth/bad/063_mask.png"}
+{"image_path": "Woven_068/test/bad/064.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_068/ground_truth/bad/064_mask.png"}
+{"image_path": "Woven_068/test/bad/065.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_068/ground_truth/bad/065_mask.png"}
+{"image_path": "Woven_068/test/bad/066.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_068/ground_truth/bad/066_mask.png"}
+{"image_path": "Woven_068/test/bad/067.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_068/ground_truth/bad/067_mask.png"}
+{"image_path": "Woven_068/test/bad/068.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_068/ground_truth/bad/068_mask.png"}
+{"image_path": "Woven_068/test/bad/069.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_068/ground_truth/bad/069_mask.png"}
+{"image_path": "Woven_068/test/bad/070.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_068/ground_truth/bad/070_mask.png"}
+{"image_path": "Woven_068/test/bad/071.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_068/ground_truth/bad/071_mask.png"}
+{"image_path": "Woven_068/test/bad/072.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_068/ground_truth/bad/072_mask.png"}
+{"image_path": "Woven_068/test/bad/073.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_068/ground_truth/bad/073_mask.png"}
+{"image_path": "Woven_068/test/bad/074.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_068/ground_truth/bad/074_mask.png"}
+{"image_path": "Woven_068/test/bad/075.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_068/ground_truth/bad/075_mask.png"}
+{"image_path": "Woven_068/test/bad/076.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_068/ground_truth/bad/076_mask.png"}
+{"image_path": "Woven_068/test/bad/077.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_068/ground_truth/bad/077_mask.png"}
+{"image_path": "Woven_068/test/bad/078.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_068/ground_truth/bad/078_mask.png"}
+{"image_path": "Woven_068/test/good/mesh_000.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_068/test/good/mesh_001.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_068/test/good/mesh_002.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_068/test/good/mesh_003.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_068/test/good/mesh_004.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_068/test/good/mesh_005.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_068/test/good/mesh_006.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_068/test/good/mesh_007.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_068/test/good/mesh_008.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_068/test/good/mesh_009.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_068/test/good/mesh_010.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_068/test/good/mesh_011.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_068/test/good/mesh_012.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_068/test/good/mesh_013.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_068/test/good/mesh_014.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_068/test/good/mesh_015.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_068/test/good/mesh_016.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_068/test/good/mesh_017.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_068/test/good/mesh_018.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_068/test/good/mesh_019.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_068/test/good/mesh_020.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_068/test/good/mesh_021.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_068/test/good/mesh_022.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_068/test/good/mesh_023.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_068/test/good/mesh_024.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_068/test/good/mesh_025.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_068/test/good/mesh_026.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_068/test/good/mesh_027.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_068/test/good/mesh_028.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_068/test/good/mesh_029.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_068/test/good/mesh_030.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_068/test/good/mesh_031.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_068/test/good/mesh_032.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_068/test/good/mesh_033.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_068/test/good/mesh_034.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_068/test/good/mesh_035.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_068/test/good/mesh_036.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_068/test/good/mesh_037.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_068/test/good/mesh_038.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_068/test/good/mesh_039.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_068/test/good/mesh_040.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_068/test/good/mesh_041.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_068/test/good/mesh_042.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_068/test/good/mesh_043.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_068/test/good/mesh_044.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_068/test/good/mesh_045.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_068/test/good/mesh_046.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_068/test/good/mesh_047.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_068/test/good/mesh_048.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_068/test/good/mesh_049.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_068/test/good/mesh_050.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_104/test/bad/000.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_104/ground_truth/bad/000_mask.png"}
+{"image_path": "Woven_104/test/bad/001.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_104/ground_truth/bad/001_mask.png"}
+{"image_path": "Woven_104/test/bad/002.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_104/ground_truth/bad/002_mask.png"}
+{"image_path": "Woven_104/test/bad/003.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_104/ground_truth/bad/003_mask.png"}
+{"image_path": "Woven_104/test/bad/004.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_104/ground_truth/bad/004_mask.png"}
+{"image_path": "Woven_104/test/bad/005.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_104/ground_truth/bad/005_mask.png"}
+{"image_path": "Woven_104/test/bad/006.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_104/ground_truth/bad/006_mask.png"}
+{"image_path": "Woven_104/test/bad/007.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_104/ground_truth/bad/007_mask.png"}
+{"image_path": "Woven_104/test/bad/008.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_104/ground_truth/bad/008_mask.png"}
+{"image_path": "Woven_104/test/bad/009.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_104/ground_truth/bad/009_mask.png"}
+{"image_path": "Woven_104/test/bad/010.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_104/ground_truth/bad/010_mask.png"}
+{"image_path": "Woven_104/test/bad/011.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_104/ground_truth/bad/011_mask.png"}
+{"image_path": "Woven_104/test/bad/012.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_104/ground_truth/bad/012_mask.png"}
+{"image_path": "Woven_104/test/bad/013.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_104/ground_truth/bad/013_mask.png"}
+{"image_path": "Woven_104/test/bad/014.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_104/ground_truth/bad/014_mask.png"}
+{"image_path": "Woven_104/test/bad/015.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_104/ground_truth/bad/015_mask.png"}
+{"image_path": "Woven_104/test/bad/016.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_104/ground_truth/bad/016_mask.png"}
+{"image_path": "Woven_104/test/bad/017.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_104/ground_truth/bad/017_mask.png"}
+{"image_path": "Woven_104/test/bad/018.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_104/ground_truth/bad/018_mask.png"}
+{"image_path": "Woven_104/test/bad/019.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_104/ground_truth/bad/019_mask.png"}
+{"image_path": "Woven_104/test/bad/020.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_104/ground_truth/bad/020_mask.png"}
+{"image_path": "Woven_104/test/bad/021.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_104/ground_truth/bad/021_mask.png"}
+{"image_path": "Woven_104/test/bad/022.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_104/ground_truth/bad/022_mask.png"}
+{"image_path": "Woven_104/test/bad/023.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_104/ground_truth/bad/023_mask.png"}
+{"image_path": "Woven_104/test/bad/024.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_104/ground_truth/bad/024_mask.png"}
+{"image_path": "Woven_104/test/bad/025.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_104/ground_truth/bad/025_mask.png"}
+{"image_path": "Woven_104/test/bad/026.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_104/ground_truth/bad/026_mask.png"}
+{"image_path": "Woven_104/test/bad/027.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_104/ground_truth/bad/027_mask.png"}
+{"image_path": "Woven_104/test/bad/028.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_104/ground_truth/bad/028_mask.png"}
+{"image_path": "Woven_104/test/bad/029.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_104/ground_truth/bad/029_mask.png"}
+{"image_path": "Woven_104/test/bad/030.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_104/ground_truth/bad/030_mask.png"}
+{"image_path": "Woven_104/test/bad/031.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_104/ground_truth/bad/031_mask.png"}
+{"image_path": "Woven_104/test/bad/032.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_104/ground_truth/bad/032_mask.png"}
+{"image_path": "Woven_104/test/bad/033.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_104/ground_truth/bad/033_mask.png"}
+{"image_path": "Woven_104/test/bad/034.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_104/ground_truth/bad/034_mask.png"}
+{"image_path": "Woven_104/test/bad/035.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_104/ground_truth/bad/035_mask.png"}
+{"image_path": "Woven_104/test/bad/036.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_104/ground_truth/bad/036_mask.png"}
+{"image_path": "Woven_104/test/bad/037.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_104/ground_truth/bad/037_mask.png"}
+{"image_path": "Woven_104/test/bad/038.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_104/ground_truth/bad/038_mask.png"}
+{"image_path": "Woven_104/test/bad/039.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_104/ground_truth/bad/039_mask.png"}
+{"image_path": "Woven_104/test/bad/040.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_104/ground_truth/bad/040_mask.png"}
+{"image_path": "Woven_104/test/bad/041.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_104/ground_truth/bad/041_mask.png"}
+{"image_path": "Woven_104/test/bad/042.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_104/ground_truth/bad/042_mask.png"}
+{"image_path": "Woven_104/test/bad/043.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_104/ground_truth/bad/043_mask.png"}
+{"image_path": "Woven_104/test/bad/044.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_104/ground_truth/bad/044_mask.png"}
+{"image_path": "Woven_104/test/bad/045.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_104/ground_truth/bad/045_mask.png"}
+{"image_path": "Woven_104/test/bad/046.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_104/ground_truth/bad/046_mask.png"}
+{"image_path": "Woven_104/test/bad/047.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_104/ground_truth/bad/047_mask.png"}
+{"image_path": "Woven_104/test/bad/048.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_104/ground_truth/bad/048_mask.png"}
+{"image_path": "Woven_104/test/bad/049.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_104/ground_truth/bad/049_mask.png"}
+{"image_path": "Woven_104/test/bad/050.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_104/ground_truth/bad/050_mask.png"}
+{"image_path": "Woven_104/test/bad/051.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_104/ground_truth/bad/051_mask.png"}
+{"image_path": "Woven_104/test/bad/052.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_104/ground_truth/bad/052_mask.png"}
+{"image_path": "Woven_104/test/bad/053.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_104/ground_truth/bad/053_mask.png"}
+{"image_path": "Woven_104/test/bad/054.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_104/ground_truth/bad/054_mask.png"}
+{"image_path": "Woven_104/test/bad/055.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_104/ground_truth/bad/055_mask.png"}
+{"image_path": "Woven_104/test/bad/056.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_104/ground_truth/bad/056_mask.png"}
+{"image_path": "Woven_104/test/bad/057.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_104/ground_truth/bad/057_mask.png"}
+{"image_path": "Woven_104/test/bad/058.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_104/ground_truth/bad/058_mask.png"}
+{"image_path": "Woven_104/test/bad/059.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_104/ground_truth/bad/059_mask.png"}
+{"image_path": "Woven_104/test/bad/060.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_104/ground_truth/bad/060_mask.png"}
+{"image_path": "Woven_104/test/bad/061.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_104/ground_truth/bad/061_mask.png"}
+{"image_path": "Woven_104/test/bad/062.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_104/ground_truth/bad/062_mask.png"}
+{"image_path": "Woven_104/test/bad/063.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_104/ground_truth/bad/063_mask.png"}
+{"image_path": "Woven_104/test/bad/064.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_104/ground_truth/bad/064_mask.png"}
+{"image_path": "Woven_104/test/bad/065.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_104/ground_truth/bad/065_mask.png"}
+{"image_path": "Woven_104/test/bad/066.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_104/ground_truth/bad/066_mask.png"}
+{"image_path": "Woven_104/test/bad/067.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_104/ground_truth/bad/067_mask.png"}
+{"image_path": "Woven_104/test/bad/068.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_104/ground_truth/bad/068_mask.png"}
+{"image_path": "Woven_104/test/bad/069.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_104/ground_truth/bad/069_mask.png"}
+{"image_path": "Woven_104/test/bad/070.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_104/ground_truth/bad/070_mask.png"}
+{"image_path": "Woven_104/test/bad/071.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_104/ground_truth/bad/071_mask.png"}
+{"image_path": "Woven_104/test/bad/072.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_104/ground_truth/bad/072_mask.png"}
+{"image_path": "Woven_104/test/bad/073.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_104/ground_truth/bad/073_mask.png"}
+{"image_path": "Woven_104/test/bad/074.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_104/ground_truth/bad/074_mask.png"}
+{"image_path": "Woven_104/test/bad/075.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_104/ground_truth/bad/075_mask.png"}
+{"image_path": "Woven_104/test/bad/076.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_104/ground_truth/bad/076_mask.png"}
+{"image_path": "Woven_104/test/bad/077.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_104/ground_truth/bad/077_mask.png"}
+{"image_path": "Woven_104/test/bad/078.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_104/ground_truth/bad/078_mask.png"}
+{"image_path": "Woven_104/test/bad/079.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_104/ground_truth/bad/079_mask.png"}
+{"image_path": "Woven_104/test/good/000.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_104/test/good/001.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_104/test/good/002.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_104/test/good/003.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_104/test/good/004.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_104/test/good/005.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_104/test/good/006.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_104/test/good/007.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_104/test/good/008.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_104/test/good/009.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_104/test/good/010.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_104/test/good/011.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_104/test/good/012.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_104/test/good/013.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_104/test/good/014.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_104/test/good/015.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_104/test/good/016.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_104/test/good/017.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_104/test/good/018.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_104/test/good/019.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_125/test/bad/000.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_125/ground_truth/bad/000_mask.png"}
+{"image_path": "Woven_125/test/bad/001.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_125/ground_truth/bad/001_mask.png"}
+{"image_path": "Woven_125/test/bad/002.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_125/ground_truth/bad/002_mask.png"}
+{"image_path": "Woven_125/test/bad/003.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_125/ground_truth/bad/003_mask.png"}
+{"image_path": "Woven_125/test/bad/004.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_125/ground_truth/bad/004_mask.png"}
+{"image_path": "Woven_125/test/bad/005.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_125/ground_truth/bad/005_mask.png"}
+{"image_path": "Woven_125/test/bad/006.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_125/ground_truth/bad/006_mask.png"}
+{"image_path": "Woven_125/test/bad/007.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_125/ground_truth/bad/007_mask.png"}
+{"image_path": "Woven_125/test/bad/008.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_125/ground_truth/bad/008_mask.png"}
+{"image_path": "Woven_125/test/bad/009.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_125/ground_truth/bad/009_mask.png"}
+{"image_path": "Woven_125/test/bad/010.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_125/ground_truth/bad/010_mask.png"}
+{"image_path": "Woven_125/test/bad/011.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_125/ground_truth/bad/011_mask.png"}
+{"image_path": "Woven_125/test/bad/012.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_125/ground_truth/bad/012_mask.png"}
+{"image_path": "Woven_125/test/bad/013.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_125/ground_truth/bad/013_mask.png"}
+{"image_path": "Woven_125/test/bad/014.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_125/ground_truth/bad/014_mask.png"}
+{"image_path": "Woven_125/test/bad/015.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_125/ground_truth/bad/015_mask.png"}
+{"image_path": "Woven_125/test/bad/016.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_125/ground_truth/bad/016_mask.png"}
+{"image_path": "Woven_125/test/bad/017.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_125/ground_truth/bad/017_mask.png"}
+{"image_path": "Woven_125/test/bad/018.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_125/ground_truth/bad/018_mask.png"}
+{"image_path": "Woven_125/test/bad/019.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_125/ground_truth/bad/019_mask.png"}
+{"image_path": "Woven_125/test/bad/020.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_125/ground_truth/bad/020_mask.png"}
+{"image_path": "Woven_125/test/bad/021.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_125/ground_truth/bad/021_mask.png"}
+{"image_path": "Woven_125/test/bad/022.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_125/ground_truth/bad/022_mask.png"}
+{"image_path": "Woven_125/test/bad/023.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_125/ground_truth/bad/023_mask.png"}
+{"image_path": "Woven_125/test/bad/024.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_125/ground_truth/bad/024_mask.png"}
+{"image_path": "Woven_125/test/bad/025.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_125/ground_truth/bad/025_mask.png"}
+{"image_path": "Woven_125/test/bad/026.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_125/ground_truth/bad/026_mask.png"}
+{"image_path": "Woven_125/test/bad/027.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_125/ground_truth/bad/027_mask.png"}
+{"image_path": "Woven_125/test/bad/028.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_125/ground_truth/bad/028_mask.png"}
+{"image_path": "Woven_125/test/bad/029.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_125/ground_truth/bad/029_mask.png"}
+{"image_path": "Woven_125/test/bad/030.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_125/ground_truth/bad/030_mask.png"}
+{"image_path": "Woven_125/test/bad/031.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_125/ground_truth/bad/031_mask.png"}
+{"image_path": "Woven_125/test/bad/032.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_125/ground_truth/bad/032_mask.png"}
+{"image_path": "Woven_125/test/bad/033.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_125/ground_truth/bad/033_mask.png"}
+{"image_path": "Woven_125/test/bad/034.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_125/ground_truth/bad/034_mask.png"}
+{"image_path": "Woven_125/test/bad/035.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_125/ground_truth/bad/035_mask.png"}
+{"image_path": "Woven_125/test/bad/036.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_125/ground_truth/bad/036_mask.png"}
+{"image_path": "Woven_125/test/bad/037.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_125/ground_truth/bad/037_mask.png"}
+{"image_path": "Woven_125/test/bad/038.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_125/ground_truth/bad/038_mask.png"}
+{"image_path": "Woven_125/test/bad/039.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_125/ground_truth/bad/039_mask.png"}
+{"image_path": "Woven_125/test/bad/040.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_125/ground_truth/bad/040_mask.png"}
+{"image_path": "Woven_125/test/bad/041.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_125/ground_truth/bad/041_mask.png"}
+{"image_path": "Woven_125/test/bad/042.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_125/ground_truth/bad/042_mask.png"}
+{"image_path": "Woven_125/test/bad/043.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_125/ground_truth/bad/043_mask.png"}
+{"image_path": "Woven_125/test/bad/044.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_125/ground_truth/bad/044_mask.png"}
+{"image_path": "Woven_125/test/bad/045.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_125/ground_truth/bad/045_mask.png"}
+{"image_path": "Woven_125/test/bad/046.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_125/ground_truth/bad/046_mask.png"}
+{"image_path": "Woven_125/test/bad/047.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_125/ground_truth/bad/047_mask.png"}
+{"image_path": "Woven_125/test/bad/048.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_125/ground_truth/bad/048_mask.png"}
+{"image_path": "Woven_125/test/bad/049.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_125/ground_truth/bad/049_mask.png"}
+{"image_path": "Woven_125/test/bad/050.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_125/ground_truth/bad/050_mask.png"}
+{"image_path": "Woven_125/test/bad/051.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_125/ground_truth/bad/051_mask.png"}
+{"image_path": "Woven_125/test/bad/052.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_125/ground_truth/bad/052_mask.png"}
+{"image_path": "Woven_125/test/bad/053.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_125/ground_truth/bad/053_mask.png"}
+{"image_path": "Woven_125/test/bad/054.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_125/ground_truth/bad/054_mask.png"}
+{"image_path": "Woven_125/test/bad/055.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_125/ground_truth/bad/055_mask.png"}
+{"image_path": "Woven_125/test/bad/056.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_125/ground_truth/bad/056_mask.png"}
+{"image_path": "Woven_125/test/bad/057.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_125/ground_truth/bad/057_mask.png"}
+{"image_path": "Woven_125/test/bad/058.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_125/ground_truth/bad/058_mask.png"}
+{"image_path": "Woven_125/test/bad/059.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_125/ground_truth/bad/059_mask.png"}
+{"image_path": "Woven_125/test/bad/060.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_125/ground_truth/bad/060_mask.png"}
+{"image_path": "Woven_125/test/bad/061.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_125/ground_truth/bad/061_mask.png"}
+{"image_path": "Woven_125/test/bad/062.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_125/ground_truth/bad/062_mask.png"}
+{"image_path": "Woven_125/test/bad/063.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_125/ground_truth/bad/063_mask.png"}
+{"image_path": "Woven_125/test/bad/064.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_125/ground_truth/bad/064_mask.png"}
+{"image_path": "Woven_125/test/bad/065.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_125/ground_truth/bad/065_mask.png"}
+{"image_path": "Woven_125/test/bad/066.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_125/ground_truth/bad/066_mask.png"}
+{"image_path": "Woven_125/test/bad/067.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_125/ground_truth/bad/067_mask.png"}
+{"image_path": "Woven_125/test/bad/068.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_125/ground_truth/bad/068_mask.png"}
+{"image_path": "Woven_125/test/bad/069.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_125/ground_truth/bad/069_mask.png"}
+{"image_path": "Woven_125/test/bad/070.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_125/ground_truth/bad/070_mask.png"}
+{"image_path": "Woven_125/test/bad/071.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_125/ground_truth/bad/071_mask.png"}
+{"image_path": "Woven_125/test/bad/072.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_125/ground_truth/bad/072_mask.png"}
+{"image_path": "Woven_125/test/bad/073.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_125/ground_truth/bad/073_mask.png"}
+{"image_path": "Woven_125/test/bad/074.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_125/ground_truth/bad/074_mask.png"}
+{"image_path": "Woven_125/test/bad/075.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_125/ground_truth/bad/075_mask.png"}
+{"image_path": "Woven_125/test/bad/076.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_125/ground_truth/bad/076_mask.png"}
+{"image_path": "Woven_125/test/bad/077.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_125/ground_truth/bad/077_mask.png"}
+{"image_path": "Woven_125/test/bad/078.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_125/ground_truth/bad/078_mask.png"}
+{"image_path": "Woven_125/test/good/000.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_125/test/good/001.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_125/test/good/002.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_125/test/good/003.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_125/test/good/004.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_125/test/good/005.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_125/test/good/006.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_125/test/good/007.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_125/test/good/008.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_125/test/good/009.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_125/test/good/010.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_125/test/good/011.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_125/test/good/012.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_125/test/good/013.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_125/test/good/014.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_125/test/good/015.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_125/test/good/016.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_125/test/good/017.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_125/test/good/018.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_125/test/good/019.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_127/test/bad/000.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_127/ground_truth/bad/000_mask.png"}
+{"image_path": "Woven_127/test/bad/001.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_127/ground_truth/bad/001_mask.png"}
+{"image_path": "Woven_127/test/bad/002.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_127/ground_truth/bad/002_mask.png"}
+{"image_path": "Woven_127/test/bad/003.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_127/ground_truth/bad/003_mask.png"}
+{"image_path": "Woven_127/test/bad/004.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_127/ground_truth/bad/004_mask.png"}
+{"image_path": "Woven_127/test/bad/005.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_127/ground_truth/bad/005_mask.png"}
+{"image_path": "Woven_127/test/bad/006.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_127/ground_truth/bad/006_mask.png"}
+{"image_path": "Woven_127/test/bad/007.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_127/ground_truth/bad/007_mask.png"}
+{"image_path": "Woven_127/test/bad/008.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_127/ground_truth/bad/008_mask.png"}
+{"image_path": "Woven_127/test/bad/009.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_127/ground_truth/bad/009_mask.png"}
+{"image_path": "Woven_127/test/bad/010.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_127/ground_truth/bad/010_mask.png"}
+{"image_path": "Woven_127/test/bad/011.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_127/ground_truth/bad/011_mask.png"}
+{"image_path": "Woven_127/test/bad/012.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_127/ground_truth/bad/012_mask.png"}
+{"image_path": "Woven_127/test/bad/013.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_127/ground_truth/bad/013_mask.png"}
+{"image_path": "Woven_127/test/bad/014.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_127/ground_truth/bad/014_mask.png"}
+{"image_path": "Woven_127/test/bad/015.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_127/ground_truth/bad/015_mask.png"}
+{"image_path": "Woven_127/test/bad/016.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_127/ground_truth/bad/016_mask.png"}
+{"image_path": "Woven_127/test/bad/017.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_127/ground_truth/bad/017_mask.png"}
+{"image_path": "Woven_127/test/bad/018.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_127/ground_truth/bad/018_mask.png"}
+{"image_path": "Woven_127/test/bad/019.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_127/ground_truth/bad/019_mask.png"}
+{"image_path": "Woven_127/test/bad/020.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_127/ground_truth/bad/020_mask.png"}
+{"image_path": "Woven_127/test/bad/021.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_127/ground_truth/bad/021_mask.png"}
+{"image_path": "Woven_127/test/bad/022.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_127/ground_truth/bad/022_mask.png"}
+{"image_path": "Woven_127/test/bad/023.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_127/ground_truth/bad/023_mask.png"}
+{"image_path": "Woven_127/test/bad/024.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_127/ground_truth/bad/024_mask.png"}
+{"image_path": "Woven_127/test/bad/025.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_127/ground_truth/bad/025_mask.png"}
+{"image_path": "Woven_127/test/bad/026.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_127/ground_truth/bad/026_mask.png"}
+{"image_path": "Woven_127/test/bad/027.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_127/ground_truth/bad/027_mask.png"}
+{"image_path": "Woven_127/test/bad/028.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_127/ground_truth/bad/028_mask.png"}
+{"image_path": "Woven_127/test/bad/029.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_127/ground_truth/bad/029_mask.png"}
+{"image_path": "Woven_127/test/bad/030.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_127/ground_truth/bad/030_mask.png"}
+{"image_path": "Woven_127/test/bad/031.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_127/ground_truth/bad/031_mask.png"}
+{"image_path": "Woven_127/test/bad/032.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_127/ground_truth/bad/032_mask.png"}
+{"image_path": "Woven_127/test/bad/033.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_127/ground_truth/bad/033_mask.png"}
+{"image_path": "Woven_127/test/bad/034.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_127/ground_truth/bad/034_mask.png"}
+{"image_path": "Woven_127/test/bad/035.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_127/ground_truth/bad/035_mask.png"}
+{"image_path": "Woven_127/test/bad/036.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_127/ground_truth/bad/036_mask.png"}
+{"image_path": "Woven_127/test/bad/037.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_127/ground_truth/bad/037_mask.png"}
+{"image_path": "Woven_127/test/bad/038.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_127/ground_truth/bad/038_mask.png"}
+{"image_path": "Woven_127/test/bad/039.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_127/ground_truth/bad/039_mask.png"}
+{"image_path": "Woven_127/test/bad/040.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_127/ground_truth/bad/040_mask.png"}
+{"image_path": "Woven_127/test/bad/041.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_127/ground_truth/bad/041_mask.png"}
+{"image_path": "Woven_127/test/bad/042.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_127/ground_truth/bad/042_mask.png"}
+{"image_path": "Woven_127/test/bad/043.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_127/ground_truth/bad/043_mask.png"}
+{"image_path": "Woven_127/test/bad/044.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_127/ground_truth/bad/044_mask.png"}
+{"image_path": "Woven_127/test/bad/045.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_127/ground_truth/bad/045_mask.png"}
+{"image_path": "Woven_127/test/bad/046.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_127/ground_truth/bad/046_mask.png"}
+{"image_path": "Woven_127/test/bad/047.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_127/ground_truth/bad/047_mask.png"}
+{"image_path": "Woven_127/test/bad/048.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_127/ground_truth/bad/048_mask.png"}
+{"image_path": "Woven_127/test/bad/049.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_127/ground_truth/bad/049_mask.png"}
+{"image_path": "Woven_127/test/bad/050.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_127/ground_truth/bad/050_mask.png"}
+{"image_path": "Woven_127/test/bad/051.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_127/ground_truth/bad/051_mask.png"}
+{"image_path": "Woven_127/test/bad/052.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_127/ground_truth/bad/052_mask.png"}
+{"image_path": "Woven_127/test/bad/053.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_127/ground_truth/bad/053_mask.png"}
+{"image_path": "Woven_127/test/bad/054.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_127/ground_truth/bad/054_mask.png"}
+{"image_path": "Woven_127/test/bad/055.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_127/ground_truth/bad/055_mask.png"}
+{"image_path": "Woven_127/test/bad/056.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_127/ground_truth/bad/056_mask.png"}
+{"image_path": "Woven_127/test/bad/057.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_127/ground_truth/bad/057_mask.png"}
+{"image_path": "Woven_127/test/bad/058.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_127/ground_truth/bad/058_mask.png"}
+{"image_path": "Woven_127/test/bad/059.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_127/ground_truth/bad/059_mask.png"}
+{"image_path": "Woven_127/test/bad/060.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_127/ground_truth/bad/060_mask.png"}
+{"image_path": "Woven_127/test/bad/061.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_127/ground_truth/bad/061_mask.png"}
+{"image_path": "Woven_127/test/bad/062.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_127/ground_truth/bad/062_mask.png"}
+{"image_path": "Woven_127/test/bad/063.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_127/ground_truth/bad/063_mask.png"}
+{"image_path": "Woven_127/test/bad/064.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_127/ground_truth/bad/064_mask.png"}
+{"image_path": "Woven_127/test/bad/065.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_127/ground_truth/bad/065_mask.png"}
+{"image_path": "Woven_127/test/bad/066.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_127/ground_truth/bad/066_mask.png"}
+{"image_path": "Woven_127/test/bad/067.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_127/ground_truth/bad/067_mask.png"}
+{"image_path": "Woven_127/test/bad/068.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_127/ground_truth/bad/068_mask.png"}
+{"image_path": "Woven_127/test/bad/069.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_127/ground_truth/bad/069_mask.png"}
+{"image_path": "Woven_127/test/bad/070.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_127/ground_truth/bad/070_mask.png"}
+{"image_path": "Woven_127/test/bad/071.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_127/ground_truth/bad/071_mask.png"}
+{"image_path": "Woven_127/test/bad/072.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_127/ground_truth/bad/072_mask.png"}
+{"image_path": "Woven_127/test/bad/073.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_127/ground_truth/bad/073_mask.png"}
+{"image_path": "Woven_127/test/bad/074.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_127/ground_truth/bad/074_mask.png"}
+{"image_path": "Woven_127/test/bad/075.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_127/ground_truth/bad/075_mask.png"}
+{"image_path": "Woven_127/test/bad/076.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_127/ground_truth/bad/076_mask.png"}
+{"image_path": "Woven_127/test/bad/077.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_127/ground_truth/bad/077_mask.png"}
+{"image_path": "Woven_127/test/bad/078.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_127/ground_truth/bad/078_mask.png"}
+{"image_path": "Woven_127/test/bad/079.png", "label": 1, "class_name": "Woven", "mask_path": "Woven_127/ground_truth/bad/079_mask.png"}
+{"image_path": "Woven_127/test/good/000.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_127/test/good/001.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_127/test/good/002.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_127/test/good/003.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_127/test/good/004.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_127/test/good/005.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_127/test/good/006.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_127/test/good/007.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_127/test/good/008.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_127/test/good/009.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_127/test/good/010.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_127/test/good/011.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_127/test/good/012.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_127/test/good/013.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_127/test/good/014.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_127/test/good/015.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_127/test/good/016.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_127/test/good/017.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_127/test/good/018.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_127/test/good/019.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_127/test/good/020.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_127/test/good/021.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_127/test/good/022.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_127/test/good/023.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_127/test/good/024.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_127/test/good/025.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_127/test/good/026.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_127/test/good/027.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_127/test/good/028.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_127/test/good/029.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_127/test/good/030.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_127/test/good/031.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_127/test/good/032.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_127/test/good/033.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_127/test/good/034.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_127/test/good/035.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_127/test/good/036.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_127/test/good/037.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_127/test/good/038.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_127/test/good/039.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_127/test/good/040.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_127/test/good/041.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_127/test/good/042.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_127/test/good/043.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_127/test/good/044.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_127/test/good/045.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_127/test/good/046.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_127/test/good/047.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_127/test/good/048.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_127/test/good/049.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_127/test/good/050.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_127/test/good/051.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_127/test/good/052.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_127/test/good/053.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_127/test/good/054.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_127/test/good/055.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_127/test/good/056.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_127/test/good/057.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_127/test/good/058.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_127/test/good/059.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_127/test/good/060.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_127/test/good/061.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_127/test/good/062.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_127/test/good/063.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_127/test/good/064.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_127/test/good/065.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_127/test/good/066.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_127/test/good/067.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_127/test/good/068.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_127/test/good/069.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_127/test/good/070.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_127/test/good/071.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_127/test/good/072.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_127/test/good/073.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_127/test/good/074.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_127/test/good/075.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_127/test/good/076.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_127/test/good/077.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_127/test/good/078.png", "label": 0, "class_name": "Woven"}
+{"image_path": "Woven_127/test/good/079.png", "label": 0, "class_name": "Woven"}

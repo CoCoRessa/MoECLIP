@@ -1,0 +1,1805 @@
+{"image_path": "test/Ungood/img/11_49.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/11_49.png"}
+{"image_path": "test/Ungood/img/2_39.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/2_39.png"}
+{"image_path": "test/Ungood/img/9_63.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/9_63.png"}
+{"image_path": "test/Ungood/img/1_26.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/1_26.png"}
+{"image_path": "test/Ungood/img/5_101.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/5_101.png"}
+{"image_path": "test/Ungood/img/9_78.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/9_78.png"}
+{"image_path": "test/Ungood/img/4_64.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/4_64.png"}
+{"image_path": "test/Ungood/img/13_53.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/13_53.png"}
+{"image_path": "test/Ungood/img/3_20.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_20.png"}
+{"image_path": "test/Ungood/img/1_38.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/1_38.png"}
+{"image_path": "test/Ungood/img/12_87.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/12_87.png"}
+{"image_path": "test/Ungood/img/12_93.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/12_93.png"}
+{"image_path": "test/Ungood/img/7_83.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/7_83.png"}
+{"image_path": "test/Ungood/img/10_70.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/10_70.png"}
+{"image_path": "test/Ungood/img/8_85.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/8_85.png"}
+{"image_path": "test/Ungood/img/9_95.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/9_95.png"}
+{"image_path": "test/Ungood/img/5_48.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/5_48.png"}
+{"image_path": "test/Ungood/img/4_75.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/4_75.png"}
+{"image_path": "test/Ungood/img/2_85.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/2_85.png"}
+{"image_path": "test/Ungood/img/4_72.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/4_72.png"}
+{"image_path": "test/Ungood/img/6_72.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/6_72.png"}
+{"image_path": "test/Ungood/img/7_78.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/7_78.png"}
+{"image_path": "test/Ungood/img/8_40.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/8_40.png"}
+{"image_path": "test/Ungood/img/3_76.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_76.png"}
+{"image_path": "test/Ungood/img/13_55.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/13_55.png"}
+{"image_path": "test/Ungood/img/1_55.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/1_55.png"}
+{"image_path": "test/Ungood/img/9_94.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/9_94.png"}
+{"image_path": "test/Ungood/img/8_36.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/8_36.png"}
+{"image_path": "test/Ungood/img/8_109.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/8_109.png"}
+{"image_path": "test/Ungood/img/5_87.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/5_87.png"}
+{"image_path": "test/Ungood/img/12_75.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/12_75.png"}
+{"image_path": "test/Ungood/img/5_119.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/5_119.png"}
+{"image_path": "test/Ungood/img/3_58.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_58.png"}
+{"image_path": "test/Ungood/img/12_53.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/12_53.png"}
+{"image_path": "test/Ungood/img/4_84.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/4_84.png"}
+{"image_path": "test/Ungood/img/4_104.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/4_104.png"}
+{"image_path": "test/Ungood/img/5_50.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/5_50.png"}
+{"image_path": "test/Ungood/img/5_49.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/5_49.png"}
+{"image_path": "test/Ungood/img/4_68.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/4_68.png"}
+{"image_path": "test/Ungood/img/5_107.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/5_107.png"}
+{"image_path": "test/Ungood/img/10_60.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/10_60.png"}
+{"image_path": "test/Ungood/img/1_29.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/1_29.png"}
+{"image_path": "test/Ungood/img/7_79.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/7_79.png"}
+{"image_path": "test/Ungood/img/5_70.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/5_70.png"}
+{"image_path": "test/Ungood/img/9_80.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/9_80.png"}
+{"image_path": "test/Ungood/img/12_90.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/12_90.png"}
+{"image_path": "test/Ungood/img/4_116.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/4_116.png"}
+{"image_path": "test/Ungood/img/2_87.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/2_87.png"}
+{"image_path": "test/Ungood/img/14_63.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/14_63.png"}
+{"image_path": "test/Ungood/img/3_78.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_78.png"}
+{"image_path": "test/Ungood/img/10_47.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/10_47.png"}
+{"image_path": "test/Ungood/img/11_93.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/11_93.png"}
+{"image_path": "test/Ungood/img/7_72.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/7_72.png"}
+{"image_path": "test/Ungood/img/3_60.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_60.png"}
+{"image_path": "test/Ungood/img/13_82.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/13_82.png"}
+{"image_path": "test/Ungood/img/13_66.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/13_66.png"}
+{"image_path": "test/Ungood/img/3_23.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_23.png"}
+{"image_path": "test/Ungood/img/4_58.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/4_58.png"}
+{"image_path": "test/Ungood/img/5_61.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/5_61.png"}
+{"image_path": "test/Ungood/img/2_56.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/2_56.png"}
+{"image_path": "test/Ungood/img/3_53.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_53.png"}
+{"image_path": "test/Ungood/img/13_48.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/13_48.png"}
+{"image_path": "test/Ungood/img/11_70.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/11_70.png"}
+{"image_path": "test/Ungood/img/4_94.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/4_94.png"}
+{"image_path": "test/Ungood/img/8_74.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/8_74.png"}
+{"image_path": "test/Ungood/img/8_101.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/8_101.png"}
+{"image_path": "test/Ungood/img/9_67.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/9_67.png"}
+{"image_path": "test/Ungood/img/8_73.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/8_73.png"}
+{"image_path": "test/Ungood/img/5_94.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/5_94.png"}
+{"image_path": "test/Ungood/img/4_63.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/4_63.png"}
+{"image_path": "test/Ungood/img/5_30.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/5_30.png"}
+{"image_path": "test/Ungood/img/3_88.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_88.png"}
+{"image_path": "test/Ungood/img/8_76.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/8_76.png"}
+{"image_path": "test/Ungood/img/6_55.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/6_55.png"}
+{"image_path": "test/Ungood/img/4_82.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/4_82.png"}
+{"image_path": "test/Ungood/img/3_107.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_107.png"}
+{"image_path": "test/Ungood/img/8_33.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/8_33.png"}
+{"image_path": "test/Ungood/img/3_56.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_56.png"}
+{"image_path": "test/Ungood/img/3_106.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_106.png"}
+{"image_path": "test/Ungood/img/1_24.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/1_24.png"}
+{"image_path": "test/Ungood/img/11_79.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/11_79.png"}
+{"image_path": "test/Ungood/img/2_46.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/2_46.png"}
+{"image_path": "test/Ungood/img/12_48.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/12_48.png"}
+{"image_path": "test/Ungood/img/2_63.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/2_63.png"}
+{"image_path": "test/Ungood/img/5_86.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/5_86.png"}
+{"image_path": "test/Ungood/img/8_46.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/8_46.png"}
+{"image_path": "test/Ungood/img/10_69.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/10_69.png"}
+{"image_path": "test/Ungood/img/11_73.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/11_73.png"}
+{"image_path": "test/Ungood/img/3_100.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_100.png"}
+{"image_path": "test/Ungood/img/4_108.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/4_108.png"}
+{"image_path": "test/Ungood/img/2_74.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/2_74.png"}
+{"image_path": "test/Ungood/img/8_105.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/8_105.png"}
+{"image_path": "test/Ungood/img/5_93.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/5_93.png"}
+{"image_path": "test/Ungood/img/5_71.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/5_71.png"}
+{"image_path": "test/Ungood/img/5_40.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/5_40.png"}
+{"image_path": "test/Ungood/img/10_50.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/10_50.png"}
+{"image_path": "test/Ungood/img/12_55.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/12_55.png"}
+{"image_path": "test/Ungood/img/5_98.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/5_98.png"}
+{"image_path": "test/Ungood/img/3_17.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_17.png"}
+{"image_path": "test/Ungood/img/3_50.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_50.png"}
+{"image_path": "test/Ungood/img/4_60.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/4_60.png"}
+{"image_path": "test/Ungood/img/2_97.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/2_97.png"}
+{"image_path": "test/Ungood/img/3_95.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_95.png"}
+{"image_path": "test/Ungood/img/11_64.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/11_64.png"}
+{"image_path": "test/Ungood/img/9_77.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/9_77.png"}
+{"image_path": "test/Ungood/img/1_63.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/1_63.png"}
+{"image_path": "test/Ungood/img/8_115.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/8_115.png"}
+{"image_path": "test/Ungood/img/13_95.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/13_95.png"}
+{"image_path": "test/Ungood/img/5_42.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/5_42.png"}
+{"image_path": "test/Ungood/img/7_84.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/7_84.png"}
+{"image_path": "test/Ungood/img/5_51.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/5_51.png"}
+{"image_path": "test/Ungood/img/4_91.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/4_91.png"}
+{"image_path": "test/Ungood/img/13_45.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/13_45.png"}
+{"image_path": "test/Ungood/img/13_71.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/13_71.png"}
+{"image_path": "test/Ungood/img/9_53.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/9_53.png"}
+{"image_path": "test/Ungood/img/6_69.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/6_69.png"}
+{"image_path": "test/Ungood/img/12_45.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/12_45.png"}
+{"image_path": "test/Ungood/img/4_56.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/4_56.png"}
+{"image_path": "test/Ungood/img/9_83.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/9_83.png"}
+{"image_path": "test/Ungood/img/3_85.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_85.png"}
+{"image_path": "test/Ungood/img/3_83.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_83.png"}
+{"image_path": "test/Ungood/img/2_80.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/2_80.png"}
+{"image_path": "test/Ungood/img/3_29.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_29.png"}
+{"image_path": "test/Ungood/img/13_84.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/13_84.png"}
+{"image_path": "test/Ungood/img/8_82.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/8_82.png"}
+{"image_path": "test/Ungood/img/5_79.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/5_79.png"}
+{"image_path": "test/Ungood/img/5_81.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/5_81.png"}
+{"image_path": "test/Ungood/img/12_62.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/12_62.png"}
+{"image_path": "test/Ungood/img/3_89.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_89.png"}
+{"image_path": "test/Ungood/img/9_73.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/9_73.png"}
+{"image_path": "test/Ungood/img/3_32.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_32.png"}
+{"image_path": "test/Ungood/img/4_86.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/4_86.png"}
+{"image_path": "test/Ungood/img/4_81.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/4_81.png"}
+{"image_path": "test/Ungood/img/8_28.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/8_28.png"}
+{"image_path": "test/Ungood/img/11_81.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/11_81.png"}
+{"image_path": "test/Ungood/img/6_75.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/6_75.png"}
+{"image_path": "test/Ungood/img/12_78.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/12_78.png"}
+{"image_path": "test/Ungood/img/5_46.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/5_46.png"}
+{"image_path": "test/Ungood/img/8_89.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/8_89.png"}
+{"image_path": "test/Ungood/img/11_54.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/11_54.png"}
+{"image_path": "test/Ungood/img/4_54.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/4_54.png"}
+{"image_path": "test/Ungood/img/3_97.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_97.png"}
+{"image_path": "test/Ungood/img/9_97.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/9_97.png"}
+{"image_path": "test/Ungood/img/3_72.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_72.png"}
+{"image_path": "test/Ungood/img/8_67.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/8_67.png"}
+{"image_path": "test/Ungood/img/5_37.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/5_37.png"}
+{"image_path": "test/Ungood/img/11_65.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/11_65.png"}
+{"image_path": "test/Ungood/img/11_83.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/11_83.png"}
+{"image_path": "test/Ungood/img/10_83.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/10_83.png"}
+{"image_path": "test/Ungood/img/9_66.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/9_66.png"}
+{"image_path": "test/Ungood/img/10_59.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/10_59.png"}
+{"image_path": "test/Ungood/img/7_77.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/7_77.png"}
+{"image_path": "test/Ungood/img/12_91.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/12_91.png"}
+{"image_path": "test/Ungood/img/5_75.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/5_75.png"}
+{"image_path": "test/Ungood/img/6_81.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/6_81.png"}
+{"image_path": "test/Ungood/img/11_85.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/11_85.png"}
+{"image_path": "test/Ungood/img/1_25.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/1_25.png"}
+{"image_path": "test/Ungood/img/11_88.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/11_88.png"}
+{"image_path": "test/Ungood/img/9_51.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/9_51.png"}
+{"image_path": "test/Ungood/img/12_61.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/12_61.png"}
+{"image_path": "test/Ungood/img/4_100.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/4_100.png"}
+{"image_path": "test/Ungood/img/11_86.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/11_86.png"}
+{"image_path": "test/Ungood/img/2_78.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/2_78.png"}
+{"image_path": "test/Ungood/img/1_33.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/1_33.png"}
+{"image_path": "test/Ungood/img/6_66.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/6_66.png"}
+{"image_path": "test/Ungood/img/10_49.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/10_49.png"}
+{"image_path": "test/Ungood/img/3_39.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_39.png"}
+{"image_path": "test/Ungood/img/3_86.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_86.png"}
+{"image_path": "test/Ungood/img/11_40.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/11_40.png"}
+{"image_path": "test/Ungood/img/5_91.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/5_91.png"}
+{"image_path": "test/Ungood/img/1_56.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/1_56.png"}
+{"image_path": "test/Ungood/img/1_62.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/1_62.png"}
+{"image_path": "test/Ungood/img/4_102.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/4_102.png"}
+{"image_path": "test/Ungood/img/6_67.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/6_67.png"}
+{"image_path": "test/Ungood/img/8_86.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/8_86.png"}
+{"image_path": "test/Ungood/img/7_89.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/7_89.png"}
+{"image_path": "test/Ungood/img/9_85.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/9_85.png"}
+{"image_path": "test/Ungood/img/2_96.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/2_96.png"}
+{"image_path": "test/Ungood/img/5_113.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/5_113.png"}
+{"image_path": "test/Ungood/img/1_58.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/1_58.png"}
+{"image_path": "test/Ungood/img/2_88.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/2_88.png"}
+{"image_path": "test/Ungood/img/11_92.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/11_92.png"}
+{"image_path": "test/Ungood/img/11_42.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/11_42.png"}
+{"image_path": "test/Ungood/img/5_112.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/5_112.png"}
+{"image_path": "test/Ungood/img/10_68.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/10_68.png"}
+{"image_path": "test/Ungood/img/5_76.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/5_76.png"}
+{"image_path": "test/Ungood/img/4_97.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/4_97.png"}
+{"image_path": "test/Ungood/img/8_78.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/8_78.png"}
+{"image_path": "test/Ungood/img/1_45.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/1_45.png"}
+{"image_path": "test/Ungood/img/8_100.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/8_100.png"}
+{"image_path": "test/Ungood/img/2_82.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/2_82.png"}
+{"image_path": "test/Ungood/img/8_98.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/8_98.png"}
+{"image_path": "test/Ungood/img/8_50.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/8_50.png"}
+{"image_path": "test/Ungood/img/9_43.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/9_43.png"}
+{"image_path": "test/Ungood/img/10_66.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/10_66.png"}
+{"image_path": "test/Ungood/img/14_62.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/14_62.png"}
+{"image_path": "test/Ungood/img/12_67.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/12_67.png"}
+{"image_path": "test/Ungood/img/8_51.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/8_51.png"}
+{"image_path": "test/Ungood/img/8_29.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/8_29.png"}
+{"image_path": "test/Ungood/img/9_92.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/9_92.png"}
+{"image_path": "test/Ungood/img/1_37.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/1_37.png"}
+{"image_path": "test/Ungood/img/9_90.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/9_90.png"}
+{"image_path": "test/Ungood/img/1_50.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/1_50.png"}
+{"image_path": "test/Ungood/img/6_80.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/6_80.png"}
+{"image_path": "test/Ungood/img/4_73.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/4_73.png"}
+{"image_path": "test/Ungood/img/4_110.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/4_110.png"}
+{"image_path": "test/Ungood/img/2_72.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/2_72.png"}
+{"image_path": "test/Ungood/img/1_65.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/1_65.png"}
+{"image_path": "test/Ungood/img/9_58.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/9_58.png"}
+{"image_path": "test/Ungood/img/3_75.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_75.png"}
+{"image_path": "test/Ungood/img/11_60.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/11_60.png"}
+{"image_path": "test/Ungood/img/5_114.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/5_114.png"}
+{"image_path": "test/Ungood/img/9_46.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/9_46.png"}
+{"image_path": "test/Ungood/img/9_59.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/9_59.png"}
+{"image_path": "test/Ungood/img/13_73.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/13_73.png"}
+{"image_path": "test/Ungood/img/4_51.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/4_51.png"}
+{"image_path": "test/Ungood/img/7_76.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/7_76.png"}
+{"image_path": "test/Ungood/img/4_106.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/4_106.png"}
+{"image_path": "test/Ungood/img/5_123.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/5_123.png"}
+{"image_path": "test/Ungood/img/11_58.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/11_58.png"}
+{"image_path": "test/Ungood/img/12_77.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/12_77.png"}
+{"image_path": "test/Ungood/img/13_88.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/13_88.png"}
+{"image_path": "test/Ungood/img/2_43.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/2_43.png"}
+{"image_path": "test/Ungood/img/13_62.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/13_62.png"}
+{"image_path": "test/Ungood/img/2_90.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/2_90.png"}
+{"image_path": "test/Ungood/img/8_114.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/8_114.png"}
+{"image_path": "test/Ungood/img/9_70.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/9_70.png"}
+{"image_path": "test/Ungood/img/13_79.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/13_79.png"}
+{"image_path": "test/Ungood/img/6_61.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/6_61.png"}
+{"image_path": "test/Ungood/img/9_86.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/9_86.png"}
+{"image_path": "test/Ungood/img/6_71.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/6_71.png"}
+{"image_path": "test/Ungood/img/2_64.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/2_64.png"}
+{"image_path": "test/Ungood/img/3_63.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_63.png"}
+{"image_path": "test/Ungood/img/11_71.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/11_71.png"}
+{"image_path": "test/Ungood/img/12_43.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/12_43.png"}
+{"image_path": "test/Ungood/img/8_57.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/8_57.png"}
+{"image_path": "test/Ungood/img/3_90.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_90.png"}
+{"image_path": "test/Ungood/img/1_61.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/1_61.png"}
+{"image_path": "test/Ungood/img/12_63.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/12_63.png"}
+{"image_path": "test/Ungood/img/11_90.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/11_90.png"}
+{"image_path": "test/Ungood/img/11_78.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/11_78.png"}
+{"image_path": "test/Ungood/img/11_69.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/11_69.png"}
+{"image_path": "test/Ungood/img/8_94.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/8_94.png"}
+{"image_path": "test/Ungood/img/3_31.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_31.png"}
+{"image_path": "test/Ungood/img/9_91.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/9_91.png"}
+{"image_path": "test/Ungood/img/13_96.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/13_96.png"}
+{"image_path": "test/Ungood/img/7_88.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/7_88.png"}
+{"image_path": "test/Ungood/img/3_70.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_70.png"}
+{"image_path": "test/Ungood/img/9_34.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/9_34.png"}
+{"image_path": "test/Ungood/img/12_70.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/12_70.png"}
+{"image_path": "test/Ungood/img/11_46.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/11_46.png"}
+{"image_path": "test/Ungood/img/2_67.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/2_67.png"}
+{"image_path": "test/Ungood/img/5_105.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/5_105.png"}
+{"image_path": "test/Ungood/img/8_83.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/8_83.png"}
+{"image_path": "test/Ungood/img/5_38.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/5_38.png"}
+{"image_path": "test/Ungood/img/8_37.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/8_37.png"}
+{"image_path": "test/Ungood/img/4_61.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/4_61.png"}
+{"image_path": "test/Ungood/img/5_110.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/5_110.png"}
+{"image_path": "test/Ungood/img/4_113.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/4_113.png"}
+{"image_path": "test/Ungood/img/4_69.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/4_69.png"}
+{"image_path": "test/Ungood/img/2_65.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/2_65.png"}
+{"image_path": "test/Ungood/img/10_62.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/10_62.png"}
+{"image_path": "test/Ungood/img/5_34.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/5_34.png"}
+{"image_path": "test/Ungood/img/11_67.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/11_67.png"}
+{"image_path": "test/Ungood/img/11_59.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/11_59.png"}
+{"image_path": "test/Ungood/img/5_127.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/5_127.png"}
+{"image_path": "test/Ungood/img/3_30.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_30.png"}
+{"image_path": "test/Ungood/img/6_58.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/6_58.png"}
+{"image_path": "test/Ungood/img/3_52.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_52.png"}
+{"image_path": "test/Ungood/img/5_39.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/5_39.png"}
+{"image_path": "test/Ungood/img/4_52.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/4_52.png"}
+{"image_path": "test/Ungood/img/12_74.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/12_74.png"}
+{"image_path": "test/Ungood/img/5_125.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/5_125.png"}
+{"image_path": "test/Ungood/img/13_85.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/13_85.png"}
+{"image_path": "test/Ungood/img/9_82.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/9_82.png"}
+{"image_path": "test/Ungood/img/3_27.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_27.png"}
+{"image_path": "test/Ungood/img/11_84.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/11_84.png"}
+{"image_path": "test/Ungood/img/15_58.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/15_58.png"}
+{"image_path": "test/Ungood/img/3_22.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_22.png"}
+{"image_path": "test/Ungood/img/3_96.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_96.png"}
+{"image_path": "test/Ungood/img/2_75.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/2_75.png"}
+{"image_path": "test/Ungood/img/12_71.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/12_71.png"}
+{"image_path": "test/Ungood/img/4_98.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/4_98.png"}
+{"image_path": "test/Ungood/img/5_36.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/5_36.png"}
+{"image_path": "test/Ungood/img/12_84.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/12_84.png"}
+{"image_path": "test/Ungood/img/8_97.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/8_97.png"}
+{"image_path": "test/Ungood/img/8_62.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/8_62.png"}
+{"image_path": "test/Ungood/img/2_76.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/2_76.png"}
+{"image_path": "test/Ungood/img/8_103.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/8_103.png"}
+{"image_path": "test/Ungood/img/4_89.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/4_89.png"}
+{"image_path": "test/Ungood/img/3_67.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_67.png"}
+{"image_path": "test/Ungood/img/3_18.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_18.png"}
+{"image_path": "test/Ungood/img/8_49.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/8_49.png"}
+{"image_path": "test/Ungood/img/1_53.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/1_53.png"}
+{"image_path": "test/Ungood/img/2_44.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/2_44.png"}
+{"image_path": "test/Ungood/img/3_77.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_77.png"}
+{"image_path": "test/Ungood/img/8_64.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/8_64.png"}
+{"image_path": "test/Ungood/img/8_61.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/8_61.png"}
+{"image_path": "test/Ungood/img/1_68.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/1_68.png"}
+{"image_path": "test/Ungood/img/1_51.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/1_51.png"}
+{"image_path": "test/Ungood/img/1_57.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/1_57.png"}
+{"image_path": "test/Ungood/img/6_62.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/6_62.png"}
+{"image_path": "test/Ungood/img/3_37.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_37.png"}
+{"image_path": "test/Ungood/img/3_28.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_28.png"}
+{"image_path": "test/Ungood/img/9_96.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/9_96.png"}
+{"image_path": "test/Ungood/img/9_87.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/9_87.png"}
+{"image_path": "test/Ungood/img/2_91.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/2_91.png"}
+{"image_path": "test/Ungood/img/4_88.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/4_88.png"}
+{"image_path": "test/Ungood/img/14_58.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/14_58.png"}
+{"image_path": "test/Ungood/img/1_36.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/1_36.png"}
+{"image_path": "test/Ungood/img/4_124.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/4_124.png"}
+{"image_path": "test/Ungood/img/5_117.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/5_117.png"}
+{"image_path": "test/Ungood/img/6_83.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/6_83.png"}
+{"image_path": "test/Ungood/img/8_54.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/8_54.png"}
+{"image_path": "test/Ungood/img/13_86.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/13_86.png"}
+{"image_path": "test/Ungood/img/5_72.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/5_72.png"}
+{"image_path": "test/Ungood/img/4_87.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/4_87.png"}
+{"image_path": "test/Ungood/img/5_66.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/5_66.png"}
+{"image_path": "test/Ungood/img/4_55.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/4_55.png"}
+{"image_path": "test/Ungood/img/10_43.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/10_43.png"}
+{"image_path": "test/Ungood/img/8_95.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/8_95.png"}
+{"image_path": "test/Ungood/img/9_75.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/9_75.png"}
+{"image_path": "test/Ungood/img/4_126.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/4_126.png"}
+{"image_path": "test/Ungood/img/8_47.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/8_47.png"}
+{"image_path": "test/Ungood/img/11_94.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/11_94.png"}
+{"image_path": "test/Ungood/img/13_77.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/13_77.png"}
+{"image_path": "test/Ungood/img/9_79.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/9_79.png"}
+{"image_path": "test/Ungood/img/14_64.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/14_64.png"}
+{"image_path": "test/Ungood/img/5_88.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/5_88.png"}
+{"image_path": "test/Ungood/img/2_98.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/2_98.png"}
+{"image_path": "test/Ungood/img/9_31.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/9_31.png"}
+{"image_path": "test/Ungood/img/4_92.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/4_92.png"}
+{"image_path": "test/Ungood/img/10_57.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/10_57.png"}
+{"image_path": "test/Ungood/img/4_121.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/4_121.png"}
+{"image_path": "test/Ungood/img/9_39.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/9_39.png"}
+{"image_path": "test/Ungood/img/5_73.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/5_73.png"}
+{"image_path": "test/Ungood/img/3_65.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_65.png"}
+{"image_path": "test/Ungood/img/8_25.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/8_25.png"}
+{"image_path": "test/Ungood/img/9_38.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/9_38.png"}
+{"image_path": "test/Ungood/img/3_120.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_120.png"}
+{"image_path": "test/Ungood/img/3_110.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_110.png"}
+{"image_path": "test/Ungood/img/5_77.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/5_77.png"}
+{"image_path": "test/Ungood/img/7_91.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/7_91.png"}
+{"image_path": "test/Ungood/img/9_93.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/9_93.png"}
+{"image_path": "test/Ungood/img/15_57.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/15_57.png"}
+{"image_path": "test/Ungood/img/2_55.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/2_55.png"}
+{"image_path": "test/Ungood/img/8_108.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/8_108.png"}
+{"image_path": "test/Ungood/img/8_87.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/8_87.png"}
+{"image_path": "test/Ungood/img/13_83.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/13_83.png"}
+{"image_path": "test/Ungood/img/8_63.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/8_63.png"}
+{"image_path": "test/Ungood/img/2_83.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/2_83.png"}
+{"image_path": "test/Ungood/img/2_62.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/2_62.png"}
+{"image_path": "test/Ungood/img/8_55.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/8_55.png"}
+{"image_path": "test/Ungood/img/13_57.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/13_57.png"}
+{"image_path": "test/Ungood/img/3_114.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_114.png"}
+{"image_path": "test/Ungood/img/8_48.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/8_48.png"}
+{"image_path": "test/Ungood/img/7_86.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/7_86.png"}
+{"image_path": "test/Ungood/img/2_79.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/2_79.png"}
+{"image_path": "test/Ungood/img/9_68.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/9_68.png"}
+{"image_path": "test/Ungood/img/12_59.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/12_59.png"}
+{"image_path": "test/Ungood/img/13_64.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/13_64.png"}
+{"image_path": "test/Ungood/img/6_68.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/6_68.png"}
+{"image_path": "test/Ungood/img/3_15.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_15.png"}
+{"image_path": "test/Ungood/img/4_109.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/4_109.png"}
+{"image_path": "test/Ungood/img/13_90.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/13_90.png"}
+{"image_path": "test/Ungood/img/12_79.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/12_79.png"}
+{"image_path": "test/Ungood/img/9_71.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/9_71.png"}
+{"image_path": "test/Ungood/img/11_72.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/11_72.png"}
+{"image_path": "test/Ungood/img/13_56.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/13_56.png"}
+{"image_path": "test/Ungood/img/3_66.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_66.png"}
+{"image_path": "test/Ungood/img/3_118.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_118.png"}
+{"image_path": "test/Ungood/img/12_56.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/12_56.png"}
+{"image_path": "test/Ungood/img/11_77.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/11_77.png"}
+{"image_path": "test/Ungood/img/3_68.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_68.png"}
+{"image_path": "test/Ungood/img/4_85.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/4_85.png"}
+{"image_path": "test/Ungood/img/10_51.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/10_51.png"}
+{"image_path": "test/Ungood/img/5_55.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/5_55.png"}
+{"image_path": "test/Ungood/img/9_37.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/9_37.png"}
+{"image_path": "test/Ungood/img/8_79.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/8_79.png"}
+{"image_path": "test/Ungood/img/13_92.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/13_92.png"}
+{"image_path": "test/Ungood/img/2_61.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/2_61.png"}
+{"image_path": "test/Ungood/img/10_44.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/10_44.png"}
+{"image_path": "test/Ungood/img/8_53.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/8_53.png"}
+{"image_path": "test/Ungood/img/6_60.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/6_60.png"}
+{"image_path": "test/Ungood/img/8_77.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/8_77.png"}
+{"image_path": "test/Ungood/img/8_106.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/8_106.png"}
+{"image_path": "test/Ungood/img/2_73.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/2_73.png"}
+{"image_path": "test/Ungood/img/9_48.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/9_48.png"}
+{"image_path": "test/Ungood/img/7_80.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/7_80.png"}
+{"image_path": "test/Ungood/img/3_61.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_61.png"}
+{"image_path": "test/Ungood/img/9_56.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/9_56.png"}
+{"image_path": "test/Ungood/img/10_54.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/10_54.png"}
+{"image_path": "test/Ungood/img/3_102.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_102.png"}
+{"image_path": "test/Ungood/img/6_63.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/6_63.png"}
+{"image_path": "test/Ungood/img/11_45.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/11_45.png"}
+{"image_path": "test/Ungood/img/12_80.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/12_80.png"}
+{"image_path": "test/Ungood/img/9_60.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/9_60.png"}
+{"image_path": "test/Ungood/img/3_42.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_42.png"}
+{"image_path": "test/Ungood/img/2_52.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/2_52.png"}
+{"image_path": "test/Ungood/img/7_70.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/7_70.png"}
+{"image_path": "test/Ungood/img/11_89.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/11_89.png"}
+{"image_path": "test/Ungood/img/13_47.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/13_47.png"}
+{"image_path": "test/Ungood/img/12_72.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/12_72.png"}
+{"image_path": "test/Ungood/img/5_97.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/5_97.png"}
+{"image_path": "test/Ungood/img/9_62.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/9_62.png"}
+{"image_path": "test/Ungood/img/4_66.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/4_66.png"}
+{"image_path": "test/Ungood/img/8_39.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/8_39.png"}
+{"image_path": "test/Ungood/img/8_84.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/8_84.png"}
+{"image_path": "test/Ungood/img/1_66.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/1_66.png"}
+{"image_path": "test/Ungood/img/13_80.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/13_80.png"}
+{"image_path": "test/Ungood/img/10_41.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/10_41.png"}
+{"image_path": "test/Ungood/img/15_59.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/15_59.png"}
+{"image_path": "test/Ungood/img/4_67.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/4_67.png"}
+{"image_path": "test/Ungood/img/3_119.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_119.png"}
+{"image_path": "test/Ungood/img/11_95.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/11_95.png"}
+{"image_path": "test/Ungood/img/5_58.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/5_58.png"}
+{"image_path": "test/Ungood/img/5_65.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/5_65.png"}
+{"image_path": "test/Ungood/img/2_47.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/2_47.png"}
+{"image_path": "test/Ungood/img/10_58.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/10_58.png"}
+{"image_path": "test/Ungood/img/3_34.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_34.png"}
+{"image_path": "test/Ungood/img/8_27.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/8_27.png"}
+{"image_path": "test/Ungood/img/3_111.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_111.png"}
+{"image_path": "test/Ungood/img/10_75.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/10_75.png"}
+{"image_path": "test/Ungood/img/12_68.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/12_68.png"}
+{"image_path": "test/Ungood/img/10_86.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/10_86.png"}
+{"image_path": "test/Ungood/img/13_89.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/13_89.png"}
+{"image_path": "test/Ungood/img/12_69.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/12_69.png"}
+{"image_path": "test/Ungood/img/12_81.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/12_81.png"}
+{"image_path": "test/Ungood/img/2_66.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/2_66.png"}
+{"image_path": "test/Ungood/img/4_123.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/4_123.png"}
+{"image_path": "test/Ungood/img/12_65.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/12_65.png"}
+{"image_path": "test/Ungood/img/4_122.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/4_122.png"}
+{"image_path": "test/Ungood/img/7_90.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/7_90.png"}
+{"image_path": "test/Ungood/img/3_116.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_116.png"}
+{"image_path": "test/Ungood/img/4_53.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/4_53.png"}
+{"image_path": "test/Ungood/img/7_81.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/7_81.png"}
+{"image_path": "test/Ungood/img/8_90.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/8_90.png"}
+{"image_path": "test/Ungood/img/1_59.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/1_59.png"}
+{"image_path": "test/Ungood/img/8_42.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/8_42.png"}
+{"image_path": "test/Ungood/img/11_82.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/11_82.png"}
+{"image_path": "test/Ungood/img/1_30.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/1_30.png"}
+{"image_path": "test/Ungood/img/15_60.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/15_60.png"}
+{"image_path": "test/Ungood/img/5_96.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/5_96.png"}
+{"image_path": "test/Ungood/img/12_38.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/12_38.png"}
+{"image_path": "test/Ungood/img/10_77.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/10_77.png"}
+{"image_path": "test/Ungood/img/8_88.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/8_88.png"}
+{"image_path": "test/Ungood/img/12_86.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/12_86.png"}
+{"image_path": "test/Ungood/img/3_62.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_62.png"}
+{"image_path": "test/Ungood/img/4_115.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/4_115.png"}
+{"image_path": "test/Ungood/img/10_82.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/10_82.png"}
+{"image_path": "test/Ungood/img/3_104.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_104.png"}
+{"image_path": "test/Ungood/img/10_55.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/10_55.png"}
+{"image_path": "test/Ungood/img/4_80.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/4_80.png"}
+{"image_path": "test/Ungood/img/4_96.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/4_96.png"}
+{"image_path": "test/Ungood/img/3_115.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_115.png"}
+{"image_path": "test/Ungood/img/7_71.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/7_71.png"}
+{"image_path": "test/Ungood/img/13_78.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/13_78.png"}
+{"image_path": "test/Ungood/img/10_45.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/10_45.png"}
+{"image_path": "test/Ungood/img/5_84.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/5_84.png"}
+{"image_path": "test/Ungood/img/3_59.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_59.png"}
+{"image_path": "test/Ungood/img/5_102.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/5_102.png"}
+{"image_path": "test/Ungood/img/1_46.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/1_46.png"}
+{"image_path": "test/Ungood/img/12_44.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/12_44.png"}
+{"image_path": "test/Ungood/img/4_62.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/4_62.png"}
+{"image_path": "test/Ungood/img/8_31.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/8_31.png"}
+{"image_path": "test/Ungood/img/6_56.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/6_56.png"}
+{"image_path": "test/Ungood/img/5_106.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/5_106.png"}
+{"image_path": "test/Ungood/img/3_49.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_49.png"}
+{"image_path": "test/Ungood/img/1_44.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/1_44.png"}
+{"image_path": "test/Ungood/img/3_25.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_25.png"}
+{"image_path": "test/Ungood/img/11_44.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/11_44.png"}
+{"image_path": "test/Ungood/img/11_56.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/11_56.png"}
+{"image_path": "test/Ungood/img/4_78.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/4_78.png"}
+{"image_path": "test/Ungood/img/3_73.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_73.png"}
+{"image_path": "test/Ungood/img/3_54.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_54.png"}
+{"image_path": "test/Ungood/img/3_84.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_84.png"}
+{"image_path": "test/Ungood/img/8_41.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/8_41.png"}
+{"image_path": "test/Ungood/img/8_110.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/8_110.png"}
+{"image_path": "test/Ungood/img/9_61.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/9_61.png"}
+{"image_path": "test/Ungood/img/1_43.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/1_43.png"}
+{"image_path": "test/Ungood/img/11_41.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/11_41.png"}
+{"image_path": "test/Ungood/img/9_42.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/9_42.png"}
+{"image_path": "test/Ungood/img/10_81.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/10_81.png"}
+{"image_path": "test/Ungood/img/9_30.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/9_30.png"}
+{"image_path": "test/Ungood/img/13_59.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/13_59.png"}
+{"image_path": "test/Ungood/img/1_48.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/1_48.png"}
+{"image_path": "test/Ungood/img/11_47.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/11_47.png"}
+{"image_path": "test/Ungood/img/8_30.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/8_30.png"}
+{"image_path": "test/Ungood/img/11_48.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/11_48.png"}
+{"image_path": "test/Ungood/img/3_112.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_112.png"}
+{"image_path": "test/Ungood/img/4_125.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/4_125.png"}
+{"image_path": "test/Ungood/img/12_51.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/12_51.png"}
+{"image_path": "test/Ungood/img/2_71.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/2_71.png"}
+{"image_path": "test/Ungood/img/12_58.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/12_58.png"}
+{"image_path": "test/Ungood/img/8_59.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/8_59.png"}
+{"image_path": "test/Ungood/img/6_70.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/6_70.png"}
+{"image_path": "test/Ungood/img/2_86.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/2_86.png"}
+{"image_path": "test/Ungood/img/11_96.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/11_96.png"}
+{"image_path": "test/Ungood/img/3_41.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_41.png"}
+{"image_path": "test/Ungood/img/3_16.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_16.png"}
+{"image_path": "test/Ungood/img/11_68.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/11_68.png"}
+{"image_path": "test/Ungood/img/10_63.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/10_63.png"}
+{"image_path": "test/Ungood/img/5_33.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/5_33.png"}
+{"image_path": "test/Ungood/img/5_89.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/5_89.png"}
+{"image_path": "test/Ungood/img/3_51.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_51.png"}
+{"image_path": "test/Ungood/img/5_85.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/5_85.png"}
+{"image_path": "test/Ungood/img/2_54.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/2_54.png"}
+{"image_path": "test/Ungood/img/9_55.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/9_55.png"}
+{"image_path": "test/Ungood/img/1_34.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/1_34.png"}
+{"image_path": "test/Ungood/img/2_89.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/2_89.png"}
+{"image_path": "test/Ungood/img/4_70.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/4_70.png"}
+{"image_path": "test/Ungood/img/12_46.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/12_46.png"}
+{"image_path": "test/Ungood/img/11_53.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/11_53.png"}
+{"image_path": "test/Ungood/img/3_38.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_38.png"}
+{"image_path": "test/Ungood/img/7_85.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/7_85.png"}
+{"image_path": "test/Ungood/img/3_36.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_36.png"}
+{"image_path": "test/Ungood/img/13_97.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/13_97.png"}
+{"image_path": "test/Ungood/img/10_79.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/10_79.png"}
+{"image_path": "test/Ungood/img/3_55.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_55.png"}
+{"image_path": "test/Ungood/img/13_50.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/13_50.png"}
+{"image_path": "test/Ungood/img/13_60.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/13_60.png"}
+{"image_path": "test/Ungood/img/5_99.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/5_99.png"}
+{"image_path": "test/Ungood/img/9_74.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/9_74.png"}
+{"image_path": "test/Ungood/img/11_91.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/11_91.png"}
+{"image_path": "test/Ungood/img/3_74.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_74.png"}
+{"image_path": "test/Ungood/img/9_47.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/9_47.png"}
+{"image_path": "test/Ungood/img/3_94.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_94.png"}
+{"image_path": "test/Ungood/img/12_47.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/12_47.png"}
+{"image_path": "test/Ungood/img/11_62.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/11_62.png"}
+{"image_path": "test/Ungood/img/3_113.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_113.png"}
+{"image_path": "test/Ungood/img/9_84.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/9_84.png"}
+{"image_path": "test/Ungood/img/3_44.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_44.png"}
+{"image_path": "test/Ungood/img/10_46.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/10_46.png"}
+{"image_path": "test/Ungood/img/3_64.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_64.png"}
+{"image_path": "test/Ungood/img/5_47.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/5_47.png"}
+{"image_path": "test/Ungood/img/3_98.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_98.png"}
+{"image_path": "test/Ungood/img/8_113.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/8_113.png"}
+{"image_path": "test/Ungood/img/1_27.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/1_27.png"}
+{"image_path": "test/Ungood/img/10_61.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/10_61.png"}
+{"image_path": "test/Ungood/img/2_49.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/2_49.png"}
+{"image_path": "test/Ungood/img/4_93.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/4_93.png"}
+{"image_path": "test/Ungood/img/6_78.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/6_78.png"}
+{"image_path": "test/Ungood/img/5_45.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/5_45.png"}
+{"image_path": "test/Ungood/img/3_26.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_26.png"}
+{"image_path": "test/Ungood/img/9_44.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/9_44.png"}
+{"image_path": "test/Ungood/img/11_55.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/11_55.png"}
+{"image_path": "test/Ungood/img/2_59.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/2_59.png"}
+{"image_path": "test/Ungood/img/6_59.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/6_59.png"}
+{"image_path": "test/Ungood/img/6_57.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/6_57.png"}
+{"image_path": "test/Ungood/img/6_76.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/6_76.png"}
+{"image_path": "test/Ungood/img/12_57.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/12_57.png"}
+{"image_path": "test/Ungood/img/7_73.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/7_73.png"}
+{"image_path": "test/Ungood/img/4_77.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/4_77.png"}
+{"image_path": "test/Ungood/img/9_50.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/9_50.png"}
+{"image_path": "test/Ungood/img/8_38.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/8_38.png"}
+{"image_path": "test/Ungood/img/2_50.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/2_50.png"}
+{"image_path": "test/Ungood/img/13_93.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/13_93.png"}
+{"image_path": "test/Ungood/img/5_63.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/5_63.png"}
+{"image_path": "test/Ungood/img/3_24.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_24.png"}
+{"image_path": "test/Ungood/img/13_94.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/13_94.png"}
+{"image_path": "test/Ungood/img/4_99.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/4_99.png"}
+{"image_path": "test/Ungood/img/13_52.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/13_52.png"}
+{"image_path": "test/Ungood/img/9_89.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/9_89.png"}
+{"image_path": "test/Ungood/img/3_79.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_79.png"}
+{"image_path": "test/Ungood/img/10_71.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/10_71.png"}
+{"image_path": "test/Ungood/img/5_60.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/5_60.png"}
+{"image_path": "test/Ungood/img/12_50.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/12_50.png"}
+{"image_path": "test/Ungood/img/5_57.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/5_57.png"}
+{"image_path": "test/Ungood/img/5_109.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/5_109.png"}
+{"image_path": "test/Ungood/img/3_91.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_91.png"}
+{"image_path": "test/Ungood/img/13_76.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/13_76.png"}
+{"image_path": "test/Ungood/img/5_74.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/5_74.png"}
+{"image_path": "test/Ungood/img/8_58.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/8_58.png"}
+{"image_path": "test/Ungood/img/4_57.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/4_57.png"}
+{"image_path": "test/Ungood/img/1_60.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/1_60.png"}
+{"image_path": "test/Ungood/img/8_102.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/8_102.png"}
+{"image_path": "test/Ungood/img/2_38.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/2_38.png"}
+{"image_path": "test/Ungood/img/5_35.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/5_35.png"}
+{"image_path": "test/Ungood/img/2_92.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/2_92.png"}
+{"image_path": "test/Ungood/img/9_36.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/9_36.png"}
+{"image_path": "test/Ungood/img/14_61.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/14_61.png"}
+{"image_path": "test/Ungood/img/1_54.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/1_54.png"}
+{"image_path": "test/Ungood/img/4_79.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/4_79.png"}
+{"image_path": "test/Ungood/img/5_100.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/5_100.png"}
+{"image_path": "test/Ungood/img/12_82.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/12_82.png"}
+{"image_path": "test/Ungood/img/9_65.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/9_65.png"}
+{"image_path": "test/Ungood/img/6_73.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/6_73.png"}
+{"image_path": "test/Ungood/img/3_108.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_108.png"}
+{"image_path": "test/Ungood/img/12_92.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/12_92.png"}
+{"image_path": "test/Ungood/img/9_49.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/9_49.png"}
+{"image_path": "test/Ungood/img/2_42.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/2_42.png"}
+{"image_path": "test/Ungood/img/3_35.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_35.png"}
+{"image_path": "test/Ungood/img/12_66.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/12_66.png"}
+{"image_path": "test/Ungood/img/8_60.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/8_60.png"}
+{"image_path": "test/Ungood/img/3_101.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_101.png"}
+{"image_path": "test/Ungood/img/13_68.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/13_68.png"}
+{"image_path": "test/Ungood/img/9_32.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/9_32.png"}
+{"image_path": "test/Ungood/img/5_126.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/5_126.png"}
+{"image_path": "test/Ungood/img/4_90.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/4_90.png"}
+{"image_path": "test/Ungood/img/10_65.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/10_65.png"}
+{"image_path": "test/Ungood/img/5_120.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/5_120.png"}
+{"image_path": "test/Ungood/img/8_66.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/8_66.png"}
+{"image_path": "test/Ungood/img/1_41.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/1_41.png"}
+{"image_path": "test/Ungood/img/9_81.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/9_81.png"}
+{"image_path": "test/Ungood/img/1_49.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/1_49.png"}
+{"image_path": "test/Ungood/img/5_62.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/5_62.png"}
+{"image_path": "test/Ungood/img/9_29.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/9_29.png"}
+{"image_path": "test/Ungood/img/10_56.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/10_56.png"}
+{"image_path": "test/Ungood/img/13_54.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/13_54.png"}
+{"image_path": "test/Ungood/img/8_34.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/8_34.png"}
+{"image_path": "test/Ungood/img/11_76.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/11_76.png"}
+{"image_path": "test/Ungood/img/11_74.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/11_74.png"}
+{"image_path": "test/Ungood/img/2_84.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/2_84.png"}
+{"image_path": "test/Ungood/img/9_33.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/9_33.png"}
+{"image_path": "test/Ungood/img/7_82.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/7_82.png"}
+{"image_path": "test/Ungood/img/9_35.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/9_35.png"}
+{"image_path": "test/Ungood/img/11_52.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/11_52.png"}
+{"image_path": "test/Ungood/img/12_83.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/12_83.png"}
+{"image_path": "test/Ungood/img/10_85.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/10_85.png"}
+{"image_path": "test/Ungood/img/2_40.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/2_40.png"}
+{"image_path": "test/Ungood/img/10_72.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/10_72.png"}
+{"image_path": "test/Ungood/img/8_70.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/8_70.png"}
+{"image_path": "test/Ungood/img/11_57.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/11_57.png"}
+{"image_path": "test/Ungood/img/6_54.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/6_54.png"}
+{"image_path": "test/Ungood/img/12_42.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/12_42.png"}
+{"image_path": "test/Ungood/img/3_87.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_87.png"}
+{"image_path": "test/Ungood/img/13_81.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/13_81.png"}
+{"image_path": "test/Ungood/img/5_118.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/5_118.png"}
+{"image_path": "test/Ungood/img/9_41.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/9_41.png"}
+{"image_path": "test/Ungood/img/1_42.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/1_42.png"}
+{"image_path": "test/Ungood/img/3_92.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_92.png"}
+{"image_path": "test/Ungood/img/8_52.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/8_52.png"}
+{"image_path": "test/Ungood/img/3_48.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_48.png"}
+{"image_path": "test/Ungood/img/1_32.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/1_32.png"}
+{"image_path": "test/Ungood/img/2_60.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/2_60.png"}
+{"image_path": "test/Ungood/img/5_59.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/5_59.png"}
+{"image_path": "test/Ungood/img/1_47.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/1_47.png"}
+{"image_path": "test/Ungood/img/13_69.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/13_69.png"}
+{"image_path": "test/Ungood/img/1_67.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/1_67.png"}
+{"image_path": "test/Ungood/img/9_72.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/9_72.png"}
+{"image_path": "test/Ungood/img/4_65.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/4_65.png"}
+{"image_path": "test/Ungood/img/10_80.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/10_80.png"}
+{"image_path": "test/Ungood/img/8_43.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/8_43.png"}
+{"image_path": "test/Ungood/img/4_76.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/4_76.png"}
+{"image_path": "test/Ungood/img/11_66.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/11_66.png"}
+{"image_path": "test/Ungood/img/9_45.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/9_45.png"}
+{"image_path": "test/Ungood/img/3_46.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_46.png"}
+{"image_path": "test/Ungood/img/3_43.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_43.png"}
+{"image_path": "test/Ungood/img/4_103.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/4_103.png"}
+{"image_path": "test/Ungood/img/2_94.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/2_94.png"}
+{"image_path": "test/Ungood/img/5_90.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/5_90.png"}
+{"image_path": "test/Ungood/img/5_108.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/5_108.png"}
+{"image_path": "test/Ungood/img/6_79.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/6_79.png"}
+{"image_path": "test/Ungood/img/9_69.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/9_69.png"}
+{"image_path": "test/Ungood/img/5_69.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/5_69.png"}
+{"image_path": "test/Ungood/img/8_93.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/8_93.png"}
+{"image_path": "test/Ungood/img/12_89.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/12_89.png"}
+{"image_path": "test/Ungood/img/13_91.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/13_91.png"}
+{"image_path": "test/Ungood/img/5_43.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/5_43.png"}
+{"image_path": "test/Ungood/img/13_46.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/13_46.png"}
+{"image_path": "test/Ungood/img/9_57.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/9_57.png"}
+{"image_path": "test/Ungood/img/3_109.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_109.png"}
+{"image_path": "test/Ungood/img/2_48.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/2_48.png"}
+{"image_path": "test/Ungood/img/10_78.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/10_78.png"}
+{"image_path": "test/Ungood/img/2_51.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/2_51.png"}
+{"image_path": "test/Ungood/img/1_39.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/1_39.png"}
+{"image_path": "test/Ungood/img/11_80.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/11_80.png"}
+{"image_path": "test/Ungood/img/8_81.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/8_81.png"}
+{"image_path": "test/Ungood/img/8_112.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/8_112.png"}
+{"image_path": "test/Ungood/img/12_54.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/12_54.png"}
+{"image_path": "test/Ungood/img/4_74.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/4_74.png"}
+{"image_path": "test/Ungood/img/9_98.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/9_98.png"}
+{"image_path": "test/Ungood/img/3_40.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_40.png"}
+{"image_path": "test/Ungood/img/10_42.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/10_42.png"}
+{"image_path": "test/Ungood/img/3_71.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_71.png"}
+{"image_path": "test/Ungood/img/3_82.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_82.png"}
+{"image_path": "test/Ungood/img/10_74.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/10_74.png"}
+{"image_path": "test/Ungood/img/5_31.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/5_31.png"}
+{"image_path": "test/Ungood/img/4_111.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/4_111.png"}
+{"image_path": "test/Ungood/img/11_61.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/11_61.png"}
+{"image_path": "test/Ungood/img/1_35.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/1_35.png"}
+{"image_path": "test/Ungood/img/8_96.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/8_96.png"}
+{"image_path": "test/Ungood/img/5_64.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/5_64.png"}
+{"image_path": "test/Ungood/img/8_69.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/8_69.png"}
+{"image_path": "test/Ungood/img/8_91.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/8_91.png"}
+{"image_path": "test/Ungood/img/1_23.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/1_23.png"}
+{"image_path": "test/Ungood/img/2_53.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/2_53.png"}
+{"image_path": "test/Ungood/img/3_103.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_103.png"}
+{"image_path": "test/Ungood/img/5_115.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/5_115.png"}
+{"image_path": "test/Ungood/img/5_103.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/5_103.png"}
+{"image_path": "test/Ungood/img/5_83.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/5_83.png"}
+{"image_path": "test/Ungood/img/5_95.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/5_95.png"}
+{"image_path": "test/Ungood/img/5_124.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/5_124.png"}
+{"image_path": "test/Ungood/img/13_70.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/13_70.png"}
+{"image_path": "test/Ungood/img/4_105.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/4_105.png"}
+{"image_path": "test/Ungood/img/13_74.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/13_74.png"}
+{"image_path": "test/Ungood/img/8_26.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/8_26.png"}
+{"image_path": "test/Ungood/img/6_64.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/6_64.png"}
+{"image_path": "test/Ungood/img/8_72.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/8_72.png"}
+{"image_path": "test/Ungood/img/5_82.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/5_82.png"}
+{"image_path": "test/Ungood/img/12_49.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/12_49.png"}
+{"image_path": "test/Ungood/img/5_53.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/5_53.png"}
+{"image_path": "test/Ungood/img/2_95.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/2_95.png"}
+{"image_path": "test/Ungood/img/12_41.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/12_41.png"}
+{"image_path": "test/Ungood/img/3_47.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_47.png"}
+{"image_path": "test/Ungood/img/10_53.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/10_53.png"}
+{"image_path": "test/Ungood/img/8_35.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/8_35.png"}
+{"image_path": "test/Ungood/img/4_118.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/4_118.png"}
+{"image_path": "test/Ungood/img/4_117.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/4_117.png"}
+{"image_path": "test/Ungood/img/2_68.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/2_68.png"}
+{"image_path": "test/Ungood/img/3_99.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_99.png"}
+{"image_path": "test/Ungood/img/6_82.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/6_82.png"}
+{"image_path": "test/Ungood/img/11_50.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/11_50.png"}
+{"image_path": "test/Ungood/img/8_65.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/8_65.png"}
+{"image_path": "test/Ungood/img/8_111.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/8_111.png"}
+{"image_path": "test/Ungood/img/10_87.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/10_87.png"}
+{"image_path": "test/Ungood/img/4_101.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/4_101.png"}
+{"image_path": "test/Ungood/img/5_52.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/5_52.png"}
+{"image_path": "test/Ungood/img/8_71.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/8_71.png"}
+{"image_path": "test/Ungood/img/5_54.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/5_54.png"}
+{"image_path": "test/Ungood/img/3_80.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_80.png"}
+{"image_path": "test/Ungood/img/5_121.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/5_121.png"}
+{"image_path": "test/Ungood/img/8_107.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/8_107.png"}
+{"image_path": "test/Ungood/img/8_99.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/8_99.png"}
+{"image_path": "test/Ungood/img/2_41.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/2_41.png"}
+{"image_path": "test/Ungood/img/12_73.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/12_73.png"}
+{"image_path": "test/Ungood/img/9_99.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/9_99.png"}
+{"image_path": "test/Ungood/img/13_72.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/13_72.png"}
+{"image_path": "test/Ungood/img/2_58.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/2_58.png"}
+{"image_path": "test/Ungood/img/10_84.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/10_84.png"}
+{"image_path": "test/Ungood/img/12_60.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/12_60.png"}
+{"image_path": "test/Ungood/img/4_120.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/4_120.png"}
+{"image_path": "test/Ungood/img/10_48.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/10_48.png"}
+{"image_path": "test/Ungood/img/14_60.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/14_60.png"}
+{"image_path": "test/Ungood/img/12_85.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/12_85.png"}
+{"image_path": "test/Ungood/img/13_65.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/13_65.png"}
+{"image_path": "test/Ungood/img/12_39.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/12_39.png"}
+{"image_path": "test/Ungood/img/5_41.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/5_41.png"}
+{"image_path": "test/Ungood/img/8_45.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/8_45.png"}
+{"image_path": "test/Ungood/img/6_74.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/6_74.png"}
+{"image_path": "test/Ungood/img/4_128.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/4_128.png"}
+{"image_path": "test/Ungood/img/5_67.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/5_67.png"}
+{"image_path": "test/Ungood/img/8_75.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/8_75.png"}
+{"image_path": "test/Ungood/img/11_43.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/11_43.png"}
+{"image_path": "test/Ungood/img/3_19.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/3_19.png"}
+{"image_path": "test/Ungood/img/5_122.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/5_122.png"}
+{"image_path": "test/Ungood/img/13_67.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/13_67.png"}
+{"image_path": "test/Ungood/img/10_67.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/10_67.png"}
+{"image_path": "test/Ungood/img/2_77.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/2_77.png"}
+{"image_path": "test/Ungood/img/4_112.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/4_112.png"}
+{"image_path": "test/Ungood/img/1_31.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/1_31.png"}
+{"image_path": "test/Ungood/img/4_114.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/4_114.png"}
+{"image_path": "test/Ungood/img/15_61.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/15_61.png"}
+{"image_path": "test/Ungood/img/4_127.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/4_127.png"}
+{"image_path": "test/Ungood/img/15_62.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/15_62.png"}
+{"image_path": "test/Ungood/img/2_70.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/2_70.png"}
+{"image_path": "test/Ungood/img/5_78.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/5_78.png"}
+{"image_path": "test/Ungood/img/5_111.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/5_111.png"}
+{"image_path": "test/Ungood/img/13_49.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/13_49.png"}
+{"image_path": "test/Ungood/img/7_74.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/7_74.png"}
+{"image_path": "test/Ungood/img/13_61.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/13_61.png"}
+{"image_path": "test/Ungood/img/10_73.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/10_73.png"}
+{"image_path": "test/Ungood/img/13_58.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/13_58.png"}
+{"image_path": "test/Ungood/img/9_54.png", "label": 1.0, "class_name": "Retina", "mask_path": "test/Ungood/label/9_54.png"}
+{"image_path": "test/good/img/15_115.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/4_9.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/10_4.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/10_40.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_30.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_17.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_98.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/12_111.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_106.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/2_17.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_127.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/3_4.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/11_100.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/2_109.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_119.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/13_23.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_15.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_45.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/13_122.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/9_125.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_76.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/13_37.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/1_72.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/2_120.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/9_20.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/2_115.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_111.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/1_96.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_13.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/9_4.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/4_38.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/4_3.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_54.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/12_31.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/13_26.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/10_31.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_126.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/13_104.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/12_17.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/11_36.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_83.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/2_15.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/10_99.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/12_7.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/1_13.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/11_108.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_69.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/8_4.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/8_23.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_53.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/1_19.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/11_14.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/2_102.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_48.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_11.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_44.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/8_11.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_2.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/12_23.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_30.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/13_24.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/4_33.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/2_126.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_72.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/9_122.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/1_117.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/2_19.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_8.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/12_9.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_46.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_45.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/11_7.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/10_108.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_119.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_34.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/2_16.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/2_116.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/2_7.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/13_27.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_36.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_6.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_49.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_77.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/10_103.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/4_19.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_75.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/2_2.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/1_111.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_14.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/10_109.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/4_50.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/4_31.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/4_39.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_68.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_51.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_102.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/10_35.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_95.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_5.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/10_95.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/12_110.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/8_6.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/12_121.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_26.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_45.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_107.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_10.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_79.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/12_18.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_62.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/11_122.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/4_45.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/8_3.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_38.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/10_125.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/2_26.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/11_6.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/4_10.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/2_6.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/9_19.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/13_1.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_24.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_110.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_101.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/9_120.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_18.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/5_26.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/13_100.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/10_115.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/1_113.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/4_43.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_85.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/13_44.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_117.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/11_110.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/9_25.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_78.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/2_110.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_127.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/9_5.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/1_121.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_97.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/11_30.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/1_80.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_111.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_27.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/4_21.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_65.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/10_20.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/2_119.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/2_122.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_100.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/1_75.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/4_47.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/12_106.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_39.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/11_22.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_100.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_21.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_87.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/13_4.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/10_39.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_99.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_73.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/13_10.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/10_2.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/11_104.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/9_7.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/12_97.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_11.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/11_120.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/13_38.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/9_126.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/10_106.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/2_104.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_47.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_108.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/11_125.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_78.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/1_90.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/13_113.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/8_7.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_118.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_112.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/11_101.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/13_18.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_9.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/2_121.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_91.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/10_89.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/4_30.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/8_19.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_98.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_123.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/10_101.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/10_32.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/3_6.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/10_105.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/1_123.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_128.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/1_8.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_84.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_127.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/10_8.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/9_23.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_110.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_72.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/11_123.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/9_124.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/13_120.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_17.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/1_5.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_7.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/9_1.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/11_118.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/2_108.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/10_22.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/2_27.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_45.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/13_115.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_103.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_13.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_86.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_93.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_22.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/1_114.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_8.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/1_107.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/11_10.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/8_121.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/12_26.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/13_5.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/1_99.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/13_33.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/4_22.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/12_101.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_39.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/10_117.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/4_25.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/13_106.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/11_38.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/8_16.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_109.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/9_8.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_94.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_90.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_89.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_91.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/1_85.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_10.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/13_39.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/1_86.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_88.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_48.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_55.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/1_17.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_96.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/10_111.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/3_125.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_81.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_41.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/10_7.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_29.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_115.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/1_106.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_128.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_19.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/12_6.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_99.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/10_28.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/13_111.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/5_13.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/3_11.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_1.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_115.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_102.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/5_16.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_48.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_124.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/1_15.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/5_20.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/2_4.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/8_117.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/2_32.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/1_98.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/11_27.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/11_121.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/13_119.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_6.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_121.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_113.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/9_105.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_34.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/10_10.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/10_36.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_114.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/1_127.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/1_119.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_28.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_64.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/4_16.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/10_97.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/12_16.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/2_112.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_14.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_52.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/5_7.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_22.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_92.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/2_25.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_44.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_12.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/11_16.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/10_114.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/9_22.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/11_107.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_119.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_12.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/12_120.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_81.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_49.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/12_4.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/13_116.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/2_21.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_104.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_100.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_102.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_68.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_40.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_4.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/13_112.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/12_2.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_112.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_16.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/11_126.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/13_7.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/4_34.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_118.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_32.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_19.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_103.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/5_15.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/2_101.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/9_113.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/13_29.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/13_114.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_12.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_19.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/11_23.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/12_37.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_93.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/12_123.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/13_103.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/13_118.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/2_8.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_113.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_122.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_124.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/2_22.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_30.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_71.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_85.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/5_10.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_118.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/12_10.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/1_7.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_102.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_9.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/10_19.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/1_18.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_126.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/2_127.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/13_127.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_95.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/10_1.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/1_6.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/8_14.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_54.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/8_1.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/3_127.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_48.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/8_17.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/5_3.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/2_106.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/13_22.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_23.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/1_115.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_37.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_113.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_49.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_128.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/12_13.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_27.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_99.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/10_102.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/11_97.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/4_44.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/1_88.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_31.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/13_42.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_127.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_6.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/13_17.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/9_114.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_108.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_74.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_67.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/8_8.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/2_111.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_71.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/2_24.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/13_11.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_82.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/10_38.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/13_8.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/12_103.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_87.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_43.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/8_123.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/2_123.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/13_43.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/3_2.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/1_93.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_51.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_123.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_90.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_24.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/2_12.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/5_2.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/5_25.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_108.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/8_127.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_69.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/8_119.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_15.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/10_118.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/11_13.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/11_105.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_105.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_28.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/11_117.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_55.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_114.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_65.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_21.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_97.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_67.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/10_3.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/1_102.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/5_5.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_28.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_112.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_112.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_25.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_92.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/11_112.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/10_100.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_116.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/13_102.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/12_5.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_92.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/3_126.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/2_33.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/2_3.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/12_30.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_73.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_50.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/11_114.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_105.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/10_94.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/10_29.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/12_3.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/8_118.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_42.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_125.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/11_32.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_51.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/9_116.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/12_29.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/4_2.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_118.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_3.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/9_128.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/11_127.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/12_100.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/11_116.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/3_14.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/1_87.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_105.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/12_27.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/1_71.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/2_18.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/12_12.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_117.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_114.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_54.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/12_33.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/4_12.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/12_95.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/11_12.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/1_108.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/11_37.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_116.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/1_76.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_20.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_9.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/12_109.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/8_18.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/12_21.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/1_81.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/11_1.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/12_119.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/10_5.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_125.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_84.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_23.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_46.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/10_90.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/13_128.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/12_22.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_121.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/2_37.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/9_14.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_91.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_96.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/8_120.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_59.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/5_14.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/2_114.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_35.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_94.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/12_122.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/10_123.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_87.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/8_124.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/12_36.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/1_79.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_57.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/9_12.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_31.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_97.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/12_99.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/12_115.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_77.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/1_118.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_79.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_42.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_37.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_14.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/12_128.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_32.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_56.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/4_32.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/2_36.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/9_103.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_38.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/13_34.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/9_16.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/11_28.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/4_37.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/5_23.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/13_41.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_5.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/13_108.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_18.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_64.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/11_34.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/13_2.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/4_24.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/10_6.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_53.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_65.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/4_35.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_106.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/10_127.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_13.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/5_8.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/9_11.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/12_127.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/1_105.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/13_107.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/13_124.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/9_101.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/12_107.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_41.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_11.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/13_40.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/11_20.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/2_105.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/12_34.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/8_125.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/10_104.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_22.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_116.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/9_10.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_24.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_2.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_120.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_83.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/10_107.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/2_125.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/12_113.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/9_24.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/1_84.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_70.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/10_121.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/10_93.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_52.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/13_14.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/10_126.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_96.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/10_34.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_128.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/1_70.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/4_40.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/2_100.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_38.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_101.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_98.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/2_29.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_14.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/9_102.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/12_98.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/12_105.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/11_5.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_20.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/11_113.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_80.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/1_73.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_16.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/10_26.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/2_118.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_121.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/12_32.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_111.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_34.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_7.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_114.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_40.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/13_19.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/2_113.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_4.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/4_8.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_6.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_33.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/4_27.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_41.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/2_128.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/4_6.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/2_23.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_10.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_69.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_27.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_2.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_88.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_50.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/9_2.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/1_4.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_44.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/4_18.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/10_98.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_20.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/13_21.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/5_11.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/1_78.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_89.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/9_117.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_75.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/13_117.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/13_110.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/5_1.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/9_121.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_104.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/3_3.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_38.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/5_24.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_109.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/1_69.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_29.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/8_5.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_104.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_50.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/1_116.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/10_23.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_43.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/2_35.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/11_98.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_4.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_60.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/10_27.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/13_125.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_46.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_92.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/11_21.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_27.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/11_119.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/13_109.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/5_29.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/12_116.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_93.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_39.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_36.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_122.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/1_97.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/1_112.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/12_28.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/2_34.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_33.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_68.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_30.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/12_118.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/4_13.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/12_8.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/8_126.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_2.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_23.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_84.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/13_98.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/10_119.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_97.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/9_15.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_52.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/11_17.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/5_17.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_44.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_36.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/8_13.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_26.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/12_102.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/13_121.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_100.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/4_49.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/10_96.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/12_126.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_86.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/8_2.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/1_122.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/10_30.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/1_128.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/12_124.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/3_5.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_122.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_19.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/5_28.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/13_126.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_126.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/5_22.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/8_24.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/12_108.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/9_6.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/13_9.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/13_12.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/12_35.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/1_94.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/11_99.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/3_7.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/4_29.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/9_110.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_1.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/13_30.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_21.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_109.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_103.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/9_118.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/11_33.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_16.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_89.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/9_115.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/2_117.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_76.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/4_41.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_124.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/3_12.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/13_3.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/10_110.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/2_107.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_17.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/13_32.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/13_123.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/2_13.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_42.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/1_120.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_101.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_107.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/12_104.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_3.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/1_91.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/10_124.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_56.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/2_124.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_22.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/5_4.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/9_3.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/2_103.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/1_20.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/2_14.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_122.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/13_99.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_82.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_125.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/1_74.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_36.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_35.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_15.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/10_24.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/2_1.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/11_29.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_26.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/10_128.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_98.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/12_14.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/3_9.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/8_12.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_15.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/4_26.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/13_31.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/4_48.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/1_100.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/1_12.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_113.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/13_105.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/1_124.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_11.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_33.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/11_39.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/10_12.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/9_119.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_121.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_18.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_8.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/12_94.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_80.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_37.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/9_104.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/2_11.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/10_14.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_32.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/10_91.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/4_17.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/1_103.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_46.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_35.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_28.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_123.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_66.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_7.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/12_96.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_23.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/10_16.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_110.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_94.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/4_28.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/1_101.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_107.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_93.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_13.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_109.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/2_9.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_66.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/1_10.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/10_116.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_120.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_21.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_32.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_115.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_1.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/12_25.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/13_13.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_43.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_33.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/8_21.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_108.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/1_83.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/12_125.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_29.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/4_7.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_7.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_5.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_61.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/11_102.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_47.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_124.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/8_20.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_105.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/4_36.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/12_20.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_95.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_106.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/2_5.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_94.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/4_42.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_74.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/13_35.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/10_15.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_125.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_40.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_12.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/10_13.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/9_123.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/10_120.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/13_6.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/13_25.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_53.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/1_95.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/11_2.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/12_117.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/8_15.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/4_1.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_67.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_31.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_1.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/1_16.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/3_1.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/9_27.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_95.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/9_17.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/13_15.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_35.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/8_9.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_50.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_37.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/10_37.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/1_77.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_86.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_85.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/11_11.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/4_20.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/5_6.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/1_3.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/12_24.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_103.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/1_22.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/4_11.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/1_104.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_116.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/11_35.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_120.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/12_112.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/12_114.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/1_89.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/1_14.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/13_20.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_63.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_99.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_52.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/9_106.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/11_124.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/9_111.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/11_109.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_111.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/2_99.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/2_31.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/1_126.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/9_112.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_117.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_47.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_106.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/9_9.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/5_12.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/4_46.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/3_128.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_41.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/9_109.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/1_110.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_110.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_96.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_40.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/5_19.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_10.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_57.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/12_15.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/10_11.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/8_22.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_107.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/2_28.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/1_92.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/10_92.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/3_121.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_101.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_20.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/3_123.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/11_18.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/10_112.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/3_122.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_119.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/1_125.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_70.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/9_26.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/3_10.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/11_4.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_3.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/11_3.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_31.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/4_15.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/10_113.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/11_24.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_104.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_53.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/11_128.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/1_109.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_90.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_117.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/9_108.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/11_111.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/4_4.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/10_9.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/11_106.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_47.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/1_9.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_126.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/10_18.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/5_21.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_55.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/10_21.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/11_25.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/11_19.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/9_127.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_16.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/9_18.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_88.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_58.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_5.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_25.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_24.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_51.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_42.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/1_11.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/10_122.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/7_29.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/13_16.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/11_115.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_66.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/11_8.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/8_122.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/11_103.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/1_21.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_120.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/11_31.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/6_4.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/14_3.png", "label": 0.0, "class_name": "Retina"}
+{"image_path": "test/good/img/15_123.png", "label": 0.0, "class_name": "Retina"}
