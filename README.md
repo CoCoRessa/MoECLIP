@@ -71,13 +71,15 @@ bash scripts.sh
 
 ## BibTex Citation
 
-If you find this work helpful, please cite our paper.
+If you find this work helpful, please consider citing the following BibTeX entry.
 
-```
-@inproceedings{,
+```BibTex
+
+@inproceedings{junyeong2026moeclip,
   title={MoECLIP: Patch-Specialized Experts for Zero-shot Anomaly Detection},
-  author={},
-  booktitle={},
-  year={2025}
+  author={Jun Yeong Park, JunYoung Seo, Minji Kang, Yu Rang Park},
+  booktitle={Proceedings of the Computer Vision and Pattern Recognition Conference (CVPR)},
+  year={2026}
 }
+
 ```
