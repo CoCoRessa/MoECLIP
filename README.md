@@ -17,7 +17,7 @@ Comprehensive experimental results across 14 benchmark datasets spanning industr
 ## Quick Start 
 ### 1. Installation  
 ```bash
-cd moeclip
+cd MoECLIP
 conda create -n moeclip python=3.10.18 -y  
 conda activate moeclip  
 pip install -r requirements.txt  
