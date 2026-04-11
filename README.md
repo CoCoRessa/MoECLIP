@@ -39,9 +39,9 @@ To run the code, download the OpenCLIP [ViT-L-14-336px](https://drive.google.com
 ### 3. Training & Evaluation
 ```bash
 # training
-python train.py --save_path $save_path
+python train.py
 # evaluation
-python test.py --save_path $save_path --dataset $dataset
+python test.py
 # (Optional) bash script for training and evaluating all the datasets
 bash scripts.sh
 ```
