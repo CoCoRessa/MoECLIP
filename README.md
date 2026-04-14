@@ -1,5 +1,14 @@
 # MoECLIP: Patch-Specialized Experts for Zero-shot Anomaly Detection
- **[CVPR 2026 paper]**
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/CVPR-2026-blue" alt="CVPR 2026"></a>
+  <a href="https://arxiv.org/abs/2603.03101"><img src="https://img.shields.io/badge/arXiv-2603.07952-b31b1b" alt="arXiv"></a>
+</p>
+
+This is the official PyTorch implementation of:
+
+> **MoECLIP: Patch-Specialized Experts for Zero-shot Anomaly Detection**
+>
+> *CVPR 2026*
  
 ## Abstract
 &nbsp;&nbsp;The CLIP model's outstanding generalization has driven recent success in Zero-Shot Anomaly Detection (ZSAD) for detecting anomalies in unseen categories. 
