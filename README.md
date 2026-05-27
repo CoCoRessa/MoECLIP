@@ -1,6 +1,6 @@
 # MoECLIP: Patch-Specialized Experts for Zero-shot Anomaly Detection
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/CVPR-2026-blue" alt="CVPR 2026"></a>
+  <a href="https://openaccess.thecvf.com/content/CVPR2026/html/Park_MoECLIP_Patch-Specialized_Experts_for_Zero-shot_Anomaly_Detection_CVPR_2026_paper.html"><img src="https://img.shields.io/badge/CVPR-2026-blue" alt="CVPR 2026"></a>
   <a href="https://arxiv.org/abs/2603.03101"><img src="https://img.shields.io/badge/arXiv-2603.07952-b31b1b" alt="arXiv"></a>
 </p>
 
