@@ -84,11 +84,13 @@ If you find this work helpful, please consider citing the following BibTeX entry
 
 ```BibTex
 
-@inproceedings{junyeong2026moeclip,
-  title={MoECLIP: Patch-Specialized Experts for Zero-shot Anomaly Detection},
-  author={Jun Yeong Park, JunYoung Seo, Minji Kang, Yu Rang Park},
-  booktitle={Proceedings of the Computer Vision and Pattern Recognition Conference (CVPR)},
-  year={2026}
+@InProceedings{Park_2026_CVPR,
+    author    = {Park, Jun Yeong and Seo, JunYoung and Kang, Minji and Park, Yu Rang},
+    title     = {MoECLIP: Patch-Specialized Experts for Zero-shot Anomaly Detection},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2026},
+    pages     = {35534-35544}
 }
 
 ```
