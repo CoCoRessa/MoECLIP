@@ -73,6 +73,9 @@ def train_adapter(
 ):
 
     for epoch in range(start_epoch, end_epoch):
+        adapted_model.train()
+        adapted_model.clipmodel.eval()
+
         logger.info(f"training epoch {epoch+1}:")
 
         loss_list = []
