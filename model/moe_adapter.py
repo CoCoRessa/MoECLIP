@@ -200,7 +200,7 @@ class BaseIndependentMoE(nn.Module):
         all_expert_outputs = None
 
         if self.training:
-            alpha = getattr(self.config, "router_aux_loss_coef", 0.0)
+            alpha = getattr(self.config, "router_aux_loss_coef_", 0.0)
             if alpha > 0:
                 gate_sum = router_probs.sum(dim=0)
                 mean, std = gate_sum.mean(), gate_sum.std()
